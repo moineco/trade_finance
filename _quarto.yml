@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "International Trade and International Finance"
+  author: "Moinul Islam"
+  date: "9/16/2022"
+  chapters:
+    - index.qmd
+    - lecture_1.qmd
+    - lecture_2.qmd
+    - lecture_3.qmd
+    - lecture_4.qmd
+    - lecture_5.qmd
+    - lecture_6.qmd
+    - lecture_7.qmd
+    - lecture_8.qmd
+    - lecture_9.qmd
+    - lecture_10.qmd
+    - lecture_11.qmd
+    - lecture_12.qmd
+    - lecture_13.qmd
+    - lecture_14.qmd
+    - lecture_15.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
