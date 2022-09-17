@@ -35,11 +35,11 @@
     "text": "1.3 Why study international trade?\n\nProduction technologies do not flow easily across borders. There are massive differences in production technologies across countries.\nThe use of some technologies is tied to human capital which can not be transferred across countries.\nGovernment institutions have a huge impact on the effectiveness of different technologies."
   },
   {
-    "objectID": "lecture_1.html#what-are-the-subjects-to-focus-in-international-trade-discussion",
-    "href": "lecture_1.html#what-are-the-subjects-to-focus-in-international-trade-discussion",
+    "objectID": "lecture_1.html#what-are-the-subjects-to-focus-in-international-trade",
+    "href": "lecture_1.html#what-are-the-subjects-to-focus-in-international-trade",
     "title": "1  Basics of International Economics",
-    "section": "1.4 What are the subjects to focus in international trade discussion?",
-    "text": "1.4 What are the subjects to focus in international trade discussion?\n\nSeven themes recur throughout the study of international economics:\n\nThe gains from trade\nThe pattern of trade\nProtectionism\nThe balance of payments\nExchange rate determination\nInternational policy coordination\nThe international capital market"
+    "section": "1.4 What are the subjects to focus in international trade?",
+    "text": "1.4 What are the subjects to focus in international trade?\n\nSeven themes recur throughout the study of international economics:\n\nThe gains from trade\nThe pattern of trade\nProtectionism\nThe balance of payments\nExchange rate determination\nInternational policy coordination\nThe international capital market"
   },
   {
     "objectID": "lecture_1.html#what-is-globalization",
@@ -47,13 +47,6 @@
     "title": "1  Basics of International Economics",
     "section": "1.5 What is globalization?",
     "text": "1.5 What is globalization?\n\nIncrease in international transactions in markets for goods, services, and factors\nGrowth and expanded scope of international institutions and organizations, for instance, UN, World Bank, IMF, WTO\nHow can globalization be measured?\n\nTrade flows: exports and imports of goods\nTrade in services: transportation, healthcare, telecommunications, business services\nForeign asset ownership\nImmigration\nPrice convergence: Possibility of trade may have important effects"
-  },
-  {
-    "objectID": "lecture_1.html#the-gravity-model",
-    "href": "lecture_1.html#the-gravity-model",
-    "title": "1  Basics of International Economics",
-    "section": "1.6 The Gravity Model",
-    "text": "1.6 The Gravity Model\n\nLet’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.\nThree of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.\n\n\nThere is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports."
   },
   {
     "objectID": "lecture_2.html",
@@ -89,13 +82,6 @@
     "title": "2  Introduction to International Trade",
     "section": "2.4 Balance of payments",
     "text": "2.4 Balance of payments\n\nThe balance of payments (BOP) tracks international transactions. When funds go into a country, a credit is added to the balance of payments (“BOP”). When funds leave a country, a deduction is made.\nThe balance of payments includes both the current account and capital/financial account.\n\nThe current account (CA) includes a nation’s net trade in goods and services, its net earnings on cross-border investments, and its net transfer payments.\nThe capital/financial account (FA) consists of a nation’s transactions in financial instruments and central bank reserves.\nThe sum of all transactions recorded in the balance of payments should be zero; however, exchange rate fluctuations and differences in accounting practices may hinder this in practice.\n\n\n\nThe BOP has become a central issue for the United States because the nation has run huge trade deficits every year since 1982."
-  },
-  {
-    "objectID": "lecture_2.html#exchange-rate-determination",
-    "href": "lecture_2.html#exchange-rate-determination",
-    "title": "2  Introduction to International Trade",
-    "section": "2.5 Exchange rate determination",
-    "text": "2.5 Exchange rate determination"
   },
   {
     "objectID": "lecture_2.html#what-is-trade",
@@ -147,11 +133,18 @@
     "text": "2.11 Globalization and international trade\n\nGlobalization is the process of interaction and integration among people, companies, and governments worldwide.\nGlobalization has accelerated since the 18th century due to advances in transportation and communications technology.\nThis increase in global interactions has caused a growth in international trade."
   },
   {
-    "objectID": "lecture_2.html#the-increasing-returns-revolution-in-trade-and-geography",
-    "href": "lecture_2.html#the-increasing-returns-revolution-in-trade-and-geography",
+    "objectID": "lecture_2.html#the-gravity-model",
+    "href": "lecture_2.html#the-gravity-model",
     "title": "2  Introduction to International Trade",
-    "section": "2.13 The increasing returns revolution in trade and geography",
-    "text": "2.13 The increasing returns revolution in trade and geography\n\nNobel Prize Lecture, by Paul Krugman\n\nIncreasing returns and trade\nGeography ignored"
+    "section": "2.12 The gravity model",
+    "text": "2.12 The gravity model\n\nLet’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.\nThree of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.\n\n\nThere is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports."
+  },
+  {
+    "objectID": "lecture_2.html#the-increasing-returns",
+    "href": "lecture_2.html#the-increasing-returns",
+    "title": "2  Introduction to International Trade",
+    "section": "2.13 The increasing returns",
+    "text": "2.13 The increasing returns\n\nNobel Prize Lecture, by Paul Krugman\n\nIncreasing returns and trade\nGeography ignored"
   },
   {
     "objectID": "lecture_3.html",
@@ -168,6 +161,13 @@
     "text": "Updated on: 2022-09-17"
   },
   {
+    "objectID": "lecture_4.html#the-ricardian-model-of-international-trade",
+    "href": "lecture_4.html#the-ricardian-model-of-international-trade",
+    "title": "4  International Trade Models",
+    "section": "4.1 The Ricardian model of international trade",
+    "text": "4.1 The Ricardian model of international trade\n\nThe Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.\nIt shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.\n\n\n4.1.1 The Ricardian theory\n\nThe Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,\nCountries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.\nThe model can be understood using a two-country, two-good and one factor of production example.\nSuppose that the two countries are Home(\\(h\\)) and Foreign(\\(f\\)) and the two goods are Bread (\\(b\\)) and Cloth (\\(c\\)).\nThe lone factor of production is labor (\\(L\\)).\nThe production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.\n\nLet’s denote,\n\nThe unit labor requirement in Home by \\(hL_i\\)\nThe unit labor requirement in Foreign by \\(fL_i\\)\nHere \\(i\\) = \\(b\\), \\(c\\)\n\n\\(b\\) denotes Bread and \\(c\\) denotes Cloth\n\n\nTo ﬁx ideas, let us work with the following numbers:\n\n\\(hL_b\\) = 1, \\(hL_c\\) = 2, \\(fL_b\\) = 4 and \\(fL_c\\) = 3"
+  },
+  {
     "objectID": "lecture_4.html#heckscherohlin-model-of-trade",
     "href": "lecture_4.html#heckscherohlin-model-of-trade",
     "title": "4  International Trade Models",
@@ -182,31 +182,80 @@
     "text": "4.3 The Krugman model of trade\n\nThe Krugman model or the model of trade based on internal economies of scale in production.\nIt shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety."
   },
   {
-    "objectID": "lecture_2.html#the-gravity-model",
-    "href": "lecture_2.html#the-gravity-model",
-    "title": "2  Introduction to International Trade",
-    "section": "2.12 The gravity model",
-    "text": "2.12 The gravity model\n\nLet’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.\nThree of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.\n\n\nThere is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports."
+    "objectID": "lecture_5.html",
+    "href": "lecture_5.html",
+    "title": "5  The Instruments of Trade Policy",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
   },
   {
-    "objectID": "lecture_2.html#the-increasing-returns",
-    "href": "lecture_2.html#the-increasing-returns",
-    "title": "2  Introduction to International Trade",
-    "section": "2.13 The increasing returns",
-    "text": "2.13 The increasing returns\n\nNobel Prize Lecture, by Paul Krugman\n\nIncreasing returns and trade\nGeography ignored"
+    "objectID": "lecture_6.html",
+    "href": "lecture_6.html",
+    "title": "6  The Political Economy of Trade Policy",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
   },
   {
-    "objectID": "lecture_1.html#what-are-the-subjects-to-focus-in-international-trade",
-    "href": "lecture_1.html#what-are-the-subjects-to-focus-in-international-trade",
-    "title": "1  Basics of International Economics",
-    "section": "1.4 What are the subjects to focus in international trade?",
-    "text": "1.4 What are the subjects to focus in international trade?\n\nSeven themes recur throughout the study of international economics:\n\nThe gains from trade\nThe pattern of trade\nProtectionism\nThe balance of payments\nExchange rate determination\nInternational policy coordination\nThe international capital market"
+    "objectID": "lecture_7.html",
+    "href": "lecture_7.html",
+    "title": "7  Trade Policy in Developing Countries",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
   },
   {
-    "objectID": "lecture_4.html#the-ricardian-model-of-international-trade",
-    "href": "lecture_4.html#the-ricardian-model-of-international-trade",
-    "title": "4  International Trade Models",
-    "section": "4.1 The Ricardian model of international trade",
-    "text": "4.1 The Ricardian model of international trade\n\nThe Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.\nIt shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.\n\n\n4.1.1 The Ricardian theory\n\nThe Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,\nCountries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.\nThe model can be understood using a two-country, two-good and one factor of production example.\nSuppose that the two countries are Home(\\(h\\)) and Foreign(\\(f\\)) and the two goods are Bread (\\(b\\)) and Cloth (\\(c\\)).\nThe lone factor of production is labor (\\(L\\)).\nThe production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.\n\nLet’s denote,\n\nThe unit labor requirement in Home by \\(hL_i\\)\nThe unit labor requirement in Foreign by \\(fL_i\\)\nHere \\(i\\) = \\(b\\), \\(c\\)\n\n\\(b\\) denotes Bread and \\(c\\) denotes Cloth\n\n\nTo ﬁx ideas, let us work with the following numbers:\n\n\\(hL_b\\) = 1, \\(hL_c\\) = 2, \\(fL_b\\) = 4 and \\(fL_c\\) = 3"
+    "objectID": "lecture_8.html",
+    "href": "lecture_8.html",
+    "title": "8  Controversies in Trade Policy",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
+  },
+  {
+    "objectID": "lecture_9.html",
+    "href": "lecture_9.html",
+    "title": "9  National Income Accounting",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
+  },
+  {
+    "objectID": "lecture_10.html",
+    "href": "lecture_10.html",
+    "title": "10  Exchange Rates and the Foreign Exchange Market",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
+  },
+  {
+    "objectID": "lecture_11.html",
+    "href": "lecture_11.html",
+    "title": "11  Money, Interest Rates, and Exchange Rates",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
+  },
+  {
+    "objectID": "lecture_12.html",
+    "href": "lecture_12.html",
+    "title": "12  Fixed Exchange Rates and Foreign Exchange Intervention",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
+  },
+  {
+    "objectID": "lecture_13.html",
+    "href": "lecture_13.html",
+    "title": "13  International Monetary Systems",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
+  },
+  {
+    "objectID": "lecture_14.html",
+    "href": "lecture_14.html",
+    "title": "14  Financial Globalization",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
+  },
+  {
+    "objectID": "lecture_15.html",
+    "href": "lecture_15.html",
+    "title": "15  Developing Countries Growth, Crisis, and Reform",
+    "section": "",
+    "text": "Updated on: 2022-09-17"
   }
 ]
