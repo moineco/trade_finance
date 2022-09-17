@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "International Trade and International Finance",
     "section": "",
-    "text": "Updated on: 2022-09-17\n\n\n\nLecture 1: Basics of International Economics\nLecture 2: Introduction to International Trade\nLecture 3: Introduction to International Finance\nLecture 4: International Trade Models\n\n\n\n\n\nLecture 5: The Instruments of Trade Policy\nLecture 6: The Political Economy of Trade Policy\nLecture 7: Trade Policy in Developing Countries\nLecture 8: Controversies in Trade Policy\n\n\n\n\n\nLecture 9: National Income Accounting\nLecture 10: Exchange Rates and the Foreign Exchange Market\nLecture 11: Money, Interest Rates, and Exchange Rates\nLecture 12: Fixed Exchange Rates and Foreign Exchange Intervention\n\n\n\n\n\nLecture 13: International Monetary Systems\nLecture 14: Financial Globalization\nLecture 15: Developing Countries Growth, Crisis, and Reform\n\nCourse logistic\n\nClass schedule in third quarter:\n\nMonday\nThursday\n\n\nInstructor\nMoinul Islam, Assistant Professor, School of Economics and Management, Kochi University of Technology, Japan.\n-   Email address: islam.moinul@kochi-tech.ac.jp\n-   Office hours: By appointment, please email"
+    "text": "Updated on: 2022-09-17\n\n\n\nLecture 1: Basics of International Economics\nLecture 2: Introduction to International Trade\nLecture 3: Differences between international trade and international finance\nLecture 4: International Trade Models\n\n\n\n\n\nLecture 5: The Instruments of Trade Policy\nLecture 6: The Political Economy of Trade Policy\nLecture 7: Trade Policy in Developing Countries\nLecture 8: Controversies in Trade Policy\n\n\n\n\n\nLecture 9: National Income Accounting\nLecture 10: Exchange Rates and the Foreign Exchange Market\nLecture 11: Money, Interest Rates, and Exchange Rates\nLecture 12: Fixed Exchange Rates and Foreign Exchange Intervention\n\n\n\n\n\nLecture 13: International Monetary Systems\nLecture 14: Financial Globalization\nLecture 15: Developing Countries Growth, Crisis, and Reform\n\nCourse logistic\n\nClass schedule in third quarter:\n\nMonday\nThursday\n\n\nInstructor\nMoinul Islam, Assistant Professor, School of Economics and Management, Kochi University of Technology, Japan.\n-   Email address: islam.moinul@kochi-tech.ac.jp\n-   Office hours: By appointment, please email"
   },
   {
     "objectID": "lecture_1.html",
     "href": "lecture_1.html",
     "title": "1  Basics of International Economics",
     "section": "",
-    "text": "Text book: Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition"
+    "text": "Updated on: 2022-09-17\nText book: Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition"
   },
   {
     "objectID": "lecture_1.html#what-is-international-economics",
@@ -60,7 +60,7 @@
     "href": "lecture_2.html",
     "title": "2  Introduction to International Trade",
     "section": "",
-    "text": "Reference: Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition)"
+    "text": "Updated on: 2022-09-17\nReference: Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition)"
   },
   {
     "objectID": "lecture_2.html#the-gains-from-trade",
@@ -165,7 +165,7 @@
     "href": "lecture_4.html",
     "title": "4  International Trade Models",
     "section": "",
-    "text": "The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.\nIt shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.\n\n\n\n\nThe Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,\nCountries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.\nThe model can be understood using a two-country, two-good and one factor of production example.\nSuppose that the two countries are Home(\\(h\\)) and Foreign(\\(f\\)) and the two goods are Bread (\\(b\\)) and Cloth (\\(c\\)).\nThe lone factor of production is labor (\\(L\\)).\nThe production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.\n\nLet’s denote,\n\nThe unit labor requirement in Home by \\(hL_i\\)\nThe unit labor requirement in Foreign by \\(fL_i\\)\nHere \\(i\\) = \\(b\\), \\(c\\)\n\n\\(b\\) denotes Bread and \\(c\\) denotes Cloth\n\n\nTo ﬁx ideas, let us work with the following numbers:\n\n\\(hL_b\\) = 1, \\(hL_c\\) = 2, \\(fL_b\\) = 4 and \\(fL_c\\) = 3"
+    "text": "Updated on: 2022-09-17"
   },
   {
     "objectID": "lecture_4.html#heckscherohlin-model-of-trade",
@@ -201,5 +201,12 @@
     "title": "1  Basics of International Economics",
     "section": "1.4 What are the subjects to focus in international trade?",
     "text": "1.4 What are the subjects to focus in international trade?\n\nSeven themes recur throughout the study of international economics:\n\nThe gains from trade\nThe pattern of trade\nProtectionism\nThe balance of payments\nExchange rate determination\nInternational policy coordination\nThe international capital market"
+  },
+  {
+    "objectID": "lecture_4.html#the-ricardian-model-of-international-trade",
+    "href": "lecture_4.html#the-ricardian-model-of-international-trade",
+    "title": "4  International Trade Models",
+    "section": "4.1 The Ricardian model of international trade",
+    "text": "4.1 The Ricardian model of international trade\n\nThe Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.\nIt shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.\n\n\n4.1.1 The Ricardian theory\n\nThe Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,\nCountries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.\nThe model can be understood using a two-country, two-good and one factor of production example.\nSuppose that the two countries are Home(\\(h\\)) and Foreign(\\(f\\)) and the two goods are Bread (\\(b\\)) and Cloth (\\(c\\)).\nThe lone factor of production is labor (\\(L\\)).\nThe production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.\n\nLet’s denote,\n\nThe unit labor requirement in Home by \\(hL_i\\)\nThe unit labor requirement in Foreign by \\(fL_i\\)\nHere \\(i\\) = \\(b\\), \\(c\\)\n\n\\(b\\) denotes Bread and \\(c\\) denotes Cloth\n\n\nTo ﬁx ideas, let us work with the following numbers:\n\n\\(hL_b\\) = 1, \\(hL_c\\) = 2, \\(fL_b\\) = 4 and \\(fL_c\\) = 3"
   }
 ]

@@ -1,2 +1,3 @@
 # The Instruments of Trade Policy
 
+Updated on: `r Sys.Date()`

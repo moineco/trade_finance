@@ -1,6 +1,6 @@
-Introduction to International Finance
+# Differences between international trade and international finance
 
-## Differences between international trade and international finance
+Updated on: `r Sys.Date()`
 
 ::: panel-tabset
 ### International trade

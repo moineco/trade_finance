@@ -1,2 +1,3 @@
 # Financial Globalization
 
+Updated on: `r Sys.Date()`

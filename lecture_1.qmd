@@ -1,5 +1,7 @@
 # Basics of International Economics
 
+Updated on: `r Sys.Date()`
+
 **Text book:** Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition
 
 ## What is International economics?

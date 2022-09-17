@@ -6,7 +6,7 @@ Updated on: `r Sys.Date()`
 
 - Lecture 1: Basics of International Economics
 - Lecture 2: Introduction to International Trade
-- Lecture 3: Introduction to International Finance
+- Lecture 3: Differences between international trade and international finance
 - Lecture 4: International Trade Models
 
 ##### Section 2: International Trade Policy

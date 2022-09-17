@@ -1,5 +1,7 @@
 # International Trade Models
 
+Updated on: `r Sys.Date()`
+
 ## The Ricardian model of international trade
 
 -   The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.

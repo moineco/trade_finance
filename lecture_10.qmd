@@ -1,2 +1,3 @@
 # Exchange Rates and the Foreign Exchange Market
 
+Updated on: `r Sys.Date()`
