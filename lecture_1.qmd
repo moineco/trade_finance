@@ -1,17 +1,15 @@
 # Basics of International Economics
 
-## Lecture 1: Basics of International Economics
+Text book (Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition)
 
-### Text book (Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition)
-
-### Today's lecture contents:
+Today's lecture contents:
 
 1. What is international economics about?
 2. Why study international trade?
 3. What is globalization?
 4. The gravity model
 
-**1. What is international economics about?**
+## What is international economics about?
 
 - International Economics consists of two main classifications:
 
@@ -26,7 +24,7 @@ df <- data.frame(Comparision, International_Trade, International_Finance)
 knitr::kable(df)
 ```
 
-**2. Why study international trade?**
+## Why study international trade?
 
 - Production technologies do not flow easily across borders. There are massive differences in production technologies across countries.
 
@@ -34,7 +32,7 @@ knitr::kable(df)
 
 - Government institutions have a huge impact on the effectiveness of different technologies.
 
-> What are the subjects to focus in international trade discussion?
+## What are the subjects to focus in international trade discussion?
 
 - Seven themes recur throughout the study of international economics: 
 
@@ -46,22 +44,22 @@ knitr::kable(df)
    f. International policy coordination
    g. The international capital market
 
-**3. What is Globalization?**
+## What is Globalization?
 
 - Increase in international transactions in markets for goods, services, and factors
 
 - Growth and expanded scope of international institutions and
 organizations, for instance, UN, World Bank, IMF, WTO
 
-> How can globalization be measured?
+- How can globalization be measured?
 
-- Trade flows: exports and imports of goods
-- Trade in services: transportation, healthcare, telecommunications, business services
-- Foreign asset ownership
-- Immigration
-- Price convergence: Possibility of trade may have important effects
+  - Trade flows: exports and imports of goods
+  - Trade in services: transportation, healthcare, telecommunications, business services
+  - Foreign asset ownership
+  - Immigration
+  - Price convergence: Possibility of trade may have important effects
 
-**4. The Gravity Model**
+## The Gravity Model
 
 - Let’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.
 
