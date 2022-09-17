@@ -1,33 +1,37 @@
 # Preface {.unnumbered}
 
+International Economics has come in two separate parts that reflect the general micro-macro divide in the discipline. 'International Trade' is based on microeconomic reasoning in terms of comparative advantage, economies of scale and product differentiation. 'International Finance' is largely conceptualized in terms of 'open-economy macroeconomics' which set the focus on exchange-rate regimes, stabilization policies and financial capital flows. The history of economics is full of different attempts to bridge the gaps between international trade and international finance.
+
+![](figures/3.jpg)
+
 Updated on: `r Sys.Date()`
 
 ##### Section 1: Introduction to International Economics
 
-- Lecture 1: Basics of International Economics
-- Lecture 2: Introduction to International Trade
-- Lecture 3: Differences between international trade and international finance
-- Lecture 4: International Trade Models
+-   Lecture 1: Basics of International Economics
+-   Lecture 2: Introduction to International Trade
+-   Lecture 3: Differences between international trade and international finance
+-   Lecture 4: International Trade Models
 
 ##### Section 2: International Trade Policy
 
-- Lecture 5: The Instruments of Trade Policy
-- Lecture 6: The Political Economy of Trade Policy
-- Lecture 7: Trade Policy in Developing Countries
-- Lecture 8: Controversies in Trade Policy
+-   Lecture 5: The Instruments of Trade Policy
+-   Lecture 6: The Political Economy of Trade Policy
+-   Lecture 7: Trade Policy in Developing Countries
+-   Lecture 8: Controversies in Trade Policy
 
 ##### Section 3: Open-Economy Macroeconomics
 
-- Lecture 9: National Income Accounting
-- Lecture 10: Exchange Rates and the Foreign Exchange Market
-- Lecture 11: Money, Interest Rates, and Exchange Rates
-- Lecture 12: Fixed Exchange Rates and Foreign Exchange Intervention
+-   Lecture 9: National Income Accounting
+-   Lecture 10: Exchange Rates and the Foreign Exchange Market
+-   Lecture 11: Money, Interest Rates, and Exchange Rates
+-   Lecture 12: Fixed Exchange Rates and Foreign Exchange Intervention
 
 ##### Section 4: International Macroeconomic Policy
 
-- Lecture 13: International Monetary Systems
-- Lecture 14: Financial Globalization
-- Lecture 15: Developing Countries Growth, Crisis, and Reform
+-   Lecture 13: International Monetary Systems
+-   Lecture 14: Financial Globalization
+-   Lecture 15: Developing Countries Growth, Crisis, and Reform
 
 **Course logistic**
 
@@ -36,10 +40,10 @@ Class schedule in third quarter:
     -   Monday
     -   Thursday
 
-**Instructor** 
+**Instructor**
 
 *Moinul Islam*, Assistant Professor, School of Economics and Management, Kochi University of Technology, Japan.
 
-Email address: islam.moinul@kochi-tech.ac.jp
+Email address: islam.moinul\@kochi-tech.ac.jp
 
 Office hours: By appointment, please email
