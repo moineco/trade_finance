@@ -31,7 +31,7 @@ Updated on: `r Sys.Date()`
 
 **Course logistic**
 
--   Class schedule in third quarter:
+Class schedule in third quarter:
 
     -   Monday
     -   Thursday
@@ -40,5 +40,6 @@ Updated on: `r Sys.Date()`
 
 *Moinul Islam*, Assistant Professor, School of Economics and Management, Kochi University of Technology, Japan.
 
-    -   Email address: islam.moinul@kochi-tech.ac.jp
-    -   Office hours: By appointment, please email
+Email address: islam.moinul@kochi-tech.ac.jp
+
+Office hours: By appointment, please email
