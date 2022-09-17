@@ -1,2 +1,70 @@
 # Basics of International Economics
 
+## Lecture 1: Basics of International Economics
+
+### Text book (Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition)
+
+### Today's lecture contents:
+
+1. What is international economics about?
+2. Why study international trade?
+3. What is globalization?
+4. The gravity model
+
+**1. What is international economics about?**
+
+- International Economics consists of two main classifications:
+
+   - International Trade (Microeconomics)
+   - International Finance (Macroeconomics)
+
+```{r, echo=FALSE}
+Comparision <- c("Economics", "Employment", "Savings", "Trade", "Money")
+International_Trade <- c("Microeconomics", "Full employment", "No savings", "Balance", "Real transaction")
+International_Finance <- c("Macroeconomics", "Under employment", "Savings", "Imbalance", "Monetary transaction")
+df <- data.frame(Comparision, International_Trade, International_Finance)
+knitr::kable(df)
+```
+
+**2. Why study international trade?**
+
+- Production technologies do not flow easily across borders. There are massive differences in production technologies across countries.
+
+- The use of some technologies is tied to human capital which can not be transferred across countries.
+
+- Government institutions have a huge impact on the effectiveness of different technologies.
+
+> What are the subjects to focus in international trade discussion?
+
+- Seven themes recur throughout the study of international economics: 
+
+   a. The gains from trade
+   b. The pattern of trade
+   c. Protectionism
+   d. The balance of payments
+   e. Exchange rate determination
+   f. International policy coordination
+   g. The international capital market
+
+**3. What is Globalization?**
+
+- Increase in international transactions in markets for goods, services, and factors
+
+- Growth and expanded scope of international institutions and
+organizations, for instance, UN, World Bank, IMF, WTO
+
+> How can globalization be measured?
+
+- Trade flows: exports and imports of goods
+- Trade in services: transportation, healthcare, telecommunications, business services
+- Foreign asset ownership
+- Immigration
+- Price convergence: Possibility of trade may have important effects
+
+**4. The Gravity Model**
+
+- Let’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.
+
+- Three of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy. 
+
+> There is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports.
