@@ -1,1 +1,21 @@
-# Introduction to International Finance
+Introduction to International Finance
+
+## Differences between international trade and international finance
+
+::: panel-tabset
+### International trade
+
+-   Microeconomics
+-   Full employment
+-   No savings
+-   Balance trade
+-   Real transaction
+
+### International finance
+
+-   Macroeconomics
+-   Under employment
+-   Savings
+-   Imbalance trade
+-   Monetary transaction
+:::

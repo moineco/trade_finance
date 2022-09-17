@@ -1,1 +1,42 @@
 # International Trade Models
+
+## The Ricardian model of international trade
+
+-   The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.
+
+-   It shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.
+
+### The Ricardian theory
+
+-   The Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,
+
+-   Countries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country's opportunity costs of production are higher.
+
+-   The model can be understood using a two-country, two-good and one factor of production example.
+
+-   Suppose that the two countries are Home($h$) and Foreign($f$) and the two goods are Bread ($b$) and Cloth ($c$).
+
+-   The lone factor of production is labor ($L$).
+
+-   The production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.
+
+Let's denote,
+
+-   The unit labor requirement in **`Home`** by $hL_i$
+-   The unit labor requirement in **`Foreign`** by $fL_i$
+-   Here $i$ = $b$, $c$
+    -   $b$ denotes **`Bread`** and $c$ denotes **`Cloth`**
+
+To ﬁx ideas, let us work with the following numbers:
+
+-   $hL_b$ = 1, $hL_c$ = 2, $fL_b$ = 4 and $fL_c$ = 3
+
+## Heckscher--Ohlin model of trade
+
+-   The Heckscher--Ohlin model of trade states that endowment diﬀerences among countries play a key role in determining the pattern of trade.
+
+## The Krugman model of trade
+
+-   The Krugman model or the model of trade based on internal economies of scale in production.
+
+-   It shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety.

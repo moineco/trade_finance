@@ -28,3 +28,15 @@ Updated on: `r Sys.Date()`
 - Lecture 13: International Monetary Systems
 - Lecture 14: Financial Globalization
 - Lecture 15: Developing Countries Growth, Crisis, and Reform
+
+##### **Course logistic**
+
+-   Class schedule
+
+    -   Monday
+    -   Thursday
+
+-   Instructor: **Moinul Islam**, Assistant Professor, School of Economics and Management, Kochi University of Technology, Japan.
+
+    -   Email address: islam.moinul\@kochi-tech.ac.jp
+    -   Office hours: By appointment, please email

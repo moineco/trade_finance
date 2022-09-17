@@ -51,3 +51,61 @@ Today's lecture contents:
 > The BOP has become a central issue for the United States because the nation has run huge trade deficits every year since 1982.
 
 ## Exchange rate determination
+
+## What is trade?
+
+-   Buying and selling goods and services from other countries. Trade consist of imports (M) and exports (X). For instance, in the context of Japan:
+
+    -   The purchase of goods and services from abroad that leads to an outflow of currency from Japan -- Imports (M)
+    -   The sale of goods and services to buyers from other countries leading to an inflow of currency to Japan -- Exports (X)
+
+## Basic reasons behind trade?
+
+-   Countries engage in international trade for two basic reasons
+    -   They are different from each other in terms of climate, land, capital, labor, and technology.
+    -   They try to achieve scale economies in production.
+
+## The concept of comparative advantage
+
+-   On Valentine's Day the U.S. demand for roses is about 10 million roses.
+
+    -   Growing roses in the U.S. in the winter is difficult. Heated greenhouses should be used. The costs for energy, capital, and labor are substantial.
+
+    -   Resources for the production of roses could be used to produce other goods, say computers.
+
+## Opportunity cost
+
+-   The opportunity cost of roses in terms of computers is the number of computers that could be produced with the same resources as a given number of roses.
+
+## Comparative advantage
+
+-   A country has a comparative advantage in producing a good if the opportunity cost of producing that good in terms of other goods is lower in that country than it is in other countries.
+
+## Gains from trade due to comparative advantage
+
+-   Suppose that in the U.S., 10 million roses can be produced with the same resources as 100,000 computers.
+
+-   Suppose also that in Mexico, 10 million roses can be produced with the same resources as 30,000 computers.
+
+    |        | Millon roses | Thousand computers |
+    |--------|--------------|--------------------|
+    | U.S    | -10          | +100               |
+    | Mexico | +10          | -30                |
+    | Total  | 0            | +70                |
+
+## Globalization and international trade
+
+-   Globalization is the process of interaction and integration among people, companies, and governments worldwide.
+
+-   Globalization has accelerated since the 18th century due to advances in transportation and communications technology.
+
+-   This increase in global interactions has caused a growth in international trade.
+
+## The increasing returns revolution in trade and geography
+
+-   Nobel Prize Lecture, by Paul Krugman
+
+    -   Increasing returns and trade
+
+    -   Geography ignored
+

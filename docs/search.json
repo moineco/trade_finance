@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "International Trade and International Finance",
     "section": "",
-    "text": "Updated on: 2022-09-17\n\n\n\nLecture 1: Basics of International Economics\nLecture 2: Introduction to International Trade\nLecture 3: Introduction to International Finance\nLecture 4: International Trade Models\n\n\n\n\n\nLecture 5: The Instruments of Trade Policy\nLecture 6: The Political Economy of Trade Policy\nLecture 7: Trade Policy in Developing Countries\nLecture 8: Controversies in Trade Policy\n\n\n\n\n\nLecture 9: National Income Accounting\nLecture 10: Exchange Rates and the Foreign Exchange Market\nLecture 11: Money, Interest Rates, and Exchange Rates\nLecture 12: Fixed Exchange Rates and Foreign Exchange Intervention\n\n\n\n\n\nLecture 13: International Monetary Systems\nLecture 14: Financial Globalization\nLecture 15: Developing Countries Growth, Crisis, and Reform"
+    "text": "Updated on: 2022-09-17\n\n\n\nLecture 1: Basics of International Economics\nLecture 2: Introduction to International Trade\nLecture 3: Introduction to International Finance\nLecture 4: International Trade Models\n\n\n\n\n\nLecture 5: The Instruments of Trade Policy\nLecture 6: The Political Economy of Trade Policy\nLecture 7: Trade Policy in Developing Countries\nLecture 8: Controversies in Trade Policy\n\n\n\n\n\nLecture 9: National Income Accounting\nLecture 10: Exchange Rates and the Foreign Exchange Market\nLecture 11: Money, Interest Rates, and Exchange Rates\nLecture 12: Fixed Exchange Rates and Foreign Exchange Intervention\n\n\n\n\n\nLecture 13: International Monetary Systems\nLecture 14: Financial Globalization\nLecture 15: Developing Countries Growth, Crisis, and Reform\n\n\n\n\n\nClass schedule\n\nMonday\nThursday\n\nInstructor: Moinul Islam, Assistant Professor, School of Economics and Management, Kochi University of Technology, Japan.\n\nEmail address: islam.moinul@kochi-tech.ac.jp\nOffice hours: By appointment, please email"
   },
   {
     "objectID": "lecture_1.html",
@@ -14,39 +14,46 @@
     "text": "Text book (Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition)\nToday’s lecture contents:"
   },
   {
+    "objectID": "lecture_1.html#what-is-international-economics",
+    "href": "lecture_1.html#what-is-international-economics",
+    "title": "1  Basics of International Economics",
+    "section": "1.1 What is International Economics?",
+    "text": "1.1 What is International Economics?\n\nInternational Economics is the study of economic interactions between countries.\nThe world is rapidly globalizing and this is providing many opportunities and major challenges to the nations and people of the world.\nWe will study international economics with a brief overview of the globalization revolution taking place in the world today."
+  },
+  {
     "objectID": "lecture_1.html#what-is-international-economics-about",
     "href": "lecture_1.html#what-is-international-economics-about",
     "title": "1  Basics of International Economics",
-    "section": "1.1 What is international economics about?",
-    "text": "1.1 What is international economics about?\n\nInternational Economics consists of two main classifications:\n\nInternational Trade (Microeconomics)\nInternational Finance (Macroeconomics)\n\n\n\n\n\n\n\nComparision\nInternational_Trade\nInternational_Finance\n\n\n\n\nEconomics\nMicroeconomics\nMacroeconomics\n\n\nEmployment\nFull employment\nUnder employment\n\n\nSavings\nNo savings\nSavings\n\n\nTrade\nBalance\nImbalance\n\n\nMoney\nReal transaction\nMonetary transaction"
+    "section": "1.2 What is international economics about?",
+    "text": "1.2 What is international economics about?\n\nInternational Economics consists of two main classifications:\n\nInternational Trade (Microeconomics)\nInternational Finance (Macroeconomics)\n\n\n\n\n\n\n\nComparision\nInternational_Trade\nInternational_Finance\n\n\n\n\nEconomics\nMicroeconomics\nMacroeconomics\n\n\nEmployment\nFull employment\nUnder employment\n\n\nSavings\nNo savings\nSavings\n\n\nTrade\nBalance\nImbalance\n\n\nMoney\nReal transaction\nMonetary transaction"
   },
   {
     "objectID": "lecture_1.html#why-study-international-trade",
     "href": "lecture_1.html#why-study-international-trade",
     "title": "1  Basics of International Economics",
-    "section": "1.2 Why study international trade?",
-    "text": "1.2 Why study international trade?\n\nProduction technologies do not flow easily across borders. There are massive differences in production technologies across countries.\nThe use of some technologies is tied to human capital which can not be transferred across countries.\nGovernment institutions have a huge impact on the effectiveness of different technologies."
+    "section": "1.3 Why study international trade?",
+    "text": "1.3 Why study international trade?\n\nProduction technologies do not flow easily across borders. There are massive differences in production technologies across countries.\nThe use of some technologies is tied to human capital which can not be transferred across countries.\nGovernment institutions have a huge impact on the effectiveness of different technologies."
   },
   {
     "objectID": "lecture_1.html#what-are-the-subjects-to-focus-in-international-trade-discussion",
     "href": "lecture_1.html#what-are-the-subjects-to-focus-in-international-trade-discussion",
     "title": "1  Basics of International Economics",
-    "section": "1.3 What are the subjects to focus in international trade discussion?",
-    "text": "1.3 What are the subjects to focus in international trade discussion?\n\nSeven themes recur throughout the study of international economics:\n\nThe gains from trade\nThe pattern of trade\nProtectionism\nThe balance of payments\nExchange rate determination\nInternational policy coordination\nThe international capital market"
+    "section": "1.4 What are the subjects to focus in international trade discussion?",
+    "text": "1.4 What are the subjects to focus in international trade discussion?\n\nSeven themes recur throughout the study of international economics:\n\nThe gains from trade\nThe pattern of trade\nProtectionism\nThe balance of payments\nExchange rate determination\nInternational policy coordination\nThe international capital market"
   },
   {
     "objectID": "lecture_1.html#what-is-globalization",
     "href": "lecture_1.html#what-is-globalization",
     "title": "1  Basics of International Economics",
-    "section": "1.4 What is Globalization?",
-    "text": "1.4 What is Globalization?\n\nIncrease in international transactions in markets for goods, services, and factors\nGrowth and expanded scope of international institutions and organizations, for instance, UN, World Bank, IMF, WTO\nHow can globalization be measured?\n\nTrade flows: exports and imports of goods\nTrade in services: transportation, healthcare, telecommunications, business services\nForeign asset ownership\nImmigration\nPrice convergence: Possibility of trade may have important effects"
+    "section": "1.5 What is Globalization?",
+    "text": "1.5 What is Globalization?\n\nIncrease in international transactions in markets for goods, services, and factors\nGrowth and expanded scope of international institutions and organizations, for instance, UN, World Bank, IMF, WTO\nHow can globalization be measured?\n\nTrade flows: exports and imports of goods\nTrade in services: transportation, healthcare, telecommunications, business services\nForeign asset ownership\nImmigration\nPrice convergence: Possibility of trade may have important effects"
   },
   {
     "objectID": "lecture_1.html#the-gravity-model",
     "href": "lecture_1.html#the-gravity-model",
     "title": "1  Basics of International Economics",
-    "section": "1.5 The Gravity Model",
-    "text": "1.5 The Gravity Model\n\nLet’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.\nThree of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.\n\n\nThere is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports."
+    "section": "1.6 The Gravity Model",
+    "text": "1.6 The Gravity Model\n\nLet’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.\nThree of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.\n\n\nThere is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports."
   },
   {
     "objectID": "lecture_2.html",
@@ -89,5 +96,89 @@
     "title": "2  Introduction to International Trade",
     "section": "2.5 Exchange rate determination",
     "text": "2.5 Exchange rate determination"
+  },
+  {
+    "objectID": "lecture_2.html#what-is-trade",
+    "href": "lecture_2.html#what-is-trade",
+    "title": "2  Introduction to International Trade",
+    "section": "2.6 What is trade?",
+    "text": "2.6 What is trade?\n\nBuying and selling goods and services from other countries. Trade consist of imports (M) and exports (X). For instance, in the context of Japan:\n\nThe purchase of goods and services from abroad that leads to an outflow of currency from Japan – Imports (M)\nThe sale of goods and services to buyers from other countries leading to an inflow of currency to Japan – Exports (X)"
+  },
+  {
+    "objectID": "lecture_2.html#basic-reasons-behind-trade",
+    "href": "lecture_2.html#basic-reasons-behind-trade",
+    "title": "2  Introduction to International Trade",
+    "section": "2.7 Basic reasons behind trade?",
+    "text": "2.7 Basic reasons behind trade?\n\nCountries engage in international trade for two basic reasons\n\nThey are different from each other in terms of climate, land, capital, labor, and technology.\nThey try to achieve scale economies in production."
+  },
+  {
+    "objectID": "lecture_2.html#the-concept-of-comparative-advantage",
+    "href": "lecture_2.html#the-concept-of-comparative-advantage",
+    "title": "2  Introduction to International Trade",
+    "section": "2.8 The concept of comparative advantage",
+    "text": "2.8 The concept of comparative advantage\n\nOn Valentine’s Day the U.S. demand for roses is about 10 million roses.\n\nGrowing roses in the U.S. in the winter is difficult. Heated greenhouses should be used. The costs for energy, capital, and labor are substantial.\nResources for the production of roses could be used to produce other goods, say computers."
+  },
+  {
+    "objectID": "lecture_2.html#opportunity-cost",
+    "href": "lecture_2.html#opportunity-cost",
+    "title": "2  Introduction to International Trade",
+    "section": "2.9 Opportunity cost",
+    "text": "2.9 Opportunity cost\n\nThe opportunity cost of roses in terms of computers is the number of computers that could be produced with the same resources as a given number of roses."
+  },
+  {
+    "objectID": "lecture_2.html#comparative-advantage",
+    "href": "lecture_2.html#comparative-advantage",
+    "title": "2  Introduction to International Trade",
+    "section": "2.10 Comparative advantage",
+    "text": "2.10 Comparative advantage\n\nA country has a comparative advantage in producing a good if the opportunity cost of producing that good in terms of other goods is lower in that country than it is in other countries."
+  },
+  {
+    "objectID": "lecture_2.html#gains-from-trade-due-to-comparative-advantage",
+    "href": "lecture_2.html#gains-from-trade-due-to-comparative-advantage",
+    "title": "2  Introduction to International Trade",
+    "section": "2.11 Gains from trade due to comparative advantage",
+    "text": "2.11 Gains from trade due to comparative advantage\n\nSuppose that in the U.S., 10 million roses can be produced with the same resources as 100,000 computers.\nSuppose also that in Mexico, 10 million roses can be produced with the same resources as 30,000 computers.\n\n\n\n\nMillon roses\nThousand computers\n\n\n\n\nU.S\n-10\n+100\n\n\nMexico\n+10\n-30\n\n\nTotal\n0\n+70"
+  },
+  {
+    "objectID": "lecture_2.html#globalization-and-international-trade",
+    "href": "lecture_2.html#globalization-and-international-trade",
+    "title": "2  Introduction to International Trade",
+    "section": "2.12 Globalization and international trade",
+    "text": "2.12 Globalization and international trade\n\nGlobalization is the process of interaction and integration among people, companies, and governments worldwide.\nGlobalization has accelerated since the 18th century due to advances in transportation and communications technology.\nThis increase in global interactions has caused a growth in international trade."
+  },
+  {
+    "objectID": "lecture_2.html#the-increasing-returns-revolution-in-trade-and-geography",
+    "href": "lecture_2.html#the-increasing-returns-revolution-in-trade-and-geography",
+    "title": "2  Introduction to International Trade",
+    "section": "2.13 The increasing returns revolution in trade and geography",
+    "text": "2.13 The increasing returns revolution in trade and geography\n\nNobel Prize Lecture, by Paul Krugman\n\nIncreasing returns and trade\nGeography ignored"
+  },
+  {
+    "objectID": "lecture_3.html",
+    "href": "lecture_3.html",
+    "title": "3  Differences between international trade and international finance",
+    "section": "",
+    "text": "International tradeInternational finance\n\n\n\nMicroeconomics\nFull employment\nNo savings\nBalance trade\nReal transaction\n\n\n\n\nMacroeconomics\nUnder employment\nSavings\nImbalance trade\nMonetary transaction"
+  },
+  {
+    "objectID": "lecture_4.html",
+    "href": "lecture_4.html",
+    "title": "4  International Trade Models",
+    "section": "",
+    "text": "The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.\nIt shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.\n\n\n\n\nThe Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,\nCountries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.\nThe model can be understood using a two-country, two-good and one factor of production example.\nSuppose that the two countries are Home(\\(h\\)) and Foreign(\\(f\\)) and the two goods are Bread (\\(b\\)) and Cloth (\\(c\\)).\nThe lone factor of production is labor (\\(L\\)).\nThe production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.\n\nLet’s denote,\n\nThe unit labor requirement in Home by \\(hL_i\\)\nThe unit labor requirement in Foreign by \\(fL_i\\)\nHere \\(i\\) = \\(b\\), \\(c\\)\n\n\\(b\\) denotes Bread and \\(c\\) denotes Cloth\n\n\nTo ﬁx ideas, let us work with the following numbers:\n\n\\(hL_b\\) = 1, \\(hL_c\\) = 2, \\(fL_b\\) = 4 and \\(fL_c\\) = 3"
+  },
+  {
+    "objectID": "lecture_4.html#heckscherohlin-model-of-trade",
+    "href": "lecture_4.html#heckscherohlin-model-of-trade",
+    "title": "4  International Trade Models",
+    "section": "4.2 Heckscher–Ohlin model of trade",
+    "text": "4.2 Heckscher–Ohlin model of trade\n\nThe Heckscher–Ohlin model of trade states that endowment diﬀerences among countries play a key role in determining the pattern of trade."
+  },
+  {
+    "objectID": "lecture_4.html#the-krugman-model-of-trade",
+    "href": "lecture_4.html#the-krugman-model-of-trade",
+    "title": "4  International Trade Models",
+    "section": "4.3 The Krugman model of trade",
+    "text": "4.3 The Krugman model of trade\n\nThe Krugman model or the model of trade based on internal economies of scale in production.\nIt shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety."
   }
 ]
