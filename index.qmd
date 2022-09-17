@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-International Economics has come in two separate parts that reflect the general micro-macro divide in the discipline. 'International Trade' is based on microeconomic reasoning in terms of comparative advantage, economies of scale and product differentiation. 'International Finance' is largely conceptualized in terms of 'open-economy macroeconomics' which set the focus on exchange-rate regimes, stabilization policies and financial capital flows. The history of economics is full of different attempts to bridge the gaps between international trade and international finance.
+International Economics has come in two separate parts that reflect the microeconomics and macroeconomics. 'International Trade' is based on microeconomic reasoning in terms of comparative advantage, economies of scale and product differentiation. 'International Finance' is largely conceptualized in terms of 'open-economy macroeconomics' which set the focus on exchange-rate regimes, stabilization policies and financial capital flows. The history of economics is full of different attempts to bridge the gaps between international trade and international finance.
 
 ![](figures/3.jpg)
 
