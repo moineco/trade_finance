@@ -1,30 +1,29 @@
-# Preface {.unnumbered}
+# Course outline {.unnumbered}
 
-## Course outline
 Updated on: `r Sys.Date()`
 
-##### PART 1: Introduction to International Economics
+##### Section 1: Introduction to International Economics
 
 - Lecture 1: Basics of International Economics
 - Lecture 2: Introduction to International Trade
 - Lecture 3: Introduction to International Finance
 - Lecture 4: International Trade Models
 
-##### PART 2: International Trade Policy
+##### Section 2: International Trade Policy
 
 - Lecture 5: The Instruments of Trade Policy
 - Lecture 6: The Political Economy of Trade Policy
 - Lecture 7: Trade Policy in Developing Countries
 - Lecture 8: Controversies in Trade Policy
 
-##### PART 3: Open-Economy Macroeconomics
+##### Section 3: Open-Economy Macroeconomics
 
 - Lecture 9: National Income Accounting
 - Lecture 10: Exchange Rates and the Foreign Exchange Market
 - Lecture 11: Money, Interest Rates, and Exchange Rates
 - Lecture 12: Fixed Exchange Rates and Foreign Exchange Intervention
 
-##### PART 4: International Macroeconomic Policy
+##### Section 4: International Macroeconomic Policy
 
 - Lecture 13: International Monetary Systems
 - Lecture 14: Financial Globalization
