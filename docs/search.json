@@ -14,13 +14,6 @@
     "text": "International Economics is the study of economic interactions between countries.\nThe world is rapidly globalizing and this is providing many opportunities and major challenges to the nations and people of the world.\nWe will study international economics with a brief overview of the globalization revolution taking place in the world today."
   },
   {
-    "objectID": "lecture_1.html#what-is-international-economics",
-    "href": "lecture_1.html#what-is-international-economics",
-    "title": "1  Basics of International Economics",
-    "section": "1.1 What is International economics?",
-    "text": "1.1 What is International economics?\n\nInternational Economics is the study of economic interactions between countries.\nThe world is rapidly globalizing and this is providing many opportunities and major challenges to the nations and people of the world.\nWe will study international economics with a brief overview of the globalization revolution taking place in the world today."
-  },
-  {
     "objectID": "lecture_1.html#what-is-international-economics-about",
     "href": "lecture_1.html#what-is-international-economics-about",
     "title": "1  Basics of International Economics",
@@ -54,13 +47,6 @@
     "title": "2  Introduction to International Trade",
     "section": "",
     "text": "Probably the most important single insight in all of international economics is that there are gains from trade that is, when countries sell goods and services to each other, this exchange is almost always to their mutual benefit.\nAlthough nations generally gain from international trade, it is quite possible that international trade may hurt particular groups within nations—in other words, that international trade will have strong effects on the distribution of income.\n\n\nTrade can alter the distribution of income between workers and the owners of capital."
-  },
-  {
-    "objectID": "lecture_2.html#the-gains-from-trade",
-    "href": "lecture_2.html#the-gains-from-trade",
-    "title": "2  Introduction to International Trade",
-    "section": "2.1 The gains from trade",
-    "text": "2.1 The gains from trade\n\nProbably the most important single insight in all of international economics is that there are gains from trade that is, when countries sell goods and services to each other, this exchange is almost always to their mutual benefit.\nAlthough nations generally gain from international trade, it is quite possible that international trade may hurt particular groups within nations—in other words, that international trade will have strong effects on the distribution of income.\n\n\nTrade can alter the distribution of income between workers and the owners of capital."
   },
   {
     "objectID": "lecture_2.html#the-pattern-of-trade",
@@ -161,13 +147,6 @@
     "text": "The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.\nIt shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.\n\n\n\n\nThe Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,\nCountries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.\nThe model can be understood using a two-country, two-good and one factor of production example.\nSuppose that the two countries are Home(\\(h\\)) and Foreign(\\(f\\)) and the two goods are Bread (\\(b\\)) and Cloth (\\(c\\)).\nThe lone factor of production is labor (\\(L\\)).\nThe production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.\n\nLet’s denote,\n\nThe unit labor requirement in Home by \\(hL_i\\)\nThe unit labor requirement in Foreign by \\(fL_i\\)\nHere \\(i\\) = \\(b\\), \\(c\\)\n\n\\(b\\) denotes Bread and \\(c\\) denotes Cloth\n\n\nTo ﬁx ideas, let us work with the following numbers:\n\n\\(hL_b\\) = 1, \\(hL_c\\) = 2, \\(fL_b\\) = 4 and \\(fL_c\\) = 3"
   },
   {
-    "objectID": "lecture_4.html#the-ricardian-model-of-international-trade",
-    "href": "lecture_4.html#the-ricardian-model-of-international-trade",
-    "title": "4  International Trade Models",
-    "section": "4.1 The Ricardian model of international trade",
-    "text": "4.1 The Ricardian model of international trade\n\nThe Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.\nIt shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.\n\n\n4.1.1 The Ricardian theory\n\nThe Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,\nCountries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.\nThe model can be understood using a two-country, two-good and one factor of production example.\nSuppose that the two countries are Home(\\(h\\)) and Foreign(\\(f\\)) and the two goods are Bread (\\(b\\)) and Cloth (\\(c\\)).\nThe lone factor of production is labor (\\(L\\)).\nThe production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.\n\nLet’s denote,\n\nThe unit labor requirement in Home by \\(hL_i\\)\nThe unit labor requirement in Foreign by \\(fL_i\\)\nHere \\(i\\) = \\(b\\), \\(c\\)\n\n\\(b\\) denotes Bread and \\(c\\) denotes Cloth\n\n\nTo ﬁx ideas, let us work with the following numbers:\n\n\\(hL_b\\) = 1, \\(hL_c\\) = 2, \\(fL_b\\) = 4 and \\(fL_c\\) = 3"
-  },
-  {
     "objectID": "lecture_4.html#heckscherohlin-model-of-trade",
     "href": "lecture_4.html#heckscherohlin-model-of-trade",
     "title": "4  International Trade Models",
@@ -186,76 +165,76 @@
     "href": "lecture_5.html",
     "title": "5  The Instruments of Trade Policy",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_6.html",
     "href": "lecture_6.html",
     "title": "6  The Political Economy of Trade Policy",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_7.html",
     "href": "lecture_7.html",
     "title": "7  Trade Policy in Developing Countries",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_8.html",
     "href": "lecture_8.html",
     "title": "8  Controversies in Trade Policy",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_9.html",
     "href": "lecture_9.html",
     "title": "9  National Income Accounting",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_10.html",
     "href": "lecture_10.html",
     "title": "10  Exchange Rates and the Foreign Exchange Market",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_11.html",
     "href": "lecture_11.html",
     "title": "11  Money, Interest Rates, and Exchange Rates",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_12.html",
     "href": "lecture_12.html",
     "title": "12  Fixed Exchange Rates and Foreign Exchange Intervention",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_13.html",
     "href": "lecture_13.html",
     "title": "13  International Monetary Systems",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_14.html",
     "href": "lecture_14.html",
     "title": "14  Financial Globalization",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   },
   {
     "objectID": "lecture_15.html",
     "href": "lecture_15.html",
     "title": "15  Developing Countries Growth, Crisis, and Reform",
     "section": "",
-    "text": "Updated on: 2022-09-18"
+    "text": "Updated on: 2022-09-19"
   }
 ]
