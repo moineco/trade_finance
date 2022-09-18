@@ -61,15 +61,15 @@
 
     -   Resources for the production of roses could be used to produce other goods, say computers.
 
-## Opportunity cost
+### Opportunity cost
 
 -   The opportunity cost of roses in terms of computers is the number of computers that could be produced with the same resources as a given number of roses.
 
-## Comparative advantage
+### Comparative advantage
 
 -   A country has a comparative advantage in producing a good if the opportunity cost of producing that good in terms of other goods is lower in that country than it is in other countries.
 
-## Gains from trade due to comparative advantage
+### Gains from trade due to comparative advantage
 
 -   Suppose that in the U.S., 10 million roses can be produced with the same resources as 100,000 computers.
 
