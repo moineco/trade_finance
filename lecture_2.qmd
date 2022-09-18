@@ -1,7 +1,5 @@
 # Introduction to International Trade
 
-Updated on: `r Sys.Date()`
-
 **Reference:** Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition)
 
 ## The gains from trade

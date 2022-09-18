@@ -1,7 +1,5 @@
 # Differences between international trade and international finance
 
-Updated on: `r Sys.Date()`
-
 ::: panel-tabset
 ### International trade
 
