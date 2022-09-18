@@ -10,9 +10,6 @@ An important result in this discussion is that international trade can produce w
 
 Increasing returns and trade are essential concept of this course. I will focus on the Krugman model or the model of trade based on internal economies of scale in production. It shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety. I will also develop a discussion of the various commercial policy instruments, such as tariﬀs, quotas and export subsidies, that countries use to intervene in trade. Next, we will study the economics of preferential trading agreements, and the concluding chapter provides a history of multilateral trading agreements under the aegis of GATT (General Agreement on Tariﬀs and Trade) and its evolution into the World Trade Organization (WTO).
 
-
-Updated on: `r Sys.Date()`
-
 ##### Section 1: Introduction to International Economics
 
 -   Lecture 1: Basics of International Economics
