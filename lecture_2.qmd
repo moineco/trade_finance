@@ -1,7 +1,5 @@
 # Introduction to International Trade
 
-**Reference:** Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition)
-
 ## The gains from trade
 
 - Probably the most important single insight in all of international economics is that there are gains from trade that is, when countries sell goods and services to each other, this exchange is almost always to their mutual benefit.
@@ -107,3 +105,4 @@
 
     -   Geography ignored
 
+**Reference:** Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition)

@@ -1,7 +1,5 @@
 # Basics of International Economics
 
-**Text book:** Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition
-
 ## What is International economics?
 
 -   International Economics is the study of economic interactions between countries.
@@ -59,3 +57,5 @@ organizations, for instance, UN, World Bank, IMF, WTO
   - Foreign asset ownership
   - Immigration
   - Price convergence: Possibility of trade may have important effects
+  
+**Text book:** Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition
