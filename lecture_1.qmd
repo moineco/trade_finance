@@ -10,10 +10,10 @@
 
 ## What is international economics about?
 
-- International economics consists of two main classifications:
+-   International economics consists of two main classifications:
 
-   - International trade (Microeconomics)
-   - International finance (Macroeconomics)
+    -   International trade (Microeconomics)
+    -   International finance (Macroeconomics)
 
 ```{r, echo=FALSE}
 Comparision <- c("Economics", "Employment", "Savings", "Trade", "Money")
@@ -25,37 +25,36 @@ knitr::kable(df)
 
 ## Why study international trade?
 
-- Production technologies do not flow easily across borders. There are massive differences in production technologies across countries.
+-   Production technologies do not flow easily across borders. There are massive differences in production technologies across countries.
 
-- The use of some technologies is tied to human capital which can not be transferred across countries.
+-   The use of some technologies is tied to human capital which can not be transferred across countries.
 
-- Government institutions have a huge impact on the effectiveness of different technologies.
+-   Government institutions have a huge impact on the effectiveness of different technologies.
 
 ## What are the subjects to focus in international trade?
 
-- Seven themes recur throughout the study of international economics: 
+-   Seven themes recur throughout the study of international economics:
 
-   a. The gains from trade
-   b. The pattern of trade
-   c. Protectionism
-   d. The balance of payments
-   e. Exchange rate determination
-   f. International policy coordination
-   g. The international capital market
+    a.  The gains from trade
+    b.  The pattern of trade
+    c.  Protectionism
+    d.  The balance of payments
+    e.  Exchange rate determination
+    f.  International policy coordination
+    g.  The international capital market
 
 ## What is globalization?
 
-- Increase in international transactions in markets for goods, services, and factors
+-   Increase in international transactions in markets for goods, services, and factors
 
-- Growth and expanded scope of international institutions and
-organizations, for instance, UN, World Bank, IMF, WTO
+-   Growth and expanded scope of international institutions and organizations, for instance, UN, World Bank, IMF, WTO
 
-- How can globalization be measured?
+-   How can globalization be measured?
 
-  - Trade flows: exports and imports of goods
-  - Trade in services: transportation, healthcare, telecommunications, business services
-  - Foreign asset ownership
-  - Immigration
-  - Price convergence: Possibility of trade may have important effects
-  
+    -   Trade flows: exports and imports of goods
+    -   Trade in services: transportation, healthcare, telecommunications, business services
+    -   Foreign asset ownership
+    -   Immigration
+    -   Price convergence: Possibility of trade may have important effects
+
 **Text book:** Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition
