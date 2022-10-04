@@ -6,6 +6,7 @@ book:
   title: "International Trade and International Finance"
   author: "Moinul Islam"
   date: "9/15/2022"
+  cover-image: cover.png
   chapters:
     - index.qmd
     - lecture_1.qmd

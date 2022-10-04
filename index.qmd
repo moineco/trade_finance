@@ -50,11 +50,11 @@ Class room: **A108**, Eikokuji Campus, Kochi University of Technology
 
 Your grade evaluation will depend on following three factors:
 
-| Performance                                         | Weight |
-|-----------------------------------------------------|--------|
-| a\. Attendance and reporting the answers of quizzes | 20%    |
-| b\. Answering the assignments                       | 30%    |
-| c\. Final examination                               | 50%    |
+| Performance                                       | Weight |
+|---------------------------------------------------|--------|
+| a\. Attendance and answering the quizzes          | 20%    |
+| b\. Answering the assignments (Five problem sets) | 30%    |
+| c\. Final examination (TBA)                       | 50%    |
 
 **Instructor**
 
