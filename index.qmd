@@ -48,7 +48,7 @@ Class room: **A108**, Eikokuji Campus, Kochi University of Technology
 
 **Grading**
 
-Your grade evaluation will depend on following three factors
+Your grade evaluation will depend on following three factors:
 
 | Performance                                         | Weight |
 |-----------------------------------------------------|--------|
