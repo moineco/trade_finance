@@ -46,6 +46,10 @@ Class schedule in third quarter:
 
 Class room: **A108**, Eikokuji Campus, Kochi University of Technology
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 **Grading**
 
 Your grade evaluation will depend on following three factors:
@@ -55,6 +59,10 @@ Your grade evaluation will depend on following three factors:
 | a\. Attendance and answering the quizzes          | 20%    |
 | b\. Answering the assignments (Five problem sets) | 30%    |
 | c\. Final examination (TBA)                       | 50%    |
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
 **Instructor**
 

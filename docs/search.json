@@ -98,18 +98,11 @@
     "text": "2.8 Globalization and international trade\n\nGlobalization is the process of interaction and integration among people, companies, and governments worldwide.\nGlobalization has accelerated since the 18th century due to advances in transportation and communications technology.\nThis increase in global interactions has caused a growth in international trade."
   },
   {
-    "objectID": "lecture_2.html#the-gravity-model",
-    "href": "lecture_2.html#the-gravity-model",
+    "objectID": "lecture_2.html#labor-intensive-and-capital-intensive-industries",
+    "href": "lecture_2.html#labor-intensive-and-capital-intensive-industries",
     "title": "2  Introduction to International Trade",
-    "section": "2.9 The gravity model",
-    "text": "2.9 The gravity model\n\nLet’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.\nThree of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.\n\n\nThere is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports."
-  },
-  {
-    "objectID": "lecture_2.html#the-increasing-returns",
-    "href": "lecture_2.html#the-increasing-returns",
-    "title": "2  Introduction to International Trade",
-    "section": "2.10 The increasing returns",
-    "text": "2.10 The increasing returns\n\nNobel Prize Lecture, by Paul Krugman\n\nIncreasing returns and trade\nGeography ignored\n\n\nReference: Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition)"
+    "section": "2.9 Labor Intensive and capital intensive industries",
+    "text": "2.9 Labor Intensive and capital intensive industries\n\n2.9.1 What Is labor intensive?\n\nThe term labor intensive refers to a process or industry that requires a large amount of labor to produce its goods or services.\nThe degree of labor intensity is typically measured in proportion to the amount of capital required to produce the goods or services: the higher the proportion of labor costs required, the more labor-intensive the business.\nLabor-intensive industries include restaurants, hotels, agriculture, mining, as well as healthcare and caregiver.\nLess developed economies, as a whole, tend to be more labor-intensive. This situation is rather common because low income means that the economy or business cannot afford to invest in expensive capital.\nBefore the industrial revolution, 90% of the workforce was employed in agriculture. Producing food was very labor-intensive.\n\n\n\n2.9.2 What is capital intensive?\n\nCapital intensive refers to the production that requires higher capital investment such as financial resources, sophisticated machinery, more automated machines, the latest equipment, etc.\nCapital intensive industries pose higher barriers to entry as they require more investment in equipment and machinery to produce goods and services.\nGood examples of capital intensive industries include the oil refining industry, telecommunications industry, airline industry, and public transport authorities that maintain the roads, railways, trains, trams, etc.\n\n\n\n2.9.3 Differences between capital intensive and labor intensive industries\n\nCapital intensive and labor intensive refer to types of production methods followed in the production of goods and services.\nCapital intensive production requires more equipment and machinery to produce goods; therefore, require a larger financial investment.\nLabor intensive refers to production that requires a higher labor input to carry out production activities in comparison to the amount of capital required.\n\nReference: Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Economics, 12th edition)"
   },
   {
     "objectID": "lecture_3.html",
@@ -117,6 +110,20 @@
     "title": "3  Differences between international trade and international finance",
     "section": "",
     "text": "International tradeInternational finance\n\n\n\nMicroeconomics\nFull employment\nNo savings\nBalance trade\nReal transaction\n\n\n\n\nMacroeconomics\nUnder employment\nSavings\nImbalance trade\nMonetary transaction"
+  },
+  {
+    "objectID": "lecture_3.html#the-gravity-model",
+    "href": "lecture_3.html#the-gravity-model",
+    "title": "3  Differences between international trade and international finance",
+    "section": "3.1 The gravity model",
+    "text": "3.1 The gravity model\n\nLet’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.\nThree of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.\n\n\nThere is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports."
+  },
+  {
+    "objectID": "lecture_3.html#the-increasing-returns",
+    "href": "lecture_3.html#the-increasing-returns",
+    "title": "3  Differences between international trade and international finance",
+    "section": "3.2 The increasing returns",
+    "text": "3.2 The increasing returns\n\nNobel Prize Lecture, by Paul Krugman\nIncreasing returns and trade\nGeography ignored"
   },
   {
     "objectID": "lecture_4.html",

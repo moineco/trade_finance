@@ -6,7 +6,11 @@ book:
   title: "International Trade and International Finance"
   author: "Moinul Islam"
   date: "9/15/2022"
+<<<<<<< Updated upstream
   cover-image: cover.jpeg
+=======
+  cover-image: cover.png
+>>>>>>> Stashed changes
   chapters:
     - index.qmd
     - lecture_1.qmd

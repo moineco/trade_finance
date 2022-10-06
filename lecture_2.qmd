@@ -2,42 +2,42 @@
 
 ## The gains from trade
 
-- Probably the most important single insight in all of international economics is that there are gains from trade that is, when countries sell goods and services to each other, this exchange is almost always to their mutual benefit.
+-   Probably the most important single insight in all of international economics is that there are gains from trade that is, when countries sell goods and services to each other, this exchange is almost always to their mutual benefit.
 
-- Although nations generally gain from international trade, it is quite possible that international trade may hurt particular groups within nations—in other words, that international trade will have strong effects on the distribution of income. 
+-   Although nations generally gain from international trade, it is quite possible that international trade may hurt particular groups within nations---in other words, that international trade will have strong effects on the distribution of income.
 
 > Trade can alter the distribution of income between workers and the owners of capital.
 
 ## The pattern of trade
 
-- Some aspects of the pattern of trade are easy to understand. Climate and resources clearly explain why Brazil exports coffee and Saudi Arabia exports oil. 
+-   Some aspects of the pattern of trade are easy to understand. Climate and resources clearly explain why Brazil exports coffee and Saudi Arabia exports oil.
 
-- Why does Japan export automobiles, while the United States exports aircraft?
+-   Why does Japan export automobiles, while the United States exports aircraft?
 
--  There are various different models that try to explain the reason behind the pattern of trade.
+-   There are various different models that try to explain the reason behind the pattern of trade.
 
 > "Who sells what to whom" have been a major question of international economics.
 
 ## Determinents of trade
 
-- After World War II the advanced democracies, led by the United States, pursued a broad policy of removing barriers to international trade; this policy reflected the view that free trade was a force not only for prosperity but also for promoting world peace.
+-   After World War II the advanced democracies, led by the United States, pursued a broad policy of removing barriers to international trade; this policy reflected the view that free trade was a force not only for prosperity but also for promoting world peace.
 
-- In 2016, Britain shocked the political establishment by voting to leave the European Union, which guarantees free movement of goods and people among its members.
+-   In 2016, Britain shocked the political establishment by voting to leave the European Union, which guarantees free movement of goods and people among its members.
 
-> Conflicts of interest within nations are usually more important in determining trade policy than conflicts of interest between nations. 
+> Conflicts of interest within nations are usually more important in determining trade policy than conflicts of interest between nations.
 
 ## Balance of payments
 
-- The balance of payments (BOP) tracks international transactions. When funds go into a country, a credit is added to the balance of payments (“BOP”). When funds leave a country, a deduction is made.
+-   The balance of payments (BOP) tracks international transactions. When funds go into a country, a credit is added to the balance of payments ("BOP"). When funds leave a country, a deduction is made.
 
-- The balance of payments includes both the current account and capital/financial account.
-    
-    - The current account (CA) includes a nation's net trade in goods and services, its net earnings on cross-border investments, and its net transfer payments.
-    
-    - The capital/financial account (FA) consists of a nation's transactions in financial instruments and central bank reserves.
-    
-    - The sum of all transactions recorded in the balance of payments should be zero; however, exchange rate fluctuations and differences in accounting practices may hinder this in practice.
-    
+-   The balance of payments includes both the current account and capital/financial account.
+
+    -   The current account (CA) includes a nation's net trade in goods and services, its net earnings on cross-border investments, and its net transfer payments.
+
+    -   The capital/financial account (FA) consists of a nation's transactions in financial instruments and central bank reserves.
+
+    -   The sum of all transactions recorded in the balance of payments should be zero; however, exchange rate fluctuations and differences in accounting practices may hinder this in practice.
+
 > The BOP has become a central issue for the United States because the nation has run huge trade deficits every year since 1982.
 
 ## What is trade?
@@ -89,20 +89,38 @@
 
 -   This increase in global interactions has caused a growth in international trade.
 
-## The gravity model
 
-- Let’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.
+## Labor Intensive and capital intensive industries
 
-- Three of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy. 
+### What Is labor intensive?
 
-> There is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports.
+- The term labor intensive refers to a process or industry that requires a large amount of labor to produce its goods or services.
+ 
+- The degree of labor intensity is typically measured in proportion to the amount of capital required to produce the goods or services: the higher the proportion of labor costs required, the more labor-intensive the business.
 
-## The increasing returns
+- Labor-intensive industries include restaurants, hotels, agriculture, mining, as well as healthcare and caregiver.
 
--   Nobel Prize Lecture, by Paul Krugman
+- Less developed economies, as a whole, tend to be more labor-intensive. This situation is rather common because low income means that the economy or business cannot afford to invest in expensive capital.
 
-    -   Increasing returns and trade
+- Before the industrial revolution, 90% of the workforce was employed in agriculture. Producing food was very labor-intensive. 
 
-    -   Geography ignored
+### What is capital intensive?
+
+- Capital intensive refers to the production that requires higher capital investment such as financial resources, sophisticated machinery, more automated machines, the latest equipment, etc. 
+
+- Capital intensive industries pose higher barriers to entry as they require more investment in equipment and machinery to produce goods and services. 
+
+- Good examples of capital intensive industries include the oil refining industry, telecommunications industry, airline industry, and public transport authorities that maintain the roads, railways, trains, trams, etc.
+
+
+### Differences between capital intensive and labor intensive industries
+
+- Capital intensive and labor intensive refer to types of production methods followed in the production of goods and services.
+
+- Capital intensive production requires more equipment and machinery to produce goods; therefore, require a larger financial investment.
+
+- Labor intensive refers to production that requires a higher labor input to carry out production activities in comparison to the amount of capital required.
+
+
 
 **Reference:** Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition)
