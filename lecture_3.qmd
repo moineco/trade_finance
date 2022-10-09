@@ -6,7 +6,7 @@
     -   They are different from each other in terms of climate, land, capital, labor, and technology.
     -   They try to achieve scale economies in production.
 
-## Trade Based on Absolute Advantage: Adam Smith
+## Trade based on absolute advantage: Adam Smith
 
 -   The theory of absolute advantage, developed by Adam Smith.
 
@@ -43,7 +43,7 @@ Table 3.1: Absolute advantage
 
 > Absolute advantage, however, can explain only a very small part of world trade today, such as some of the trade between developed and developing countries. Most of world trade, especially trade among developed countries, could not be explained by absolute advantage.
 
-## Trade Based on Comparative Advantage: David Ricardo
+## Trade based on comparative advantage: David Ricardo
 
 -   David Ricardo, writing some 40 years after Smith, to truly explain the pattern of and the gains from trade with his law of comparative advantage.
 
@@ -90,13 +90,7 @@ Table 3.2: Comparative advantage
 
     -   Resources for the production of roses could be used to produce other goods, say computers.
 
-### Opportunity cost
-
--   The opportunity cost of roses in terms of computers is the number of computers that could be produced with the same resources as a given number of roses.
-
-### Comparative advantage
-
--   A country has a comparative advantage in producing a good if the opportunity cost of producing that good in terms of other goods is lower in that country than it is in other countries.
+> `Opportunity cost`: The opportunity cost of roses in terms of computers is the number of computers that could be produced with the same resources as a given number of roses.
 
 ### Gains from trade due to comparative advantage
 
@@ -118,30 +112,4 @@ Table 3.2: Comparative advantage
 
 -   This increase in global interactions has caused a growth in international trade.
 
-## The gravity model
 
--   Let's begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today's global economy.
-
--   Three of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.
-
-> There is a strong empirical relationship between the size of a country's economy and the volume of both its imports and its exports.
-
-## Differences between international trade and international finance
-
-::: panel-tabset
-### International trade
-
--   Microeconomics
--   Full employment
--   No savings
--   Balance trade
--   Real transaction
-
-### International finance
-
--   Macroeconomics
--   Under employment
--   Savings
--   Imbalance trade
--   Monetary transaction
-:::
