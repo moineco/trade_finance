@@ -1,4 +1,13 @@
 # References {.unnumbered}
 
+Krugman, P. R. (2018). International trade: Theory and policy, 11th edition
+Published by Pearson.
+
+Krugman, P. R. (2018). International Finance: Theory and Policy, 11th edition
+Published by Pearson.
+
+Krugman, P., Obstfeld, M., & Melitz, M. (2017). International Economics: Theory and Policy, the latest edition.
+
 ::: {#refs}
+
 :::
