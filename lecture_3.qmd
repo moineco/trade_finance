@@ -1,4 +1,4 @@
-# Reasons behind International trade
+# Reasons of International Trade
 
 ## Basic reasons behind trade?
 
@@ -8,9 +8,7 @@
 
 ## Trade based on absolute advantage: Adam Smith
 
--   The theory of absolute advantage, developed by Adam Smith.
-
--   Smith started with the simple truth that for two nations to trade with each other voluntarily, both nations must gain. If one nation gained nothing or lost, it would simply refuse to trade. But how does this mutually beneﬁcial trade take place, and from where do these gains from trade come?
+-   The theory of absolute advantage, developed by Adam Smith. He started with the simple truth that for two nations to trade with each other voluntarily, both nations must gain. If one nation gained nothing or lost, it would simply refuse to trade. But how does this mutually beneﬁcial trade take place, and from where do these gains from trade come?
 
 -   According to Adam Smith, trade between two nations is based on absolute advantage. When one nation is more efﬁcient than (or has an absolute advantage over) another in the production of one commodity but is less efﬁcient than (or has an absolute disadvantage with respect to) the other nation in producing a second commodity, then both nations can gain by each specializing in the production of the commodity of its absolute advantage and exchanging part of its output with the other nation for the commodity of its absolute disadvantage.
 
@@ -20,7 +18,9 @@
 
 -   Under these circumstances, both nations would beneﬁt if each specialized in the production of the commodity of its absolute advantage and then traded with the other nation. Canada would specialize in the production of wheat (i.e., produce more than needed domestically) and exchange some of it for (surplus) bananas grown in Nicaragua. As a result, both more wheat and more bananas would be grown and consumed, and both Canada and Nicaragua would gain.
 
--   Thus, while the mercantilists believed that one nation could gain only at the expense of another nation and advocated strict government control of all economic activity and trade, Adam Smith (and the other classical economists who followed him) believed that all nations would gain from free trade and strongly advocated a policy of `laissez-faire` (i.e., as little government interference with the economic system as possible). Free trade would cause world resources to be utilized most efﬁciently and would maximize world welfare. There were to be only a few exceptions to this policy of laissez-faire and free trade. One of these was the protection of industries important for national defense.
+-   Thus, while the mercantilists believed that one nation could gain only at the expense of another nation and advocated strict government control of all economic activity and trade, Adam Smith (and the other classical economists who followed him) believed that all nations would gain from free trade and strongly advocated a policy of `laissez-faire` (i.e., as little government interference with the economic system as possible). 
+
+- Free trade would cause world resources to be utilized most efﬁciently and would maximize world welfare. There were to be only a few exceptions to this policy of `laissez-faire` and free trade. One of these was the protection of industries important for national defense.
 
 > In view of this belief, it seems paradoxical that today most nations impose many restrictions on the free ﬂow of international trade.
 
