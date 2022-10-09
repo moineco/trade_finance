@@ -96,6 +96,10 @@ Table 3.3: Example of comparative advantage
 
 -   According to the opportunity cost theory, the cost of a commodity is the amount of a second commodity that must be given up to release just enough resources to produce one additional unit of the ﬁrst commodity.
 
+-   The nation with the lower opportunity cost in the production of a commodity has a comparative advantage in that commodity.
+
+-   For example, if in the absence of trade the United States must give up two-thirds of a unit of cloth to release just enough resources to produce one additional unit of wheat domestically, then the opportunity cost of wheat is two-thirds of a unit of cloth.
+
 ## The Production Possibility Frontier (PPF) under constant costs
 
 -   Opportunity costs can be illustrated with the production possibility frontier, or transformation curve. The production possibility frontier is a curve that shows the alternative combinations of the two commodities that a nation can produce by fully utilizing all of its resources with the best technology available to it.
@@ -117,7 +121,7 @@ Table 3.4: Production possibility frontier of Wheat and Cloth production
 
 -   The United States and United Kingdom production possibility schedules given in Table 3.4 are graphed as production possibility frontiers in Figure 3.1. Each point on a frontier represents one combination of wheat and cloth that the nation can produce.
 
-    ![The Production Possibility Frontiers of the United States and the United Kingdom.](figures/PPF.jpg)
+    ![Figure 3.1: The Production Possibility Frontiers of the United States and the United Kingdom.](figures/PPF.jpg)
 
 ## Globalization and international trade
 
