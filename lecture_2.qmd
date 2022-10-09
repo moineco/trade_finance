@@ -49,7 +49,7 @@
 
 ## Labor Intensive and capital intensive industries
 
-### What Is labor intensive?
+### What Is labor intensive industry?
 
 -   The term labor intensive refers to a process or industry that requires a large amount of labor to produce its goods or services.
 
@@ -61,7 +61,7 @@
 
 -   Before the industrial revolution, 90% of the workforce was employed in agriculture. Producing food was very labor-intensive.
 
-### What is capital intensive?
+### What is capital intensive industry?
 
 -   Capital intensive refers to the production that requires higher capital investment such as financial resources, sophisticated machinery, more automated machines, the latest equipment, etc.
 
@@ -76,6 +76,5 @@
 -   Capital intensive production requires more equipment and machinery to produce goods; therefore, require a larger financial investment.
 
 -   Labor intensive refers to production that requires a higher labor input to carry out production activities in comparison to the amount of capital required.
-
 
 **Reference:** Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition)
