@@ -2,7 +2,7 @@
 
 ## The Ricardian model of international trade
 
--   The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivities (or technologies) for producing diﬀerent goods and services.
+-   The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivity (or technologies) for producing diﬀerent goods and services.
 
 -   It shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.
 
