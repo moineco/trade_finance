@@ -56,5 +56,14 @@ knitr::kable(df)
     -   Foreign asset ownership
     -   Immigration
     -   Price convergence: Possibility of trade may have important effects
+    
+
+## Globalization and international trade
+
+-   Globalization is the process of interaction and integration among people, companies, and governments worldwide.
+
+-   Globalization has accelerated since the 18th century due to advances in transportation and communications technology.
+
+-   This increase in global interactions has caused a growth in international trade.
 
 **Text book:** Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition
