@@ -48,23 +48,3 @@ To ﬁx ideas, let us work with the following numbers:
 -   Three of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.
 
 > There is a strong empirical relationship between the size of a country's economy and the volume of both its imports and its exports.
-
-## Differences between international trade and international finance
-
-::: panel-tabset
-### International trade
-
--   Microeconomics
--   Full employment
--   No savings
--   Balance trade
--   Real transaction
-
-### International finance
-
--   Macroeconomics
--   Under employment
--   Savings
--   Imbalance trade
--   Monetary transaction
-:::
