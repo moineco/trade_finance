@@ -1,4 +1,4 @@
-#  Reasons behind International trade and international finance
+#  Reasons behind International trade
 
 ## Basic reasons behind trade?
 
@@ -110,6 +110,14 @@ serious fallacies in apparently logical reasoning.
 -   This increase in global interactions has caused a growth in international trade.
 
 
+## The gravity model
+
+-   Let's begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today's global economy.
+
+-   Three of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.
+
+> There is a strong empirical relationship between the size of a country's economy and the volume of both its imports and its exports.
+
 
 ## Differences between international trade and international finance
 
@@ -130,11 +138,3 @@ serious fallacies in apparently logical reasoning.
 -   Imbalance trade
 -   Monetary transaction
 :::
-
-## The gravity model
-
--   Let's begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today's global economy.
-
--   Three of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.
-
-> There is a strong empirical relationship between the size of a country's economy and the volume of both its imports and its exports.
