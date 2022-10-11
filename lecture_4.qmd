@@ -33,7 +33,16 @@ To ﬁx ideas, let us work with the following numbers:
 
 ## Heckscher--Ohlin model of trade
 
+- We now go one step further and explain the reason, or cause, for
+the difference in relative commodity prices and comparative advantage between
+the two nations.
+
+- questions were left largely unanswered by Ricardo. According to Ricardo, comparative advantage was based
+on the difference in the productivity of labor among nations, but he provided no explanation for
+such a difference in productivity, except for possible differences in climate.
+
 -   The Heckscher--Ohlin model of trade states that endowment diﬀerences among countries play a key role in determining the pattern of trade.
+
 
 ## The Krugman model of trade
 
