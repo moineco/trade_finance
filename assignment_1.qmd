@@ -7,31 +7,33 @@ goods are Bread and Cloth. The lone factor of production is labor.
 The production of one unit of each good in each country requires a
 certain amount of labor which is called the unit labor requirement.
 
-- Lets consider:
+- Let's consider:
 
-   -  Home H
+   -  Home (H)
 
-   -  Foreign F
+   -  Foreign (F)
 
-   -  Bread B
+   -  Bread (B)
 
-   -  Cloth C
+   -  Cloth (C)
 
-   -  Labor L
+   -  Labor (L)
 
 - We have the following information
 
-   -  H_LB = 1 
+   -  In Home, one unit of Labor can produce 1 unit of Bread, H_LB = 1 
 
-   -  H_LC = 2
+   -  In Home, one unit of Labor can produce 2 units of Cloth, H_LC = 2
 
-   -  F_LB = 4
+   -  In Foreign, one unit of Labor can produce 4 units of Bread, F_LB = 4
 
-   -  F_LC = 3
+   -  In Foreign, one unit of Labor can produce 3 units of Cloth, F_LC = 3
 
 - It is easily veriﬁed that Home is better at making both Bread and Cloth because Home requires
 less labor to produce a unit of Bread and a unit Cloth compared
-to Foreign. In other words, Home labor is more productive than
+to Foreign. 
+
+- In other words, Home labor is more productive than
 Foreign in the production of both goods. Thus, Home has an absolute
 advantage in the production of both Bread and Cloth.
 
@@ -40,8 +42,10 @@ advantage in the production of both Bread and Cloth.
 - Home produces one unit of Bread, it uses one unit of labor.
 The alternative use of labor in Home is to produce Cloth. How much
 Cloth can one unit of labor in Home produce? The answer is 1/2,
-because each unit of Cloth requires two units of labor; therefore, one
+because each unit of Cloth requires two units of labor; so, one
 unit of labor can produce only 1/2 Cloth. 
+
+Therefore,
 
 - The opportunity cost of producing Bread in Home is 1/2 Cloth
 
@@ -58,25 +62,25 @@ unit of labor can produce only 1/2 Cloth.
 
 - Let's consider:
 
-  - Home H
+  - Home (H)
 
-  - Foreign F
+  - Foreign (F)
 
-  - Cloth C
+  - Cloth (C)
 
-  - Wheat W
+  - Wheat (W)
 
-  - Labor L
+  - Labor (L)
 
 - We have the following data:
 
-  - H_LC = 30
+  - In Home, one unit of Labor can produce 30 units of Cloth, H_LC = 30
 
-  - H_LW = 20
+  - In Home, one unit of Labor can produce 20 units of Wheat, H_LW = 20
  
-  - F_LC = 60
+  - In Foreign, one unit of Labor can produce 60 units of Cloth, F_LC = 60
 
-  - F_LW = 30
+  - In Foreign, one unit of Labor can produce 30 units of Wheat, F_LW = 30
 
 
 ### Answer the following multiple choice questions based on the above.
