@@ -115,10 +115,8 @@ D) 4 Cloths
 
 4) Which of the following statements is true about the table above?
 
-A) Home has a lower labor productivity in both Cloth and
-Wheat.
-B) Foreign has a lower labor productivity in both Cloth and
-Wheat.
+A) Home has a lower labor productivity in both Cloth and Wheat.
+B) Foreign has a lower labor productivity in both Cloth and Wheat.
 C) Home has a higher labor productivity in cloth, but Foreign
 has a higher labor productivity in Wheat.
 D) Home has a lower labor productivity in cloth, but Foreign has
@@ -128,9 +126,6 @@ a higher labor productivity in Wheat.
 5) Which of the following statements is true about the table above?
 
 A) Home has a comparative advantage in both Cloth and Wheat.
-B) Foreign has a comparative advantage in both Cloth and
-Wheat.
-C) Home has a comparative advantage in Cloth and Foreign in
-Wheat
-D) Foreign has a comparative advantage in Cloth and Home in
-Wheat.
+B) Foreign has a comparative advantage in both Cloth and Wheat.
+C) Home has a comparative advantage in Cloth and Foreign in Wheat
+D) Foreign has a comparative advantage in Cloth and Home in Wheat.
