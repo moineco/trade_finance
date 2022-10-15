@@ -21,13 +21,13 @@ certain amount of labor which is called the unit labor requirement.
 
 - We have the following information
 
-   -  In Home, one unit of Labor can produce 1 unit of Bread, H_LB = 1 
+   -  In Home, H_LB = 1 
 
-   -  In Home, one unit of Labor can produce 2 units of Cloth, H_LC = 2
+   -  In Home, H_LC = 2
 
-   -  In Foreign, one unit of Labor can produce 4 units of Bread, F_LB = 4
+   -  In Foreign, F_LB = 4
 
-   -  In Foreign, one unit of Labor can produce 3 units of Cloth, F_LC = 3
+   -  In Foreign, F_LC = 3
 
 - It is easily veriﬁed that Home is better at making both Bread and Cloth because Home requires
 less labor to produce a unit of Bread and a unit Cloth compared
@@ -74,13 +74,13 @@ Therefore,
 
 - We have the following data:
 
-  - In Home, one unit of Labor can produce 30 units of Cloth, H_LC = 30
+  - In Home, H_LC = 30
 
-  - In Home, one unit of Labor can produce 20 units of Wheat, H_LW = 20
+  - In Home, H_LW = 20
  
-  - In Foreign, one unit of Labor can produce 60 units of Cloth, F_LC = 60
+  - In Foreign, F_LC = 60
 
-  - In Foreign, one unit of Labor can produce 30 units of Wheat, F_LW = 30
+  - In Foreign, F_LW = 30
 
 
 ### Answer the following multiple choice questions based on the above.
