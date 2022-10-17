@@ -4,9 +4,14 @@
 
 -   We now go one step further and explain the reason, or cause, for the difference in relative commodity prices and comparative advantage between the two nations.
 
--   questions were left largely unanswered by Ricardo. According to Ricardo, comparative advantage was based on the difference in the productivity of labor among nations, but he provided no explanation for such a difference in productivity, except for possible differences in climate.
+-   Questions were left largely unanswered by Ricardo. According to Ricardo, comparative advantage was based on the difference in the productivity of labor among nations, but he provided no explanation for such a difference in productivity, except for possible differences in clima.te
+
+-   Named after two Swedish economists, Eli Heckscher and Bertil Ohlin, the Heckscher–Ohlin model studies the pattern of production and trade that arises when countries have diﬀerent endowments of
+factors of production, such as labor, capital and land.
 
 -   The Heckscher--Ohlin model of trade states that endowment diﬀerences among countries play a key role in determining the pattern of trade.
+
+> Heckscher–Ohlin Theorem. A country has a comparative advantage in the good that is relatively intensive in the country’s relatively abundant factor.
 
 ## The Krugman model of trade
 
