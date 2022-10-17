@@ -165,35 +165,28 @@
     "href": "lecture_4.html#the-ricardian-model-of-international-trade",
     "title": "4  International Trade Models",
     "section": "4.5 The Ricardian model of international trade",
-    "text": "4.5 The Ricardian model of international trade\n\nThe Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivity (or technologies) for producing diﬀerent goods and services.\nIt shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.\n\n\n4.5.1 The Ricardian theory\n\nThe Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,\nCountries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.\nThe model can be understood using a two-country, two-good and one factor of production example.\nSuppose that the two countries are Home(\\(h\\)) and Foreign(\\(f\\)) and the two goods are Bread (\\(b\\)) and Cloth (\\(c\\)).\nThe lone factor of production is labor (\\(L\\)).\nThe production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.\n\nLet’s denote,\n\nThe unit labor requirement in Home by \\(hL_i\\)\nThe unit labor requirement in Foreign by \\(fL_i\\)\nHere \\(i\\) = \\(b\\), \\(c\\)\n\n\\(b\\) denotes Bread and \\(c\\) denotes Cloth\n\n\nTo ﬁx ideas, let us work with the following numbers:\n\n\\(hL_b\\) = 1, \\(hL_c\\) = 2, \\(fL_b\\) = 4 and \\(fL_c\\) = 3"
-  },
-  {
-    "objectID": "lecture_4.html#heckscherohlin-model-of-trade",
-    "href": "lecture_4.html#heckscherohlin-model-of-trade",
-    "title": "4  International Trade Models",
-    "section": "4.6 Heckscher–Ohlin model of trade",
-    "text": "4.6 Heckscher–Ohlin model of trade\n\nWe now go one step further and explain the reason, or cause, for the difference in relative commodity prices and comparative advantage between the two nations.\nquestions were left largely unanswered by Ricardo. According to Ricardo, comparative advantage was based on the difference in the productivity of labor among nations, but he provided no explanation for such a difference in productivity, except for possible differences in climate.\nThe Heckscher–Ohlin model of trade states that endowment diﬀerences among countries play a key role in determining the pattern of trade."
-  },
-  {
-    "objectID": "lecture_4.html#the-krugman-model-of-trade",
-    "href": "lecture_4.html#the-krugman-model-of-trade",
-    "title": "4  International Trade Models",
-    "section": "4.7 The Krugman model of trade",
-    "text": "4.7 The Krugman model of trade\n\nThe Krugman model or the model of trade based on internal economies of scale in production.\nIt shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety."
-  },
-  {
-    "objectID": "lecture_4.html#the-gravity-model",
-    "href": "lecture_4.html#the-gravity-model",
-    "title": "4  International Trade Models",
-    "section": "4.8 The gravity model",
-    "text": "4.8 The gravity model\n\nLet’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.\nThree of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.\n\n\nThere is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports.\n\n\nThe basic form of the gravity equation is as follows:\n\n\\[T_{ij} = \\frac{GDP_{i}^{\\alpha } GDP_{j}^{\\beta}}{D_{ij}^{\\theta}}\\] Here,\n\\(T_{ij}\\) indicates bilateral trade between country \\(i\\), and \\(j\\)\n\\(GDP_i\\) indicates the economic size of \\(i\\), measured by gross domestic product\n\\(D_{ij}\\) indicates the bilateral distance between the two countries\nThe parameters are \\(α\\), \\(β\\), and \\(θ\\)"
+    "text": "4.5 The Ricardian model of international trade\n\nThe Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivity (or technologies) for producing diﬀerent goods and services.\nIt shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.\n\n\n4.5.1 The Ricardian theory\n\nThe Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,\nCountries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.\nThe model can be understood using a two-country, two-good and one factor of production example.\nSuppose that the two countries are Home(\\(h\\)) and Foreign(\\(f\\)) and the two goods are Bread (\\(b\\)) and Cloth (\\(c\\)).\nThe lone factor of production is labor (\\(L\\)).\nThe production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement."
   },
   {
     "objectID": "lecture_5.html",
     "href": "lecture_5.html",
     "title": "5  The Instruments of Trade Policy",
     "section": "",
-    "text": "Content creation is in progress…"
+    "text": "We now go one step further and explain the reason, or cause, for the difference in relative commodity prices and comparative advantage between the two nations.\nquestions were left largely unanswered by Ricardo. According to Ricardo, comparative advantage was based on the difference in the productivity of labor among nations, but he provided no explanation for such a difference in productivity, except for possible differences in climate.\nThe Heckscher–Ohlin model of trade states that endowment diﬀerences among countries play a key role in determining the pattern of trade."
+  },
+  {
+    "objectID": "lecture_5.html#the-krugman-model-of-trade",
+    "href": "lecture_5.html#the-krugman-model-of-trade",
+    "title": "5  The Instruments of Trade Policy",
+    "section": "5.2 The Krugman model of trade",
+    "text": "5.2 The Krugman model of trade\n\nThe Krugman model or the model of trade based on internal economies of scale in production.\nIt shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety."
+  },
+  {
+    "objectID": "lecture_5.html#the-gravity-model",
+    "href": "lecture_5.html#the-gravity-model",
+    "title": "5  The Instruments of Trade Policy",
+    "section": "5.3 The gravity model",
+    "text": "5.3 The gravity model\n\nLet’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.\nThree of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.\n\n\nThere is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports.\n\n\nThe basic form of the gravity equation is as follows:\n\n\\[T_{ij} = \\frac{GDP_{i}^{\\alpha } GDP_{j}^{\\beta}}{D_{ij}^{\\theta}}\\] Here,\n\\(T_{ij}\\) indicates bilateral trade between country \\(i\\), and \\(j\\)\n\\(GDP_i\\) indicates the economic size of \\(i\\), measured by gross domestic product\n\\(D_{ij}\\) indicates the bilateral distance between the two countries\nThe parameters are \\(α\\), \\(β\\), and \\(θ\\)"
   },
   {
     "objectID": "lecture_6.html",
