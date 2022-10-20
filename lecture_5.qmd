@@ -3,13 +3,39 @@
 ## Key concepts
 
 | Term                         | **Definition**                                                                                                                                                                                                           |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | Opportunity cost             | The value of the next best alternative to any decision you make. For instance, the opportunity cost of watching movey is the hour of studying she gives up to do that                                                    |
 | Growth                       | An increase in an economy's ability to produce goods and services over time; economic growth in the PPF model is illustrated by a shift out of the PPF                                                                   |
-| Contraction                  | A decrease in output that occurs due to the under-utilization of resources. In a graphical model of the PPF, a contraction is represented by moving to a point that is further away from, and on the interior of the PPF  |
+| Contraction                  | A decrease in output that occurs due to the under-utilization of resources. In a graphical model of the PPF, a contraction is represented by moving to a point that is further away from, and on the interior of the PPF |
 | Constant opportunity costs   | when the opportunity cost of a good remains constant as output of the good increases, which is represented as a PPF curve that is a straight line                                                                        |
 | Increasing opportunity costs | when the opportunity cost of a good increases as output of the good increases, which is represented in a graph as a PPF that is bowed out from the origin                                                                |
 | Productivity                 | (also called technology) the ability to combine economic resources; an increase in productivity causes economic growth even if economic resources have not changed, which would be represented by a shift out of the PPF |
+
+## Production Possibility Frontier
+
+-   Production possibilities frontier (PPF) shows the maximum attainable combinations of two products that may be produced if we use our resources efficiently. Sometimes economists call this Production Possibilities Curve (PPC).
+
+-   PPFs can be used to demonstrate:
+
+    a)  opportunity costs (trade-offs).
+    b)  efficient production.
+    c)  economic growth
+
+-   Understanding opportunity costs - The Shape of PPFs
+
+    -   Constant opportunity cost PPFs are
+
+        -- Linear lines. Opportunity cost is constant (the same) no matter where you produce.
+
+    -   Increasing opportunity cost PPFs are
+
+        -- Concave. As you keep increasing production, opportunity cost is increasing.
+
+-   The PPF with Increasing Costs
+
+It is more realistic for a nation to face increasing rather than constant opportunity costs. Increasing opportunity costs mean that the nation must give up more and more of one commodity to release just enough resources to produce each additional unit of another commodity. Increasing opportunity costs result in a production frontier that is concave from the origin (rather than a straight line).
+
+![The PPF with increasing costs](figures/PPF-graph.jpg){fig-align="center"}
 
 ## Heckscher--Ohlin model of trade
 
