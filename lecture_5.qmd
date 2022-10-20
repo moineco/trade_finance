@@ -3,7 +3,7 @@
 ## Key concepts
 
 | Term                         | **Definition**                                                                                                                                                                                                           |
-|-------------------|-----------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | Opportunity cost             | The value of the next best alternative to any decision you make. For instance, the opportunity cost of watching movey is the hour of studying she gives up to do that                                                    |
 | Growth                       | An increase in an economy's ability to produce goods and services over time; economic growth in the PPF model is illustrated by a shift out of the PPF                                                                   |
 | Contraction                  | A decrease in output that occurs due to the under-utilization of resources. In a graphical model of the PPF, a contraction is represented by moving to a point that is further away from, and on the interior of the PPF |
@@ -31,11 +31,31 @@
 
         -- Concave. As you keep increasing production, opportunity cost is increasing.
 
--   The PPF with Increasing Costs
+-   The PPF with increasing costs
 
 It is more realistic for a nation to face increasing rather than constant opportunity costs. Increasing opportunity costs mean that the nation must give up more and more of one commodity to release just enough resources to produce each additional unit of another commodity. Increasing opportunity costs result in a production frontier that is concave from the origin (rather than a straight line).
 
 ![The PPF with increasing costs](figures/PPF-graph.jpg){fig-align="center"}
+
+## The Production Possibilities Frontier and Social Choices
+
+-   Because society has limited resources (e.g., labor, land, capital, raw materials) at any point in time, there is a limit to the quantities of goods and services it can produce.
+
+-   Suppose a society desires two products, healthcare and education. This situation is illustrated by the production possibilities frontier in this graph.
+
+-  A Healthcare vs. Education Production Possibilities Frontier
+
+![Healthcare vs. Education PPF](figures/PPF-ex1.jpg){fig-align="center" width="400"}
+
+-   In the graph, healthcare is shown on the vertical axis and education is shown on the horizontal axis. If the society were to allocate all of its resources to healthcare, it could produce at point A. But it would not have any resources to produce education.
+
+-   If it were to allocate all of its resources to education, it could produce at point F.
+
+-   Alternatively, the society could choose to produce any combination of healthcare and education shown on the production possibilities frontier.
+
+-   Society can choose any combination of the two goods on or inside the PPF. But it does not have enough resources to produce outside the PPF.
+
+-   Suppose society has chosen to operate at point B, and it is considering producing more education.the only way society can obtain more education is by giving up some healthcare. That is the tradeoff society faces.
 
 ## Heckscher--Ohlin model of trade
 
