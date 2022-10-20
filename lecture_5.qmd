@@ -3,7 +3,7 @@
 ## Key concepts
 
 | Term                         | **Definition**                                                                                                                                                                                                           |
-|--------------------|----------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | Opportunity cost             | The value of the next best alternative to any decision you make. For instance, the opportunity cost of watching movey is the hour of studying she gives up to do that                                                    |
 | Growth                       | An increase in an economy's ability to produce goods and services over time; economic growth in the PPF model is illustrated by a shift out of the PPF                                                                   |
 | Contraction                  | A decrease in output that occurs due to the under-utilization of resources. In a graphical model of the PPF, a contraction is represented by moving to a point that is further away from, and on the interior of the PPF |
@@ -43,7 +43,7 @@ It is more realistic for a nation to face increasing rather than constant opport
 
 -   Suppose a society desires two products, healthcare and education. This situation is illustrated by the production possibilities frontier in this graph.
 
--  A Healthcare vs. Education Production Possibilities Frontier
+-   A Healthcare vs. Education Production Possibilities Frontier
 
 ![Healthcare vs. Education PPF](figures/PPF-ex1.jpg){fig-align="center" width="400"}
 
@@ -56,6 +56,24 @@ It is more realistic for a nation to face increasing rather than constant opport
 -   Society can choose any combination of the two goods on or inside the PPF. But it does not have enough resources to produce outside the PPF.
 
 -   Suppose society has chosen to operate at point B, and it is considering producing more education.the only way society can obtain more education is by giving up some healthcare. That is the tradeoff society faces.
+
+## The shape of the PPF and the law of diminishing returns
+
+-   The law of diminishing returns, which holds that as additional increments of resources are added to a certain purpose, the marginal benefit from those additional increments will decline.
+
+-   For instance, when government spends a certain amount more on reducing crime, for example, the original gains in reducing crime could be relatively large. But additional increases typically cause relatively smaller reductions in crime, and paying for enough police and security to reduce crime to nothing at all would be tremendously expensive.
+
+-   The curvature of the production possibilities frontier shows that as additional resources are added to education, moving from left to right along the horizontal axis, the original gains are fairly large, but gradually diminish. Similarly, as additional resources are added to healthcare, moving from bottom to top on the vertical axis, the original gains are fairly large, but again gradually diminish. In this way, the law of diminishing returns produces the outward-bending shape of the production possibilities frontier.
+
+## Productive Efficiency and Allocative Efficiency
+
+The production possibilities frontier can illustrate two kinds of efficiency: productive efficiency and allocative efficiency. The following graph illustrates these ideas using a production possibilities frontier between healthcare and education.
+
+-   Productive efficiency means that, given the available inputs and technology, it is impossible to produce more of one good without decreasing the quantity that is produced of another good. All choices on the PPF in this graph, including A, B, C, D, and F, display productive efficiency. As a firm moves from any one of these choices to any other, either healthcare increases and education decreases or vice versa. However, any choice inside the production possibilities frontier is productively inefficient and wasteful because it is possible to produce more of one good, the other good, or some combination of both goods.
+
+-   Allocative efficiency means that the particular mix of goods a society produces represents the combination that society most desires. How to determine what a society desires can be a controversial question, and is usually discussed in political science, sociology, and philosophy classes as well as in economics. At its most basic, allocative efficiency means producers supply the quantity of each product that consumers demand. Only one of the productively efficient choices will be the allocatively efficient choice for society as a whole.
+
+![Productive and Allocative Efficiency](figures/PPF-ex2.jpg){fig-align="center" width="400"}
 
 ## Heckscher--Ohlin model of trade
 
