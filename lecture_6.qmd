@@ -2,7 +2,7 @@
 
 Previous lectures have answered the question, “Why do nations trade?” by
 describing the causes and effects of international trade and the functioning of
-a trading world economy. This chapter examines the policies that governments adopt toward international
+a trading world economy. This lecture examines the policies that governments adopt toward international
 trade, policies that involve a number of different actions. These actions include:
 
 - Taxes 
@@ -26,4 +26,5 @@ A tariff is a tax levied when a good is imported. There are various types of tar
 - *Ad valorem* tariffs are taxes that are levied as a fraction of the value of
 the imported goods (for example, a 25 percent U.S. tariff on imported trucks).
 
-
+Tariffs are the oldest form of trade policy and have traditionally been used as a source
+of government income. Their true purpose is to provide revenue and to protect particular domestic sectors.
