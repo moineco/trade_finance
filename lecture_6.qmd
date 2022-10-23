@@ -1,57 +1,48 @@
 # The Political Economy of Trade Policy
 
-Previous lectures have answered the question, “Why do nations trade?” by
-describing the causes and effects of international trade and the functioning of
-a trading world economy. This lecture examines the policies that governments adopt toward international
-trade, policies that involve a number of different actions. These actions include:
+Previous lectures have answered the question, "Why do nations trade?" by describing the causes and effects of international trade and the functioning of a trading world economy. This lecture examines the policies that governments adopt toward international trade, policies that involve a number of different actions. These actions include:
 
-- Taxes 
+-   Taxes
 
-- Subsidies 
+-   Subsidies
 
-- Legal limits on the value or volume of particular imports
+-   Legal limits on the value or volume of particular imports
 
-- Other measures
+-   Other measures
 
-The chapter thus provides a framework for understanding the effects of the most
-important instruments of trade policy.
-
+The chapter thus provides a framework for understanding the effects of the most important instruments of trade policy.
 
 ## Basic Tariff Analysis
 
-A tariff is a tax levied when a good is imported. There are various types of tariff. 
+A tariff is a tax levied when a good is imported. There are various types of tariff.
 
-- *Specific tariff* are levied as a fixed charge for each unit of goods imported (for example, $3 per barrel of oil).
+-   *Specific tariff* are levied as a fixed charge for each unit of goods imported (for example, \$3 per barrel of oil).
 
-- *Ad valorem* tariffs are taxes that are levied as a fraction of the value of
-the imported goods (for example, a 25 percent U.S. tariff on imported trucks).
+-   *Ad valorem* tariffs are taxes that are levied as a fraction of the value of the imported goods (for example, a 25 percent U.S. tariff on imported trucks).
 
-Tariffs are the oldest form of trade policy and have traditionally been used as a source
-of government income. Their true purpose is to provide revenue and to protect particular domestic sectors.
+Tariffs are the oldest form of trade policy and have traditionally been used as a source of government income. Their true purpose is to provide revenue and to protect particular domestic sectors.
 
-The importance of tariffs has declined in modern times because modern governments usually prefer to protect domestic industries
-through a variety of non-tariff barriers, such as: 
+The importance of tariffs has declined in modern times because modern governments usually prefer to protect domestic industries through a variety of non-tariff barriers, such as:
 
-- Import quotas (limitations on the quantity of imports) 
+-   Import quotas (limitations on the quantity of imports)
 
-- Export restraints (limitations on the quantity of exports—usually imposed by the exporting country at the importing country’s request). 
+-   Export restraints (limitations on the quantity of exports---usually imposed by the exporting country at the importing country's request).
 
 Nonetheless, an understanding of the effects of a tariff remains vital for understanding other trade policies.
 
 ## Political economy and trade policy
 
-In 2008, several developing countries were forced to reduce crop prices domestically. To increase domestic supply for food products, countries like Thailand,
-Russia, and Ukraine chose to restrict food exports. Such a trade policy was not only
-politically improper, as it serves only one country’s interest, but also economically
-counter-productive. For example, farmers in Ukraine dumped around €90 million worth of grain as they harvested more than they could supply domestically,
-due to the export restrictions, while the world supply was insufficient.
+In 2008, several developing countries were forced to reduce crop prices domestically. To increase domestic supply for food products, countries like Thailand, Russia, and Ukraine chose to restrict food exports. Such a trade policy was not only politically improper, as it serves only one country's interest, but also economically counter-productive. For example, farmers in Ukraine dumped around €90 million worth of grain as they harvested more than they could supply domestically, due to the export restrictions, while the world supply was insufficient.
 
-Banning exports may have reduced domestic prices, but importers had to look elsewhere
-for sources of supply, creating a rise in global crop prices. Thus, such policies
-produce more costs than benefits as higher the price, the greater the incentive to
-hoard, which create shifts in prices. Clearly, government policies reflect intentions
-that go beyond simple measures of cost and benefit.
+Banning exports may have reduced domestic prices, but importers had to look elsewhere for sources of supply, creating a rise in global crop prices. Thus, such policies produce more costs than benefits as higher the price, the greater the incentive to hoard, which create shifts in prices. Clearly, government policies reflect intentions that go beyond simple measures of cost and benefit.
 
 ### Free Trade and Efficiency
 
+The efficiency case for free trade is simply the reverse of the cost-benefit analysis of a
+tariff. Figure 6a shows the basic point once again for the case of a small country that
+cannot influence foreign export prices. A tariff causes a net loss to the economy mea-
+sured by the area of the two triangles; it does so by distorting the economic incentives
+of both producers and consumers. Conversely, a move to free trade eliminates these
+distortions and increases national welfare.
 
+![Figure 6a: Efficiency of free trade](figures/Efficiency-Free-Trade.jpg){fig-align="center"}
