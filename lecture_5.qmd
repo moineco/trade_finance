@@ -3,7 +3,7 @@
 ## Key concepts
 
 | Term                         | **Definition**                                                                                                                                                                                                           |
-|---------------------|---------------------------------------------------|
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Opportunity cost             | The value of the next best alternative to any decision you make. For instance, the opportunity cost of watching movey is the hour of studying she gives up to do that                                                    |
 | Growth                       | An increase in an economy's ability to produce goods and services over time; economic growth in the PPF model is illustrated by a shift out of the PPF                                                                   |
 | Contraction                  | A decrease in output that occurs due to the under-utilization of resources. In a graphical model of the PPF, a contraction is represented by moving to a point that is further away from, and on the interior of the PPF |

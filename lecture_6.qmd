@@ -1,3 +1,29 @@
 # The Political Economy of Trade Policy
 
-Content creation is in progress...
+Previous lectures have answered the question, “Why do nations trade?” by
+describing the causes and effects of international trade and the functioning of
+a trading world economy. This chapter examines the policies that governments adopt toward international
+trade, policies that involve a number of different actions. These actions include:
+
+- Taxes 
+
+- Subsidies 
+
+- Legal limits on the value or volume of particular imports
+
+- Other measures
+
+The chapter thus provides a framework for understanding the effects of the most
+important instruments of trade policy.
+
+
+## Basic Tariff Analysis
+
+A tariff is a tax levied when a good is imported. There are various types of tariff. 
+
+- *Specific tariff* are levied as a fixed charge for each unit of goods imported (for example, $3 per barrel of oil).
+
+- *Ad valorem* tariffs are taxes that are levied as a fraction of the value of
+the imported goods (for example, a 25 percent U.S. tariff on imported trucks).
+
+
