@@ -1,6 +1,6 @@
 # \>\>\> Assignment 2 {.unnumbered}
 
-Use your knowledge about trade policy to evaluate each of the following statements.
+1. Use your knowledge about trade policy to evaluate each of the following statements.
 Write at least 150 words for each of the following questions.
 
 a. “Tariffs on imported goods will increase domestic price, leading to high
@@ -12,3 +12,6 @@ c. “Smartphone manufacturing jobs are heading back to United States because
 wages started to rise in China. As a result, we should implement tariffs on
 smartphones equal to the difference between U.S. and China’s wage rates.”
 
+2. If tariffs are already in place as a trade policy, why might a country choose to apply
+also non-tariff barriers as another way to control the amount of trade that they
+conduct with other countries?
