@@ -83,3 +83,29 @@ a final good to be produced domestically. In some cases, this fraction is specif
 physical units. In other cases, the requirement is stated in value terms by requiring that some minimum share of the price of a good represent domestic value added. Local content laws have been widely used by
 developing countries trying to shift their manufacturing base from assembly back into
 intermediate goods.
+
+## Governments directly influence some trade policy instruments
+
+Governments influence trade in many other ways. We list some of them briefly.
+
+### Export credit subsidies
+
+This is like an export subsidy except that it takes the form
+of a subsidized loan to the buyer. The United States, like most other countries, has
+a government institution, the Export-Import Bank, devoted to providing at least
+slightly subsidized loans to aid exports.
+
+### National procurement
+
+Purchases by the government or strongly regulated firms can
+be directed toward domestically produced goods even when these goods are more
+expensive than imports. The classic example is the European telecommunications
+industry. For instance, I Europe, government-owned telephone companies buy from
+domestic suppliers even when the suppliers charge higher prices than suppliers in
+other countries.
+
+### Red-tape barriers 
+
+Sometimes a government wants to restrict imports without doing
+so formally. Fortunately or unfortunately, it is easy to twist normal health, safety,
+and customs procedures in order to place substantial obstacles in the way of trade.
