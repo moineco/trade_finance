@@ -1,14 +1,6 @@
 # The Political Economy of Trade Policy
 
-Previous lectures have answered the question, "Why do nations trade?" by describing the causes and effects of international trade and the functioning of a trading world economy. This lecture examines the policies that governments adopt toward international trade, policies that involve a number of different actions. These actions include:
-
--   Taxes
-
--   Subsidies
-
--   Legal limits on the value or volume of particular imports
-
--   Other measures
+Previous lectures have answered the question, "Why do nations trade?" by describing the causes and effects of international trade and the functioning of a trading world economy. This lecture examines the policies that governments adopt toward international trade, policies that involve a number of different actions. These actions include *taxes*, *subsidies*, *legal limits* on the value or volume of particular imports and other measures.
 
 The chapter thus provides a framework for understanding the effects of the most important instruments of trade policy.
 
@@ -45,3 +37,41 @@ The efficiency case for free trade is simply the reverse of the cost-benefit ana
 In the modern world, for reasons we will explain later in this chapter, tariff rates are generally low and import quotas relatively rare. As a result, estimates of the total costs of distortions due to tariffs and import quotas tend to be modest in size. Table 6a shows an estimate of the gains from a move to worldwide free trade, measured as a percentage of GDP. For the world as a whole, according to these estimates, protection costs less than 1 percent of GDP. The gains from free trade are somewhat smaller for advanced economies such as the United States and Europe and somewhat larger for poorer "developing countries."
 
 ![Table 6a: Benefits of a Move to Worldwide Free Trade (percent of GDP)](figures/Free-Trade-GDP.jpg){fig-align="center"}
+
+## Other Instruments of Trade Policy
+
+Tariffs are the simplest trade policies, but in the modern world, most government intervention in international trade takes other forms, such as 
+
+- Export subsidies
+
+- Import quotas,
+
+- Voluntary export restraints
+
+- Local content requirements 
+
+Fortunately, once we have understood tariffs, it is not too difficult to understand these other trade instruments.
+
+### Export Subsidies
+
+An export subsidy is a payment to a firm or individual that ships a good abroad. Like
+a tariff, an export subsidy can be either specific (a fixed sum per unit) or ad valorem
+(a proportion of the value exported). When the government offers an export subsidy,
+shippers will export the good up to the point at which the domestic price exceeds the
+foreign price by the amount of the subsidy.
+
+### Import Quotas
+
+An import quota is a direct restriction on the quantity of some good that may be
+imported. The restriction is usually enforced by issuing licenses to some group of individuals or firms. For example, the United States has a quota on imports of foreign
+cheese. The only firms allowed to import cheese are certain trading companies, each of
+which is allocated the right to import a maximum number of pounds of cheese each year;
+the size of each firm’s quota is based on the amount of cheese it imported in the past.
+
+
+### Voluntary Export Restraints
+
+A variant on the import quota is the voluntary export restraint (VER), also known as
+a voluntary restraint agreement (VRA). A VER is a quota on trade imposed
+from the exporting country’s side instead of the importer’s. The most famous example
+is the limitation on auto exports to the United States enforced by Japan after 1981.
