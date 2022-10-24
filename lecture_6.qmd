@@ -32,7 +32,7 @@ Banning exports may have reduced domestic prices, but importers had to look else
 
 The efficiency case for free trade is simply the reverse of the cost-benefit analysis of a tariff. Figure 6a shows the basic point once again for the case of a small country that cannot influence foreign export prices. A tariff causes a net loss to the economy mea sured by the area of the two triangles; it does so by distorting the economic incentives of both producers and consumers. Conversely, a move to free trade eliminates these distortions and increases national welfare.
 
-![Figure 6a: Efficiency of free trade](figures/Efficiency-Free-Trade.jpg){fig-align="center"}
+![Figure 6a: Efficiency of free trade](figures/Efficiency-Free-Trade.jpg){fig-align="center" width="600"}
 
 In the modern world, for reasons we will explain later in this chapter, tariff rates are generally low and import quotas relatively rare. As a result, estimates of the total costs of distortions due to tariffs and import quotas tend to be modest in size. Table 6a shows an estimate of the gains from a move to worldwide free trade, measured as a percentage of GDP. For the world as a whole, according to these estimates, protection costs less than 1 percent of GDP. The gains from free trade are somewhat smaller for advanced economies such as the United States and Europe and somewhat larger for poorer "developing countries."
 
@@ -40,49 +40,33 @@ In the modern world, for reasons we will explain later in this chapter, tariff r
 
 ## Some other Instruments of Trade Policy
 
-Tariffs are the simplest trade policies, but in the modern world, most government intervention in international trade takes other forms, such as: 
+Tariffs are the simplest trade policies, but in the modern world, most government intervention in international trade takes other forms, such as:
 
-- Export subsidies
+-   Export subsidies
 
-- Import quotas,
+-   Import quotas,
 
-- Voluntary export restraints
+-   Voluntary export restraints
 
-- Local content requirements 
+-   Local content requirements
 
 Fortunately, once we have understood tariffs, it is not too difficult to understand these other trade instruments.
 
 ### Export Subsidies
 
-An export subsidy is a payment to a firm or individual that ships a good abroad. Like
-a tariff, an export subsidy can be either specific (a fixed sum per unit) or ad valorem
-(a proportion of the value exported). When the government offers an export subsidy,
-shippers will export the good up to the point at which the domestic price exceeds the
-foreign price by the amount of the subsidy.
+An export subsidy is a payment to a firm or individual that ships a good abroad. Like a tariff, an export subsidy can be either specific (a fixed sum per unit) or ad valorem (a proportion of the value exported). When the government offers an export subsidy, shippers will export the good up to the point at which the domestic price exceeds the foreign price by the amount of the subsidy.
 
 ### Import Quotas
 
-An import quota is a direct restriction on the quantity of some good that may be
-imported. The restriction is usually enforced by issuing licenses to some group of individuals or firms. For example, the United States has a quota on imports of foreign
-cheese. The only firms allowed to import cheese are certain trading companies, each of
-which is allocated the right to import a maximum number of pounds of cheese each year;
-the size of each firm’s quota is based on the amount of cheese it imported in the past.
-
+An import quota is a direct restriction on the quantity of some good that may be imported. The restriction is usually enforced by issuing licenses to some group of individuals or firms. For example, the United States has a quota on imports of foreign cheese. The only firms allowed to import cheese are certain trading companies, each of which is allocated the right to import a maximum number of pounds of cheese each year; the size of each firm's quota is based on the amount of cheese it imported in the past.
 
 ### Voluntary Export Restraints
 
-A variant on the import quota is the voluntary export restraint (VER), also known as
-a voluntary restraint agreement (VRA). A VER is a quota on trade imposed
-from the exporting country’s side instead of the importer’s. The most famous example
-is the limitation on auto exports to the United States enforced by Japan after 1981.
+A variant on the import quota is the voluntary export restraint (VER), also known as a voluntary restraint agreement (VRA). A VER is a quota on trade imposed from the exporting country's side instead of the importer's. The most famous example is the limitation on auto exports to the United States enforced by Japan after 1981.
 
 ### Local Content Requirements
 
-A local content requirement is a regulation that requires some specified fraction of
-a final good to be produced domestically. In some cases, this fraction is specified in
-physical units. In other cases, the requirement is stated in value terms by requiring that some minimum share of the price of a good represent domestic value added. Local content laws have been widely used by
-developing countries trying to shift their manufacturing base from assembly back into
-intermediate goods.
+A local content requirement is a regulation that requires some specified fraction of a final good to be produced domestically. In some cases, this fraction is specified in physical units. In other cases, the requirement is stated in value terms by requiring that some minimum share of the price of a good represent domestic value added. Local content laws have been widely used by developing countries trying to shift their manufacturing base from assembly back into intermediate goods.
 
 ## Governments directly influence some trade policy instruments
 
@@ -90,22 +74,12 @@ Governments influence trade in many other ways. We list some of them briefly.
 
 ### Export credit subsidies
 
-This is like an export subsidy except that it takes the form
-of a subsidized loan to the buyer. The United States, like most other countries, has
-a government institution, the Export-Import Bank, devoted to providing at least
-slightly subsidized loans to aid exports.
+This is like an export subsidy except that it takes the form of a subsidized loan to the buyer. The United States, like most other countries, has a government institution, the Export-Import Bank, devoted to providing at least slightly subsidized loans to aid exports.
 
 ### National procurement
 
-Purchases by the government or strongly regulated firms can
-be directed toward domestically produced goods even when these goods are more
-expensive than imports. The classic example is the European telecommunications
-industry. For instance, I Europe, government-owned telephone companies buy from
-domestic suppliers even when the suppliers charge higher prices than suppliers in
-other countries.
+Purchases by the government or strongly regulated firms can be directed toward domestically produced goods even when these goods are more expensive than imports. The classic example is the European telecommunications industry. For instance, I Europe, government-owned telephone companies buy from domestic suppliers even when the suppliers charge higher prices than suppliers in other countries.
 
-### Red-tape barriers 
+### Red-tape barriers
 
-Sometimes a government wants to restrict imports without doing
-so formally. Fortunately or unfortunately, it is easy to twist normal health, safety,
-and customs procedures in order to place substantial obstacles in the way of trade.
+Sometimes a government wants to restrict imports without doing so formally. Fortunately or unfortunately, it is easy to twist normal health, safety, and customs procedures in order to place substantial obstacles in the way of trade.
