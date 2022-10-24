@@ -36,7 +36,17 @@ The efficiency case for free trade is simply the reverse of the cost-benefit ana
 
 In the modern world, for reasons we will explain later in this chapter, tariff rates are generally low and import quotas relatively rare. As a result, estimates of the total costs of distortions due to tariffs and import quotas tend to be modest in size. Table 6a shows an estimate of the gains from a move to worldwide free trade, measured as a percentage of GDP. For the world as a whole, according to these estimates, protection costs less than 1 percent of GDP. The gains from free trade are somewhat smaller for advanced economies such as the United States and Europe and somewhat larger for poorer "developing countries."
 
-![Table 6a: Benefits of a Move to Worldwide Free Trade (percent of GDP)](figures/Free-Trade-GDP.jpg){fig-align="center"}
+| Country or region    | Growth of GDP in percentage |
+|----------------------|-----------------------------|
+| United States        | 0.57                        |
+| European Union       | 0.61                        |
+| Japan                | 0.85                        |
+| Developing Countries | 1.4                         |
+| World                | 0.93                        |
+
+: Table 6.1: Benefits of Free Trade (Source: William Cline, Trade Policy and Global Poverty)
+
+Because tariff rates are already low for most of the countries, the estimated benefit to free trade is not significantly high for many nations and regions of the world.  
 
 | Policy                   | Tariff                              | Export Subsidy | Import Quota                        | Voluntary Export Restraint |
 |---------------|---------------|---------------|---------------|---------------|
