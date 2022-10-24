@@ -38,14 +38,16 @@ In the modern world, for reasons we will explain later in this chapter, tariff r
 
 ![Table 6a: Benefits of a Move to Worldwide Free Trade (percent of GDP)](figures/Free-Trade-GDP.jpg){fig-align="center"}
 
-| Policy                              | Tariff                              | Export Subsidy                    | Import Quota                         | Voluntary Export Restraint      |
-|-------------------------------------|-------------------------------------|-----------------------------------|--------------------------------------|---------------------------------|
-| Producer surplus (Producer benefit) | Increases                           | Increases                         | Increases                            | Increases                       |
-| Consumer surplus (Consumer benefit) | Falls                               | Falls                             | Falls                                | Falls                           |
-| Government revenue                  | Increases                           | Falls (government spending rises) | No change (rents to license holders) | No change (rents to foreigners) |
-| Overall national welfare            | Ambiguous (falls for small country) | Falls                             | Ambiguous (falls for small country)  | Falls                           |
+| Policy                   | Tariff                              | Export Subsidy | Import Quota                        | Voluntary Export Restraint |
+|---------------|---------------|---------------|---------------|---------------|
+| Producer benefit         | Increases                           | Increases      | Increases                           | Increases                  |
+| Consumer benefit         | Falls                               | Falls          | Falls                               | Falls                      |
+| Government revenue       | Increases                           | Falls          | No change                           | No change                  |
+| Overall national welfare | Ambiguous (falls for small country) | Falls          | Ambiguous (falls for small country) | Falls                      |
 
 : Table 6b: Effects of Alternative Trade Policies
+
+All four trade policies benefit producers and hurt consumers. The effects of the policies on economic welfare are at best ambiguous; two of the policies definitely hurt the nation as a whole, while tariffs and import quotas are potentially beneficial only for large countries that can drive down world prices.
 
 ## Some other Instruments of Trade Policy
 
