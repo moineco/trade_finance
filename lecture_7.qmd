@@ -58,3 +58,13 @@ Notes:
 ### What is the difference between free trade and fair trade?
 
 Although these terms are often confused, there are significant differences between free trade and fair trade. Free trade agreements are aimed at fostering open trade between nations to improve economic growth among all involved parties. The fair trade movement is focused on fostering economic equity on a global scale so that the workers who make goods in other countries receive fair wages and improve their lives and communities.
+
+## Trade and Developing Countries
+
+So far, we have analyzed the instruments of trade policy and its objectives
+without specifying the context—that is, without saying much about the country undertaking these policies. Each country has its own distinctive history and
+issues, but in discussing economic policy, one difference between countries
+becomes obvious: their income levels.
+
+**Reference:** Chapter 11- Trade Policy in
+Developing Countries (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Trade: Theory and Policy*, 11th edition)
