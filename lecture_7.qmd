@@ -1,3 +1,60 @@
 # Trade Policy in Developing Countries
 
-Content creation is in progress...
+## Governments directly influence some trade policy instruments
+
+Governments influence trade in many other ways. We list some of them briefly.
+
+### Export credit subsidies
+
+This is like an export subsidy except that it takes the form of a subsidized loan to the buyer. The United States, like most other countries, has a government institution, the Export-Import Bank, devoted to providing at least slightly subsidized loans to aid exports.
+
+### National procurement
+
+Purchases by the government or strongly regulated firms can be directed toward domestically produced goods even when these goods are more expensive than imports. The classic example is the European telecommunications industry. For instance, I Europe, government-owned telephone companies buy from domestic suppliers even when the suppliers charge higher prices than suppliers in other countries.
+
+### Red-tape barriers
+
+Sometimes a government wants to restrict imports without doing so formally. Fortunately or unfortunately, it is easy to twist normal health, safety, and customs procedures in order to place substantial obstacles in the way of trade.
+
+## The free trade agreements (FTA)
+Free trade agreements are treaties that regulate the tariffs, taxes, and duties that countries impose on their imports and exports. The most well-known U.S. regional trade agreement is the United States-Mexico-Canada Agreement (USMCA) which replaced the North America Free Trade Agreement (NAFTA) effective July 1, 2020.
+
+Currently, the United States has 14 FTAs with 20 countries. FTAs can help your company to enter and compete more easily in the global marketplace through zero or reduced tariffs and other provisions. While the specifics of each FTA vary, they generally provide for the reduction of trade barriers and the creation of a more predictable and transparent trading and investment environment. This makes it easier and cheaper for U.S. companies to export their products and services to trading partner markets.
+
+Notes: 
+
+> Free trade agreements reduce or eliminate barriers to trade across international borders.
+
+> Free trade is the opposite of trade protectionism.
+
+> In the U.S. and the E.U., free trade agreements do not come without regulations and oversight.
+
+### Advantages of Free Trade Agreements
+
+- Increased Economic Growth
+
+- More Dynamic Business Climate
+
+- Lower Government Spending
+
+- Industry Expertise
+
+- Technology Transfer
+
+### Disadvantages of Free Trade Agreements
+
+- Increased Job Outsourcing
+
+- Theft of Intellectual Property
+
+- Crowding Out Domestic Industries
+
+- Poor Working Conditions
+
+- Reduced Tax Revenue
+
+- Degradation of Natural Resources
+
+### What is the difference between free trade and fair trade?
+
+Although these terms are often confused, there are significant differences between free trade and fair trade. Free trade agreements are aimed at fostering open trade between nations to improve economic growth among all involved parties. The fair trade movement is focused on fostering economic equity on a global scale so that the workers who make goods in other countries receive fair wages and improve their lives and communities.
