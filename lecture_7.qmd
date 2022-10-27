@@ -96,6 +96,10 @@ Beginning in the mid-1980s, a number of developing countries moved to lower tari
 
 After 1985, many developing countries reduced tariffs, removed import quotas, and in general opened their economies to import competition. Figure 7a shows trends in tariff rates for an average of all developing countries and for two important developing countries, India and Brazil, which once relied heavily on import substitution as a development strategy. As you can see, there has been a dramatic fall in tariff rates in those two countries. Similar if less drastic changes in trade policy took place in many other developing countries.
 
+![Figure 7b: The Growth of Developing-Country Trade](figures/Growth_Developing_Trade.jpg){width="701"}
+
+Trade liberalization in developing countries had two clear effects. One was a dramatic increase in the volume of trade. Figure 7b plots exports and imports of developing countries, measured as percentages of GDP, since 1970. As you can see, the share of trade in GDP has tripled over that period, with most of the growth happening after 1985.
+
 ### The Rising Weight of Developing Countries in World Trade
 
 -   Developing countries are already playing an increasing role in world trade. In 2006, they accounted for 30 percent of world exports, up from 19.5 percent in 1996.
@@ -106,10 +110,10 @@ After 1985, many developing countries reduced tariffs, removed import quotas, an
 
 ### The Rise of South-South Trade
 
-- Over the past two decades, trade and investment have risen not only between the rich countries of the North and the developing economies of the South, but also among countries in the South, particularly—though not exclusively—involving Asian nations. 
+-   Over the past two decades, trade and investment have risen not only between the rich countries of the North and the developing economies of the South, but also among countries in the South, particularly---though not exclusively---involving Asian nations.
 
-- China and India significantly increased imports from MENA and SSA, partly due to rising commodity demand, with China absorbing $32.5 billion in exports from them in 2006, up from just $545 million in 1996. 
+-   China and India significantly increased imports from MENA and SSA, partly due to rising commodity demand, with China absorbing \$32.5 billion in exports from them in 2006, up from just \$545 million in 1996.
 
-- Bilateral trade between China and India has grown increasingly significant as well, with exports from China to India jumping from $686 million to $14.5 billion.
+-   Bilateral trade between China and India has grown increasingly significant as well, with exports from China to India jumping from \$686 million to \$14.5 billion.
 
 **Reference:** Chapter 11- Trade Policy in Developing Countries (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Trade: Theory and Policy*, 11th edition)
