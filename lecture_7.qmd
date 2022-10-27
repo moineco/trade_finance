@@ -100,6 +100,12 @@ After 1985, many developing countries reduced tariffs, removed import quotas, an
 
 Trade liberalization in developing countries had two clear effects. One was a dramatic increase in the volume of trade. Figure 7b plots exports and imports of developing countries, measured as percentages of GDP, since 1970. As you can see, the share of trade in GDP has tripled over that period, with most of the growth happening after 1985.
 
+### Trade and Growth: Takeoff in Asia
+
+![Figure 7c: The Asian Takeoff](figures/Asian_Takeoff.jpg){width="701"}
+
+Figure 7c illustrates the Asian takeoff by showing the experiences of three countries: South Korea, the biggest of the original group of Asian "tigers"; China; and India. In each case, we show per-capita GDP as a percentage of the U.S. level, an indicator that highlights the extent of these nations' economic "catchup." As you can see, South Korea began its economic ascent in the 1960s, China at the end of the 1970s, and India circa 1990.
+
 ### The Rising Weight of Developing Countries in World Trade
 
 -   Developing countries are already playing an increasing role in world trade. In 2006, they accounted for 30 percent of world exports, up from 19.5 percent in 1996.
