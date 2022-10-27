@@ -17,11 +17,12 @@ Purchases by the government or strongly regulated firms can be directed toward d
 Sometimes a government wants to restrict imports without doing so formally. Fortunately or unfortunately, it is easy to twist normal health, safety, and customs procedures in order to place substantial obstacles in the way of trade.
 
 ## The free trade agreements (FTA)
+
 Free trade agreements are treaties that regulate the tariffs, taxes, and duties that countries impose on their imports and exports. The most well-known U.S. regional trade agreement is the United States-Mexico-Canada Agreement (USMCA) which replaced the North America Free Trade Agreement (NAFTA) effective July 1, 2020.
 
 Currently, the United States has 14 FTAs with 20 countries. FTAs can help your company to enter and compete more easily in the global marketplace through zero or reduced tariffs and other provisions. While the specifics of each FTA vary, they generally provide for the reduction of trade barriers and the creation of a more predictable and transparent trading and investment environment. This makes it easier and cheaper for U.S. companies to export their products and services to trading partner markets.
 
-Notes: 
+Notes:
 
 > Free trade agreements reduce or eliminate barriers to trade across international borders.
 
@@ -31,29 +32,29 @@ Notes:
 
 ### Advantages of Free Trade Agreements
 
-- Increased Economic Growth
+-   Increased Economic Growth
 
-- More Dynamic Business Climate
+-   More Dynamic Business Climate
 
-- Lower Government Spending
+-   Lower Government Spending
 
-- Industry Expertise
+-   Industry Expertise
 
-- Technology Transfer
+-   Technology Transfer
 
 ### Disadvantages of Free Trade Agreements
 
-- Increased Job Outsourcing
+-   Increased Job Outsourcing
 
-- Theft of Intellectual Property
+-   Theft of Intellectual Property
 
-- Crowding Out Domestic Industries
+-   Crowding Out Domestic Industries
 
-- Poor Working Conditions
+-   Poor Working Conditions
 
-- Reduced Tax Revenue
+-   Reduced Tax Revenue
 
-- Degradation of Natural Resources
+-   Degradation of Natural Resources
 
 ### What is the difference between free trade and fair trade?
 
@@ -61,45 +62,44 @@ Although these terms are often confused, there are significant differences betwe
 
 ## Trade and Developing Countries
 
-So far, we have analyzed the instruments of trade policy and its objectives
-without specifying the context—that is, without saying much about the country undertaking these policies. Each country has its own distinctive history and
-issues, but in discussing economic policy, one difference between countries
-becomes obvious: their income levels.
+So far, we have analyzed the instruments of trade policy and its objectives without specifying the context---that is, without saying much about the country undertaking these policies. Each country has its own distinctive history and issues, but in discussing economic policy, one difference between countries becomes obvious: their income levels.
 
 ### What is developing country?
 
 A developing country is a sovereign state with a lesser developed industrial base and a lower Human Development Index (HDI) relative to other countries. However, this definition is not universally agreed upon. There is also no clear agreement on which countries fit this category. The term low and middle-income country (LMIC) is often used interchangeably but refers only to the economy of the countries.
 
-- The classification of countries based on World Bank:
+-   The classification of countries based on World Bank:
 
 <https://blogs.worldbank.org/opendata/new-world-bank-country-classifications-income-level-2022-2023>
 
-- The classification of countries based on UN:
+-   The classification of countries based on UN:
 
 <https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf>
 
-> Why are some countries so much poorer than others? 
+> Why are some countries so much poorer than others?
 
-> Why have some countries that were poor a generation ago succeeded in making dramatic progress,
-while others have not?
+> Why have some countries that were poor a generation ago succeeded in making dramatic progress, while others have not?
 
-Trade policies in many developing countries were strongly influenced by the beliefs that the key to economic development was the creation of a strong manufacturing sector, and that the best way
-to create that manufacturing sector was to protect domestic manufacturers from
-international competition.
+Trade policies in many developing countries were strongly influenced by the beliefs that the key to economic development was the creation of a strong manufacturing sector, and that the best way to create that manufacturing sector was to protect domestic manufacturers from international competition.
 
 ## Prospects of International Trade of Developing Countries
 
-- Developing countries have become major players in global trade. Their relative weight has grown enormously, mainly due to China’s meteoric rise as an exporter. Though they partly reflect surging oil prices, increasing exports from the Middle East and North Africa (MENA), Eastern Europe, and Central Asia have further increased the weight of developing countries in world trade. 
+-   Developing countries have become major players in global trade. Their relative weight has grown enormously, mainly due to China's meteoric rise as an exporter. Though they partly reflect surging oil prices, increasing exports from the Middle East and North Africa (MENA), Eastern Europe, and Central Asia have further increased the weight of developing countries in world trade.
 
-- GDP projections suggest that the share of world trade held by developing countries will expand further, more than doubling over the next 40 years and reaching nearly 70 percent by 2050.
+-   GDP projections suggest that the share of world trade held by developing countries will expand further, more than doubling over the next 40 years and reaching nearly 70 percent by 2050.
+
+### Trade Liberalization since 1985
+
+Beginning in the mid-1980s, a number of developing countries moved to lower tariff rates and removed import quotas and other restrictions on trade. The shift of developing countries toward freer trade is the big trade policy story of the past two and a half decades.
+
+![Figure 7a: Tariff Rates in Developing Countries](figures/Tariff_Rates_Developing.jpg)
 
 ### The Rising Weight of Developing Countries in World Trade
 
-- Developing countries are already playing an increasing role in world trade. In 2006, they accounted for 30 percent of world exports, up from 19.5 percent in 1996. 
+-   Developing countries are already playing an increasing role in world trade. In 2006, they accounted for 30 percent of world exports, up from 19.5 percent in 1996.
 
-- The share of exports held by the BRIC economies (Brazil, Russia, India, and China) more than doubled, rising from 6 percent to 12.4 percent. China accounted for a significant portion of this rise—its claim of world exports nearly tripled from 2.7 percent to 7.6 percent. 
+-   The share of exports held by the BRIC economies (Brazil, Russia, India, and China) more than doubled, rising from 6 percent to 12.4 percent. China accounted for a significant portion of this rise---its claim of world exports nearly tripled from 2.7 percent to 7.6 percent.
 
+> Trade and investment have risen not only between the rich countries of the North and the developing economies of the South, but also among countries in the South.
 
-
-**Reference:** Chapter 11- Trade Policy in
-Developing Countries (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Trade: Theory and Policy*, 11th edition)
+**Reference:** Chapter 11- Trade Policy in Developing Countries (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Trade: Theory and Policy*, 11th edition)
