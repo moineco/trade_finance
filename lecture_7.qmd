@@ -66,5 +66,17 @@ without specifying the context—that is, without saying much about the country 
 issues, but in discussing economic policy, one difference between countries
 becomes obvious: their income levels.
 
+### What is developing country?
+
+A developing country is a sovereign state with a lesser developed industrial base and a lower Human Development Index (HDI) relative to other countries. However, this definition is not universally agreed upon. There is also no clear agreement on which countries fit this category. The term low and middle-income country (LMIC) is often used interchangeably but refers only to the economy of the countries.
+
+- The classification of countries based on World Bank:
+
+<https://blogs.worldbank.org/opendata/new-world-bank-country-classifications-income-level-2022-2023>
+
+- The classification of countries based on UN:
+
+<https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf>
+
 **Reference:** Chapter 11- Trade Policy in
 Developing Countries (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Trade: Theory and Policy*, 11th edition)
