@@ -6,7 +6,7 @@ Most international economists view the first claim as simplistic and disagree wi
 
 ## The Environmental Kuznets Curve (EKC)
 
--   Empirical evidence suggests that as economies grow, they initially do increasing environmental damage--but they become more environmentally friendly once they become sufficiently rich. China, where the environment is deteriorating as the economy expands, is in effect moving from A to B. Richer countries may be moving from C to D, using some of their growth to improve the environment. 
+-   Empirical evidence suggests that as economies grow, they initially do increasing environmental damage--but they become more environmentally friendly once they become sufficiently rich. China, where the environment is deteriorating as the economy expands, is in effect moving from A to B. Richer countries may be moving from C to D, using some of their growth to improve the environment.
 
 ![Figure 9a: Environmental Kuznet Curve](figures/kuznet_curve_1.jpg)
 
@@ -26,4 +26,6 @@ Most international economists view the first claim as simplistic and disagree wi
 
 -   This argument would run as follows: The biggest single beneficiary of globalization has arguably been China, whose export-led economy has experienced incredible growth since 1980. Meanwhile, the single biggest environmental issue is surely climate change: There is broad scientific consensus that emissions of carbon dioxide and other greenhouse gases are leading to a rise in the Earth's average temperature.
 
--   China's boom has been associated with a huge increase in its emissions of carbon dioxide. Figure shows carbon dioxide emissions of the United States, Europe, and China from 1980 to 2011. In 1980, China was a minor factor in global warming; by 2008, it was, by a substantial margin, the world's leading emitter of greenhouse gases. It's important to realize, though, that the problem here isn't globalization per se---it's China's economic success, which has to some extent come as a result of globalization. And despite environmental concerns, it's difficult to argue that China's growth, which has raised hundreds of millions of people out of dire poverty, is a bad thing.
+-   China's boom has been associated with a huge increase in its emissions of carbon dioxide. Figure 9c shows carbon dioxide emissions of the United States, Europe, and China from 1980 to 2011. In 1980, China was a minor factor in global warming; by 2008, it was, by a substantial margin, the world's leading emitter of greenhouse gases. It's important to realize, though, that the problem here isn't globalization per se---it's China's economic success, which has to some extent come as a result of globalization. And despite environmental concerns, it's difficult to argue that China's growth, which has raised hundreds of millions of people out of dire poverty, is a bad thing.
+
+![Figure 9c: Carbon Dioxide Emissions (The rapid economic growth of China has turned it from a minor factor in climate change to the world\'s largest emitter of carbon dioxide.)](figures/Carbon_Dioxide_Emissions.jpg){width="607"}
