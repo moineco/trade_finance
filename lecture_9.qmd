@@ -18,7 +18,7 @@ Most international economists view the first claim as simplistic and disagree wi
 
     ![Figure 9b: Different stages in EKC](figures/kuznet_curve.jpg)
 
-### What does Kuznet Curve have to do with international trade?
+## What does Kuznet Curve have to do with international trade?
 
 -   Trade liberalization is often advocated on the grounds that it will promote economic growth. To the extent that it succeeds in accomplishing this end, it will raise per-capita income. Will this improve or worsen environmental quality? It depends which side of the environmental Kuznets curve an economy is on. In their original paper, which was in part a response to critics of the North American Free Trade Agreement who argued that the agreement would be environmentally harmful, Grossman and Krueger suggested that Mexico might be on the right side of the curve---that is, to the extent that NAFTA raises Mexican income, it might actually lead to a reduction in environmental damage.
 
@@ -29,3 +29,7 @@ Most international economists view the first claim as simplistic and disagree wi
 -   China's boom has been associated with a huge increase in its emissions of carbon dioxide. Figure 9c shows carbon dioxide emissions of the United States, Europe, and China from 1980 to 2011. In 1980, China was a minor factor in global warming; by 2008, it was, by a substantial margin, the world's leading emitter of greenhouse gases. It's important to realize, though, that the problem here isn't globalization per se---it's China's economic success, which has to some extent come as a result of globalization. And despite environmental concerns, it's difficult to argue that China's growth, which has raised hundreds of millions of people out of dire poverty, is a bad thing.
 
 ![Figure 9c: Carbon Dioxide Emissions (The rapid economic growth of China has turned it from a minor factor in climate change to the world\'s largest emitter of carbon dioxide.)](figures/Carbon_Dioxide_Emissions.jpg){width="607"}
+
+## The Problem of “Pollution Havens”
+
+
