@@ -32,4 +32,32 @@ Most international economists view the first claim as simplistic and disagree wi
 
 ## The Problem of “Pollution Havens”
 
+When ships get too old to continue operating, they are disassembled to recover their
+scrap metal and other materials. One way to look at “shipbreaking” is that it is a
+form of recycling: Instead of leaving a ship to rust, a shipbreaking firm extracts and reuses its components. Ultimately, this salvaging means that less iron ore needs to be mined, less oil extracted, and so on. One might expect shipbreaking to be good for the environment.  The task itself, however, can be environmentally hazardous: Everything from the residual oil in a ship’s tanks to the plastic in its chairs and interior fittings, if not handled carefully, can be toxic to the local environment.
 
+
+Pollution is the classic example of a negative externality—a cost that individuals
+impose on others but don’t pay for. That’s why pollution is a valid reason for government intervention. However, different forms of pollution have very different geographical reach—and only those that extend across national boundaries obviously justify international concern.
+
+Thus, to the extent that Indian shipbreaking pollutes the local environment.
+this is a problem for India; it’s less clear that it is a problem for other countries. Similarly, air pollution in Mexico City is a problem for Mexico; it’s not clear why it’s a valid U.S. interest. On the other hand, emissions of carbon dioxide affect the future climate for all countries: They’re an international externality and deserve to be the subject of
+international negotiation.
+
+## The Carbon Tariff Dispute
+
+In 2009, the U.S. House of Representatives passed a bill that would have created a
+cap-and-trade system for greenhouse gases—that is, a system under which a limited
+number of emissions licenses are issued and firms are required to buy enough licenses
+to cover their actual emissions, in effect putting a price on carbon dioxide and other gases. The Senate failed to pass any comparable bill, so climate-change legislation is on hold for the time being. Nonetheless, there was a key trade provision in the House bill that may represent the shape of things to come: It imposed carbon tariffs on imports from countries that fail to enact similar policies.
+
+The idea behind carbon tariffs is to charge importers of goods from countries without climate-change policies an amount proportional to the carbon
+dioxide emitted in the production of those goods. The charge per ton of emissions
+would be equal to the price of carbon dioxide emission licenses in the domestic market.
+This would give overseas producers an incentive to limit their carbon emissions and
+would remove the incentive to shift production to countries with lax regulation. In
+addition, it would, possibly, give countries with lax regulations an incentive to adopt climate-change policies of their own.
+
+At this point, the issue of carbon tariffs is hypothetical, since no major economy
+has yet placed a significant price on greenhouse gas emissions. Correspondingly, the
+WTO hasn’t issued any rulings on the legality of such tariffs, and probably won’t until or unless a real case emerges. But if climate-change legislation makes a comeback—and it is a good bet that it will sooner or later—it will clearly lead to some major new issues in trade policy.
