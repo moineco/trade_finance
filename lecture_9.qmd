@@ -1,3 +1,11 @@
-# National Income Accounting
+# Globalization, Trade and the Environment
 
-Content creation is in progress...
+Concerns about human impacts on the environment are growing in much of the world.
+In turn, these concerns are playing a growing role in domestic politics. environmental issues are playing a growing role in disputes about international trade as well. Some anti-globalization activists claim that growing international trade automatically harms the environment; some also claim that international trade agreements—and the role of the World Trade Organization in particular—have the effect of blocking environmental action.
+
+Most international economists view the first claim as simplistic and disagree with the second. That is, they deny that there is a simple relationship between globalization and environmental damage and do not believe that trade agreements prevent countries from having enlightened environmental policies. Nonetheless, the intersection of trade and the environment does raise a number of important issues.
+
+## The Environmental Kuznets Curve
+
+Empirical evidence suggests that as economies grow, they initially do increasing environmental damage—but they become more environmentally friendly once they become sufficiently rich. China, where the environment is deteriorating as the economy expands, is in effect moving from A to B. Richer countries may be moving from C to D, using some of their growth to improve the environment.
+
