@@ -6,9 +6,22 @@ Most international economists view the first claim as simplistic and disagree wi
 
 ## The Environmental Kuznets Curve
 
-Empirical evidence suggests that as economies grow, they initially do increasing environmental damage--but they become more environmentally friendly once they become sufficiently rich. China, where the environment is deteriorating as the economy expands, is in effect moving from A to B. Richer countries may be moving from C to D, using some of their growth to improve the environment.
+- Empirical evidence suggests that as economies grow, they initially do increasing environmental damage--but they become more environmentally friendly once they become sufficiently rich. China, where the environment is deteriorating as the economy expands, is in effect moving from A to B. Richer countries may be moving from C to D, using some of their growth to improve the environment.
 
 ![Figure 9a: Environmental Kuznet Curve](figures/kuznet_curve_1.jpg)
 
-In the early 1990s, Princeton economists Gene Grossman and Alan Krueger, studying the relationship between national income levels and pollutants such as sulfurdioxide, found that these offsetting effects of economic growth lead to a distinctive “inverted U” relationship between per-capita income and environmental damage known as the environmental Kuznets curve. This concept, whose relevance has been confirmed
+- In the early 1990s, Princeton economists Gene Grossman and Alan Krueger, studying the relationship between national income levels and pollutants such as sulfur dioxide, found that these offsetting effects of economic growth lead to a distinctive “inverted U” relationship between per-capita income and environmental damage known as the environmental Kuznets curve. This concept, whose relevance has been confirmed
 by a great deal of further research, is illustrated schematically in Figure 9a.
+
+- The idea is that as a country’s income per-capita rises due to economic growth, the
+initial effect is growing damage to the environment. Thus, China, whose economy has
+surged in recent decades, is in effect moving from point A to point B: As the country
+burns more coal in its power plants and produces more goods in its factories, it emits more sulfur dioxide into the air and dumps more effluent into its rivers.
+
+- But when a country gets sufficiently rich, it can afford to take action to protect
+the environment. As the United States has grown richer in recent decades, it has also
+moved to limit pollution. For example, cars are required to have catalytic converters
+that reduce smog, and a government-licensing scheme limits emissions of sulfur dioxide from power plants. In terms of Figure 9a, the United States has on some fronts, such as local air pollution, moved from C to D: growing richer and doing less damage to the environment.
+
+### What does Kuznet Curve have to do with international trade?
+
