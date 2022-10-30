@@ -1,6 +1,6 @@
-# National Income Accounting and the Balance of Payments
+# National Income Accounting and the Balance of Payments: Part A
 
-We shift our focus and ask: How can economic policy ensure that factors of production are fully employed? And what determines how an econ omy's capacity to produce goods and services changes over time? To answer these questions, we must understand macroeconomics, the branch of economics that studies how economies' overall levels of employment, production, and growth are determined.
+We shift our focus and ask: How can economic policy ensure that factors of production are fully employed? And what determines how an economy's capacity to produce goods and services changes over time? To answer these questions, we must understand macroeconomics, the branch of economics that studies how economies' overall levels of employment, production, and growth are determined.
 
 Macroeconomic analysis emphasizes four aspects of economic life that, until now, we have usually kept in the background to simplify our discussion of international economics:
 
