@@ -1,3 +1,31 @@
 # National Income Accounting and the Balance of Payments
 
-Content creation is in progress...
+We shift our focus and ask: How can economic policy ensure
+that factors of production are fully employed? And what determines how an econ
+omy’s capacity to produce goods and services changes over time? To answer
+these questions, we must understand macroeconomics, the branch of economics that studies how economies’ overall levels of employment, production, and
+growth are determined. 
+
+Macroeconomic analysis emphasizes four aspects of economic life that, until
+now, we have usually kept in the background to simplify our discussion of international economics:
+
+1. Unemployment: We know that in the real world, workers may be unemployed
+and factories may be idle. Macroeconomics studies the factors that cause
+unemployment and the steps governments can take to prevent it.
+
+2. Saving: In earlier chapters, we usually assumed that every country consumes an
+amount exactly equal to its income—no more and no less. In reality, though,
+households can put aside part of their income to provide for the future, or they can
+borrow temporarily to spend more than they earn.
+
+3. Trade imbalances: As we saw in earlier chapters, the value of a country’s
+imports equals the value of its exports when spending equals income. This
+state of balanced trade is seldom attained by actual economies.
+
+4. Money and the price level: The trade theory you have studied so far is a barter
+theory, one in which goods are exchanged directly for other goods on the
+basis of their relative prices. In practice, it is more convenient to use money—a
+widely acceptable medium of exchange—in transactions, and to quote prices
+in terms of money. Because money changes hands in virtually every transaction
+that takes place in a modern economy, fluctuations in the supply of money
+or in the demand for it can affect both output and employment.
