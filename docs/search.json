@@ -347,7 +347,7 @@
     "href": "lecture_10.html",
     "title": "10  National Income Accounting and the Balance of Payments",
     "section": "",
-    "text": "Macroeconomic analysis emphasizes four aspects of economic life that, until now, we have usually kept in the background to simplify our discussion of international economics:\n\nUnemployment: We know that in the real world, workers may be unemployed and factories may be idle. Macroeconomics studies the factors that cause unemployment and the steps governments can take to prevent it.\nSaving: In earlier chapters, we usually assumed that every country consumes an amount exactly equal to its income—no more and no less. In reality, though, households can put aside part of their income to provide for the future, or they can borrow temporarily to spend more than they earn.\nTrade imbalances: As we saw in earlier chapters, the value of a country’s imports equals the value of its exports when spending equals income. This state of balanced trade is seldom attained by actual economies.\nMoney and the price level: The trade theory you have studied so far is a barter theory, one in which goods are exchanged directly for other goods on the basis of their relative prices. In practice, it is more convenient to use money—a widely acceptable medium of exchange—in transactions, and to quote prices in terms of money. Because money changes hands in virtually every transaction that takes place in a modern economy, fluctuations in the supply of money or in the demand for it can affect both output and employment."
+    "text": "We shift our focus and ask: How can economic policy ensure that factors of production are fully employed? And what determines how an econ omy’s capacity to produce goods and services changes over time? To answer these questions, we must understand macroeconomics, the branch of economics that studies how economies’ overall levels of employment, production, and growth are determined.\nMacroeconomic analysis emphasizes four aspects of economic life that, until now, we have usually kept in the background to simplify our discussion of international economics:"
   },
   {
     "objectID": "lecture_11.html",
@@ -404,5 +404,12 @@
     "title": "References",
     "section": "",
     "text": "Krugman, P. R. (2018). International trade: Theory and policy, 11th edition Published by Pearson.\nKrugman, P. R. (2018). International Finance: Theory and Policy, 11th edition Published by Pearson.\nKrugman, P., Obstfeld, M., & Melitz, M. (2017). International Economics: Theory and Policy, the latest edition.\nFeenstra, R. C. (2015). Advanced international trade: theory and evidence. Princeton university press.\nJha, P. (2021). Lecture Notes in International Trade: An Undergraduate Course.\nVan Bergeijk, P. A., & Brakman, S. (Eds.). (2010). The gravity model in international trade: Advances and applications.\nSalvatore, D. (2016). International economics. John Wiley & Sons."
+  },
+  {
+    "objectID": "lecture_10.html#the-national-income-accounts",
+    "href": "lecture_10.html#the-national-income-accounts",
+    "title": "10  National Income Accounting and the Balance of Payments",
+    "section": "10.1 The National Income Accounts",
+    "text": "10.1 The National Income Accounts"
   }
 ]

@@ -29,3 +29,5 @@ widely acceptable medium of exchange—in transactions, and to quote prices
 in terms of money. Because money changes hands in virtually every transaction
 that takes place in a modern economy, fluctuations in the supply of money
 or in the demand for it can affect both output and employment.
+
+## The National Income Accounts
