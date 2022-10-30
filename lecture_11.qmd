@@ -1,3 +1,15 @@
 # National Income Accounting and the Balance of Payments: Part B
 
-Content creation is in progress...
+## The Current Account (CA)
+
+- A country’s foreign trade is exactly balanced only rarely. The difference
+between exports of goods and services and imports of goods and services is known as
+the current account balance (or current account). 
+
+- If we denote the current account by CA, we can express this definition in symbols as:
+
+$$CA = EX - IM$$
+
+- When a country’s imports exceed its exports, we say the country has a *current account deficit*.
+
+- A country has a *current account surplus* when its exports exceed its imports.
