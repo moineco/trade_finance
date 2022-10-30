@@ -27,3 +27,6 @@ Example: This is currently the position of the United States, which has a signif
 -   We have defined the current account as the difference between exports and import . The current account is also equal to the difference between national income and domestic residents' total spending C + I + G:
 
 $$CA = EX-IM$$ $$Y - (C + I + G) = CA$$
+
+## Saving and the Current Account
+
