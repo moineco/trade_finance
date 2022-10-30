@@ -1,46 +1,33 @@
 # National Income Accounting and the Balance of Payments
 
-We shift our focus and ask: How can economic policy ensure
-that factors of production are fully employed? And what determines how an econ
-omy’s capacity to produce goods and services changes over time? To answer
-these questions, we must understand macroeconomics, the branch of economics that studies how economies’ overall levels of employment, production, and
-growth are determined. 
+We shift our focus and ask: How can economic policy ensure that factors of production are fully employed? And what determines how an econ omy's capacity to produce goods and services changes over time? To answer these questions, we must understand macroeconomics, the branch of economics that studies how economies' overall levels of employment, production, and growth are determined.
 
-Macroeconomic analysis emphasizes four aspects of economic life that, until
-now, we have usually kept in the background to simplify our discussion of international economics:
+Macroeconomic analysis emphasizes four aspects of economic life that, until now, we have usually kept in the background to simplify our discussion of international economics:
 
-1. Unemployment: We know that in the real world, workers may be unemployed
-and factories may be idle. Macroeconomics studies the factors that cause
-unemployment and the steps governments can take to prevent it.
+1.  Unemployment: We know that in the real world, workers may be unemployed and factories may be idle. Macroeconomics studies the factors that cause unemployment and the steps governments can take to prevent it.
 
-2. Saving: In earlier chapters, we usually assumed that every country consumes an
-amount exactly equal to its income—no more and no less. In reality, though,
-households can put aside part of their income to provide for the future, or they can
-borrow temporarily to spend more than they earn.
+2.  Saving: In earlier chapters, we usually assumed that every country consumes an amount exactly equal to its income---no more and no less. In reality, though, households can put aside part of their income to provide for the future, or they can borrow temporarily to spend more than they earn.
 
-3. Trade imbalances: As we saw in earlier chapters, the value of a country’s
-imports equals the value of its exports when spending equals income. This
-state of balanced trade is seldom attained by actual economies.
+3.  Trade imbalances: As we saw in earlier chapters, the value of a country's imports equals the value of its exports when spending equals income. This state of balanced trade is seldom attained by actual economies.
 
-4. Money and the price level: The trade theory you have studied so far is a barter
-theory, one in which goods are exchanged directly for other goods on the
-basis of their relative prices. In practice, it is more convenient to use money—a
-widely acceptable medium of exchange—in transactions, and to quote prices
-in terms of money. Because money changes hands in virtually every transaction
-that takes place in a modern economy, fluctuations in the supply of money
-or in the demand for it can affect both output and employment.
+4.  Money and the price level: The trade theory you have studied so far is a barter theory, one in which goods are exchanged directly for other goods on the basis of their relative prices. In practice, it is more convenient to use money---a widely acceptable medium of exchange---in transactions, and to quote prices in terms of money. Because money changes hands in virtually every transaction that takes place in a modern economy, fluctuations in the supply of money or in the demand for it can affect both output and employment.
 
 ## The National Income Accounts
 
-###  Gross National Product (GNP)
+### Gross National Product (GNP)
 
-A country’s gross national product (GNP), the value of all final goods and services produced by the country’s factors of production and sold on the market in a given time period. To distinguish among the different types of expenditure that make up a country’s GNP, government economists and statisticians who compile national income accounts divide
-GNP among the four possible uses for which a country’s final output is purchased:
+A country's gross national product (GNP), the value of all final goods and services produced by the country's factors of production and sold on the market in a given time period. To distinguish among the different types of expenditure that make up a country's GNP, government economists and statisticians who compile national income accounts divide GNP among the four possible uses for which a country's final output is purchased:
 
 (i) Consumption (the amount consumed by private domestic residents)
 
 (ii) Investment (the amount put aside by private firms to build new plant and equipment for future production),
 
-(iii) Government purchases (the amount used by the government), and 
+(iii) Government purchases (the amount used by the government), and
 
 (iv) Current account balance (the amount of net exports of goods and services to foreigners).
+
+Figure 10a shows how U.S. GNP was divided among its four components in the first quarter of 2016:
+
+![Figure 10a: U.S. GNP and Its Components](figures/U.S_GNP_Components.jpg)
+
+
