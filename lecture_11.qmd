@@ -13,3 +13,8 @@ $$CA = EX - IM$$
 - When a country’s imports exceed its exports, we say the country has a *current account deficit*.
 
 - A country has a *current account surplus* when its exports exceed its imports.
+
+- The current account is important because it measures the size and direction of
+international borrowing. When a country imports more than it exports, it is buying
+more from foreigners than it sells to them and must somehow finance this current
+account deficit.
