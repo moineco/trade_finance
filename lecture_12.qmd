@@ -1,3 +1,27 @@
 # Money, Interest Rates, and Exchange Rates
 
-Content creation is in progress...
+## Exchange Rates and International Transactions
+
+The price of one currency in terms of another is called an exchange rate
+Changes in exchange rates are described as depreciations or appreciations.
+all else equal, a depreciation of a country’s currency makes its goods cheaper for foreigners.
+All else equal, an appreciation of a country’s currency makes its goods more expensive for foreigners.
+
+### The Foreign Exchange Market
+
+The market in which international currency trades take place is called the foreign exchange market.
+
+#### The Actors
+
+The major participants in the foreign exchange market are commercial banks, corporations that engage in international trade, nonbank financial institutions such as asset management firms and insurance companies, and central banks.
+
+I now describe the major actors in the market and their roles.
+
+1. Commercial banks: Commercial banks are at the center of the foreign exchange market because almost every sizable international transaction involves the debiting and crediting of accounts at commercial banks in various financial centers. Thus, the vast majority of foreign exchange transactions involve the exchange of bank deposits denominated in different currencies.
+
+2. Corporations: Corporations with operations in several countries frequently make or receive payments in currencies other than that of the country in which they are headquartered. To pay workers at a plant in Mexico, for example, IBM may need Mexican pesos. If IBM has only dollars earned by selling computers in the United States, it can acquire the pesos it needs by buying them with its dollars in the foreign exchange market.
+
+3. Nonbank financial institutions: Over the years, deregulation of financial markets in the United States, Japan, and other countries has encouraged nonbank financial institutions such as mutual funds to offer their customers a broader range of services, many of them indistinguishable from those offered by banks. Among these have been services involving foreign exchange transactions. Institutional investors such as pension funds often trade foreign currencies. So do insurance companies. Hedge funds, which cater to very wealthy individuals and are not bound by the government regulations that limit mutual funds’ trading strategies, trade actively in the foreign exchange market.
+
+4. Central banks: In the last chapter, we learned that central banks sometimes intervene in foreign exchange markets. While the volume of central bank transactions is typically not large, the impact of these transactions may be great. The reason for this impact is that participants in the foreign exchange market watch central bank actions closely for clues about future macroeconomic policies that may affect exchange rates. Government agencies other than central banks may also trade in the foreign exchange market, but central banks are the most regular official participants.
+
