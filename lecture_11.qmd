@@ -2,28 +2,28 @@
 
 ## The Current Account (CA)
 
-- A country’s foreign trade is exactly balanced only rarely. The difference
-between exports of goods and services and imports of goods and services is known as
-the current account balance (or current account). 
+-   A country's foreign trade is exactly balanced only rarely. The difference between exports of goods and services and imports of goods and services is known as the current account balance (or current account).
 
-- If we denote the current account by CA, we can express this definition in symbols as:
+-   If we denote the current account by CA, we can express this definition in symbols as:
 
 $$CA = EX - IM$$
 
-- When a country’s imports exceed its exports, we say the country has a *current account deficit*.
+-   When a country's imports exceed its exports, we say the country has a *current account deficit*.
 
-- A country has a *current account surplus* when its exports exceed its imports.
+-   A country has a *current account surplus* when its exports exceed its imports.
 
-- The current account is important because it measures the size and direction of
-international borrowing. When a country imports more than it exports, it is buying
-more from foreigners than it sells to them and must somehow finance this current
-account deficit.
+-   The current account is important because it measures the size and direction of international borrowing. When a country imports more than it exports, it is buying more from foreigners than it sells to them and must somehow finance this current account deficit.
 
 ### How does country pay for additional imports once it has spent its export earnings?
 
-- The country as a whole can import more than it exports only if it can
-borrow the difference from foreigners.
+-   The country as a whole can import more than it exports only if it can borrow the difference from foreigners.
 
-- A country with a current account deficit must be increasing its net foreign debts by the amount of the deficit.
+-   A country with a current account deficit must be increasing its net foreign debts by the amount of the deficit.
 
 Example: This is currently the position of the United States, which has a significant current account deficit.
+
+-   A country with a current account surplus is earning more from its exports than it spends on imports. This country finances the current account deficit of its trading partners by lending to them.
+
+-   We have defined the current account as the difference between exports and import . The current account is also equal to the difference between national income and domestic residents' total spending C + I + G:
+
+$$CA = EX-IM$$ $$Y - (C + I + G) = CA$$
