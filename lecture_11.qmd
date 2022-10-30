@@ -18,3 +18,5 @@ $$CA = EX - IM$$
 international borrowing. When a country imports more than it exports, it is buying
 more from foreigners than it sells to them and must somehow finance this current
 account deficit.
+
+### How does country pay for additional imports once it has spent its export earnings?
