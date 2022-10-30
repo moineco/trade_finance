@@ -31,3 +31,16 @@ that takes place in a modern economy, fluctuations in the supply of money
 or in the demand for it can affect both output and employment.
 
 ## The National Income Accounts
+
+###  Gross National Product (GNP)
+
+A country’s gross national product (GNP), the value of all final goods and services produced by the country’s factors of production and sold on the market in a given time period. To distinguish among the different types of expenditure that make up a country’s GNP, government economists and statisticians who compile national income accounts divide
+GNP among the four possible uses for which a country’s final output is purchased:
+
+(i) Consumption (the amount consumed by private domestic residents)
+
+(ii) Investment (the amount put aside by private firms to build new plant and equipment for future production),
+
+(iii) Government purchases (the amount used by the government), and 
+
+(iv) Current account balance (the amount of net exports of goods and services to foreigners).
