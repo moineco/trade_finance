@@ -30,4 +30,17 @@ Figure 10a shows how U.S. GNP was divided among its four components in the first
 
 ![Figure 10a: U.S. GNP and Its Components](figures/U.S_GNP_Components.jpg)
 
+> Why is it useful to divide GNP into consumption, investment, government purchases, and the current account? 
+ 
+- One major reason is that we cannot hope to understand the cause of a particular recession or boom without knowing how the main categories of spending have changed. And without such an understanding, we cannot
+recommend a sound policy response. 
+
+- In addition, the national income accounts provide information essential for studying why some countries are rich—that is, have a high level of GNP relative to population size—while some are poor.
+
+### Gross Domestic Product (GDP)
+
+A country's gross domestic product (GDP) is supposed to measure the volume of production within a country’s borders, whereas GNP equals GDP plus net receipts of factor income from the rest of the world.
+
+Most countries other than the United States have long reported GDP rather than GNP as their primary measure of national economic activity. In 1991, the United States began to follow this practice as well. As a practical matter, movements in GDP and GNP usually do not differ greatly.
+
 
