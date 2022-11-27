@@ -1,3 +1,17 @@
 # Developing Countries Growth, Crisis, and Reform
 
-Content creation is in progress...
+### The Gap between Rich and Poor
+World Bank classify the countries into four categories according to their level of income.
+
+-   Low income: most sub-Saharan Africa, India, Pakistan
+
+-   Lower-middle income: China, Caribbean countries
+
+-   Upper-middle income: Brazil, Mexico, Saudi Arabia, Malaysia, South Africa, Czech Republic
+
+- High income: U.S., Singapore, France, Japan, Kuwait
+
+### Has the World Income Gap Narrowed over Time?
+
+While some previously middle- and low-income economies have grown faster than high-income countries, and thus have “caught up” with high- income countries, others have languished. 
+The income levels of high-income countries and some previously middle-income and low-income countries have converged. But the some of the poorest countries have had the lowest growth rates.
