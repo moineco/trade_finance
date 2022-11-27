@@ -4,4 +4,4 @@
 
 ![Earth night light in 2012](figures/night_light_2012.jpg){fig-align="center"}
 
-## USA at night
+## USA at night:
