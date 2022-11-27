@@ -1,6 +1,6 @@
 # Developing Countries Growth, Crisis, and Reform
 
-### The Gap between Rich and Poor
+### The gap between rich and poor
 World Bank classify the countries into four categories according to their level of income.
 
 -   Low income: most sub-Saharan Africa, India, Pakistan
@@ -11,7 +11,32 @@ World Bank classify the countries into four categories according to their level 
 
 - High income: U.S., Singapore, France, Japan, Kuwait
 
-### Has the World Income Gap Narrowed over Time?
+### Has the world income gap narrowed over time?
 
 While some previously middle- and low-income economies have grown faster than high-income countries, and thus have “caught up” with high- income countries, others have languished. 
 The income levels of high-income countries and some previously middle-income and low-income countries have converged. But the some of the poorest countries have had the lowest growth rates.
+
+### Structural features of developing countries
+What causes poverty is a difficult question, but low-income countries have at least some of following characteristics, which could contribute to poverty:
+
+1. **Government control of the economy**
+
+- Restrictions on trade	
+- Direct control of production in industries and a high level of government purchases relative to GNP
+- Direct control of financial transactions
+- Reduced competition reduces innovation; lack of market prices prevents efficient allocation of resources
+
+2. **Unsustainable macroeconomic policies that cause high inflation and unstable output and employment**
+
+- If governments cannot pay for debts through taxes, they can print money to finance debts.
+- Seigniorage is paying for real goods and services by printing money.
+- Seigniorage generally leads to high inflation.
+- High inflation reduces the real cost of debt that the government has to repay and reduces the real value of repayments for lenders.
+- High and variable inflation is costly to society; unstable output and employment is also costly.
+
+3. **Lack of financial markets that allow transfer of funds from savers to borrowers**
+
+- Banks frequently lend funds to poor or risky projects.
+- Loans may be made on the basis of personal connections rather than prospective returns, and government safeguards against financial fragility, such as bank supervision, tend to be ineffective due to incompetence, inexperience, and outright fraud. 
+- Usually harder in developing countries for shareholders to find out how a firm’s money is being spent or to control firm managers. 
+- The legal framework for resolving asset ownership in cases of bankruptcy typically is also weak.
