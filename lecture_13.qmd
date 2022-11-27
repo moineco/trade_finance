@@ -1,5 +1,29 @@
 # Economic Geography: Part A
 
+### Geography, Human Capital, and Institutions
+
+- What causes poverty?
+- A difficult question: economists argue about whether geography or human capital is more important in influencing economic and political institutions, and ultimately poverty.
+
+Geography matters: 
+
+International trade is important for growth, and ocean harbors and a lack of geographical barriers foster trade with foreign markets.
+
+- Landlocked and mountainous regions are predicted to 
+be poor.
+- Also, geography is said to have determined institutions, which may play a role in development.
+- Geography determined whether Westerners established property rights and long-term investment in colonies, which in turn influenced economic growth.
+- Geography determined whether Westerners died from malaria and other diseases. With high mortality rates, they established practices and institutions based on quick plunder of colonies’ resources, rather than institutions favoring long-term economic growth.
+- Plunder led to property confiscation and corruption, even after political independence from Westerners.
+- Geography also determined whether local economies were better for plantation agriculture, which resulted in income inequalities and political inequalities. Under this system, equal property rights were not established, hindering long-term economic growth.
+
+Human capital matters:
+
+- As a population becomes more literate, numerate, and educated, economic and political institutions evolve to foster long-term economic growth.
+
+- Rather than geography, Western colonization, and plantation agriculture, the amount of education and other forms of human capital determine the existence or lack of property rights, financial markets, international trade, and other institutions that encourage economic growth.
+
+
 ## The Earth at night: Proxy of GDP
 
 ![Earth night light in 2012](figures/night_light_2012.jpg){fig-align="center"}
