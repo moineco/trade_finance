@@ -2,53 +2,59 @@
 
 **Do you think that geography is important in influencing economic and political institutions, and ultimately poverty?**
 
-### Geography matters: 
+### Geography matters
 
 International trade is important for growth, and ocean harbors and a lack of geographical barriers foster trade with foreign markets.
 
-- Landlocked and mountainous regions are predicted to 
-be poor.
-- Also, geography is said to have determined institutions, which may play a role in development.
-- Geography determined whether Westerners established property rights and long-term investment in colonies, which in turn influenced economic growth.
-- Geography determined whether Westerners died from malaria and other diseases. With high mortality rates, they established practices and institutions based on quick plunder of colonies’ resources, rather than institutions favoring long-term economic growth.
-- Plunder led to property confiscation and corruption, even after political independence from Westerners.
-- Geography also determined whether local economies were better for plantation agriculture, which resulted in income inequalities and political inequalities. Under this system, equal property rights were not established, hindering long-term economic growth.
+-   Landlocked and mountainous regions are predicted to be poor.
+-   Also, geography is said to have determined institutions, which may play a role in development.
+-   Geography determined whether Westerners established property rights and long-term investment in colonies, which in turn influenced economic growth.
+-   Geography determined whether Westerners died from malaria and other diseases. With high mortality rates, they established practices and institutions based on quick plunder of colonies' resources, rather than institutions favoring long-term economic growth.
+-   Plunder led to property confiscation and corruption, even after political independence from Westerners.
+-   Geography also determined whether local economies were better for plantation agriculture, which resulted in income inequalities and political inequalities. Under this system, equal property rights were not established, hindering long-term economic growth.
 
 ### The Earth at night light: Proxy of economic growth
 
 ![Earth night light in 2012](figures/night_light_2012.jpg){fig-align="center"}
 
-Geography and economy are closely tied together because transport makes trade with widespread areas possible. This is because geographical features include mountains, deserts, and water, which directly impact the movement of people and thus the movement of trade.
-The integration of the world economy has increased rapidly in recent decades, with world trade growing more than twice as fast as world GDP since 1980. The two main reasons behind it are
-1. Trade liberalization 
-2. Decline in trade costs (including transport and communication costs)
+Geography and economy are closely tied together because transport makes trade with widespread areas possible. This is because geographical features include mountains, deserts, and water, which directly impact the movement of people and thus the movement of trade. The integration of the world economy has increased rapidly in recent decades, with world trade growing more than twice as fast as world GDP since 1980. The two main reasons behind it are 1. Trade liberalization 2. Decline in trade costs (including transport and communication costs)
 
 ### Globalization and international trade
+
 In a global economy, no nation is self-sufficient, which is associated with specific flows of goods, people, and information. International trade, or long-distance trade, has taken place for centuries, with some ancient trade routes predating history. Trade is an important part of economic and cultural history, as ancient trade routes such as the Silk Road can testify.
 
 ### The Silk Road
-The Silk Road was the most enduring trade route in human history, being used for about 1,500 years. Its name is taken from the prized Chinese textile that flowed from Asia to the Middle East and Europe, although many other commodities were traded along the route. The Silk Road consisted of a succession of trails followed by caravans through Central Asia, about 6,400 km in length. 
+
+The Silk Road was the most enduring trade route in human history, being used for about 1,500 years. Its name is taken from the prized Chinese textile that flowed from Asia to the Middle East and Europe, although many other commodities were traded along the route. The Silk Road consisted of a succession of trails followed by caravans through Central Asia, about 6,400 km in length.
+
+![](figures/silk_road.jpg){fig-align="center"}
 
 By the mid-19th century, trade was taking an increasingly active role in the economic life of nations and regions, and after the mid-20th century, trade became an active tool of economic globalization.
 
-### Living in cities: 
+-   The Silk Road was a vast trade network connecting Eurasia and North Africa via land and sea routes.
 
-Roughly two thirds of the world’s population is projected to live in cities by the year 2050, with the urban population increasing by around 2.5 billion people, and nearly 90 percent of this increase concentrated in Asia and Africa.
+-   The Silk Road earned its name from Chinese silk, a highly valued commodity that merchants transported along these trade networks.
+
+-   Advances in technology and increased political stability caused an increase in trade. The opening of more trade routes caused travelers to exchange many things: animals, spices, ideas, and diseases.
+
+    ![](figures/silk_road_1.jpg)
+
+### Living in cities
+
+Roughly two thirds of the world's population is projected to live in cities by the year 2050, with the urban population increasing by around 2.5 billion people, and nearly 90 percent of this increase concentrated in Asia and Africa.
 
 How do people and economic activities sort across geographic space in response?
 
+### The China shock
 
-### The China shock:
+With its rapid economic growth following its market-orientated reforms of 1978, China has emerged as a major source of import competition for producers of manufactured goods in developed countries such as the United States.
 
-With its rapid economic growth following its market-orientated reforms of 1978, China has emerged as a major source
-of import competition for producers of manufactured goods in developed countries such as the United States. 
+In 1991, low-income countries accounted for just 9 percent of U.S. manufacturing imports. In contrast, by 2000, the low-income country share of U.S. imports reached 15 percent and climbed to 28 percent by 2007, with China accounting for 89 percent of this growth.
 
-In 1991, low-income countries accounted for just 9 percent of U.S. manufacturing imports. In contrast, by 2000, the low-income country share of U.S. imports reached 15 percent and climbed to 28 percent by 2007, with China accounting for 89 percent of this growth. 
+This rise in import penetration is particularly rapid following China's admission to the World Trade Organization (WTO) in 2001 and coincides with a marked decline in U.S. manufacturing
 
-This rise in import penetration is particularly rapid following China’s admission to the World Trade Organization (WTO) in 2001 and coincides with a marked decline in U.S. manufacturing
+### Human capital matters
 
-### Human capital matters:
+-   As a population becomes more literate, numerate, and educated, economic and political institutions evolve to foster long-term economic growth.
 
-- As a population becomes more literate, numerate, and educated, economic and political institutions evolve to foster long-term economic growth.
-
-- Rather than geography, Western colonization, and plantation agriculture, the amount of education and other forms of human capital determine the existence or lack of property rights, financial markets, international trade, and other institutions that encourage economic growth.
+-   Rather than geography, Western colonization, and plantation agriculture, the amount of education and other forms of human capital determine the existence or lack of property rights, financial markets, international trade, and other institutions that encourage economic growth.
