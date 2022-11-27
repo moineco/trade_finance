@@ -58,5 +58,80 @@ Another common characteristic for many low- and middle-income countries is that 
 - Some countries have defaulted on their foreign debts when the domestic economy stagnated or during financial crises.
 - But this trend has recently reversed as these countries have begun to save.
 
-### The Problem of Default
+### The problem of default
 
+1. A financial crisis may involve
+
+- a debt crisis: an inability to repay sovereign (government) or private sector debt.
+- a balance of payments crisis.
+- a banking crisis: bankruptcy and other problems for private sector banks.
+
+2. A debt crisis in which governments default on their debt can be a self-fulfilling mechanism.
+
+- Fear of default reduces financial asset inflows and increases financial asset outflows (capital flight), decreasing investment and increasing interest rates, leading to low aggregate demand, output, and income.
+- Financial asset outflows must be matched with an increase in net exports or a decrease in official international reserves in order to pay individuals and institutions who desire foreign funds.
+- Otherwise, the country cannot afford to pay those who want to remove their funds from the domestic economy.
+- The domestic government may have no choice but to default on its sovereign debt (paid for with foreign funds) when it comes due and when investors are unwilling to reinvest.
+
+3. In general, a debt crisis can quickly magnify itself: it causes low income and high interest rates, which make government and private sector debts even harder to repay.
+
+- High interest rates cause high interest payments for both the government and the private sector.
+- Low income causes low tax revenue for the government.
+- Low income makes loans made by private banks harder to repay: the default rate increases, which may cause bankruptcy.
+
+### Alternative forms of financial inflow
+
+1. Bond finance: government or private sector bonds are sold to foreign individuals and institutions.
+
+2. Bank finance: commercial banks or securities firms lend to foreign governments or foreign businesses.
+
+3. Official lending: the World Bank, Inter-American Development Bank, or other official agencies lend to governments.
+- Sometimes these loans are made on a “concessional” or favorable basis, in which the interest rate is low.
+
+4. Foreign direct investment: a firm directly acquires or expands operations in a subsidiary firm in a foreign country.
+- A purchase by Ford of a subsidiary firm in Mexico is classified as foreign direct investment. 
+
+5. Portfolio equity investment: a foreign investor purchases equity (stock) for his portfolio.
+- Privatization of government-owned firms in many countries has created more equity investment opportunities for foreign investors. 
+
+### The debt crisis of the 1980s
+
+- In the 1980s, high interest rates and an appreciation of the U.S. dollar caused the burden of dollar-denominated debts in Argentina, Mexico, Brazil, and Chile to increase drastically.
+
+- A worldwide recession and a fall in many commodity prices also hurt export sectors in these countries.
+
+- In August 1982, Mexico announced that it could not repay its debts, mostly to private banks.
+
+- The U.S. government insisted that the private banks reschedule the debts, and in 1989 
+
+- Mexico was able to achieve a reduction in the interest rate 
+an extension of the repayment period
+a reduction in the principal by 12%
+
+- Brazil, Argentina, and other countries were also allowed to reschedule their debts with private banks after they defaulted. 
+
+### East Asia: Success and Crisis
+
+- Before the 1990s, Indonesia, Korea, Malaysia, Philippines, and Thailand relied mostly on domestic saving to finance investment.
+
+- But afterwards, foreign funds financed much of investment, and current account balances turned negative. 
+
+- Despite the rapid economic growth in East Asia between 1960 and 1997, growth was predicted to slow as economies “caught up” with Western countries.
+
+### The Asian Financial Crises
+
+- Weak enforcement of financial regulations and a lack of monitoring caused commercial firms, banks, and borrowers to engage in risky or even fraudulent activities: moral hazard.
+
+- Nonexistent or weakly enforced bankruptcy laws and loan contracts worsened problems after the crisis started.
+
+- The East Asian crisis started in Thailand in 1997, but quickly spread to other countries. Malaysia, Indonesia, Korea, and the Philippines soon faced speculations about the value of their currencies.
+
+- Most debts of banks and firms were denominated in U.S. dollars, so that devaluations of domestic currencies would make the burden of the debts in domestic currency increase.
+
+- To maintain fixed exchange rates would have required high interest rates and a reduction in government deficits, leading to a reduction in aggregate demand, output, and employment.
+
+- All of the affected economies except Malaysia turned to the IMF for loans to address the balance of payments crises and to maintain the value of the domestic currencies.
+Malaysia instead imposed controls on flows of financial assets so that it could increase its money supply (and lower interest rates), increase government purchases, and still try to maintain the value of the ringgit.
+
+- Because consumption and investment expenditure decreased with output, income, and employment, imports fell and the current account increased after 1997.
+- 
