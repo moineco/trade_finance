@@ -23,3 +23,7 @@
 ### Migration from developing countries to developed countries
 
 ![Figure: Global net migration (2010-2015)](figures/migration.png){fig-align="center"}
+
+### Weather and climate
+
+![Figure: Sum of direct and diffuse components of solar radiation \[kWh/m2\]](figures/sunshine.png){fig-align="center"}
