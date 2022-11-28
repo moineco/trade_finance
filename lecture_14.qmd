@@ -1,3 +1,13 @@
 # Economic Geography: Part B
 
-Content creation is in progress...
+
+### The Earth at night light: Proxy of economic growth
+
+![Earth night light in 2012](figures/night_light_2012.jpg){fig-align="center"}
+
+### Human capital matters
+
+-   As a population becomes more literate, numerate, and educated, economic and political institutions evolve to foster long-term economic growth.
+
+-   Rather than geography, Western colonization, and plantation agriculture, the amount of education and other forms of human capital determine the existence or lack of property rights, financial markets, international trade, and other institutions that encourage economic growth.
+
