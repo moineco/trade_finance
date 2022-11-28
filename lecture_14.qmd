@@ -15,3 +15,11 @@
 ### Water transportation
 
 ![Figure: Geographical Impacts of the Suez and Panama canals](figures/canel.png){fig-align="center"}
+
+### Population growth
+
+![Figure: Population distribution by latitude](figures/population_latitude.png){fig-align="center"}
+
+### Migration from developing countries to developed countries
+
+![Figure: Global net migration (2010-2015)](figures/migration.png){fig-align="center"}
