@@ -18,6 +18,20 @@
 
 ### Population growth
 
+Population distribution become high due to the following factors:
+
+1. Type of Land: Flat low land (Ganges Valley in India)
+
+2. Resources: Resource rich areas (e.g. coal, oil, wood, fishing etc.) tend to densely populated (Western Europe)
+
+3. Climate: Areas with temperate climates tend to be densely populated (rain and temperature) (Belgium)
+
+4. Political: Politically stable countries tend to have high populations
+
+5. Social: Groups of people want to live close to each other for security (e.g. USA). Other groups of people prefer to be isolated (e.g. Scandinavians)
+
+6. Economic: Job opportunities encourage high population densities, particularly in large cities
+
 ![Figure: Population distribution by latitude](figures/population_latitude.png){fig-align="center"}
 
 ### Migration from developing countries to developed countries
