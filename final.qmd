@@ -1,0 +1,86 @@
+# Final Examination {.unnumbered}
+
+### International Trade and International Finance
+
+### (国際貿易・国際金融)
+
+### 3rd quarter, 2022, Final exam
+
+#### To begin with, please read the following rules in the exam.
+
+    • This is an open book and take-home exam.
+    • Type your answers by a text editor in computers such as Microsoft Word.
+    • Be sure to explain your logic, if necessary, figures/maps, and label your figures/maps.
+    • In case some cheating or doubtful activities are found during the exam, it would be reported to the dean’s office, and those who are directly or indirectly involved in such activities will be heavily punished. No consultation is allowed, but you can consult with Dr. Moinul.
+    • When you have a question regarding problems, you can ask them to Dr. Moinul only.
+    • The submission deadline is on December 05, 2022. Your answer should be sent as an email attachment to trade.moinul@gmail.com
+    • After receiving your email, I will send you a confirmation email. If you do not receive the email from me, please contact.
+    • Your answer sheets, file and email should be entitled including student ID and name.
+
+### Problem 1 (25 points)
+
+1.  (5 points) Define the "absolute advantage" and "comparative advantage" as the basic reasons of international trade?
+
+2.  (5 points) Define "labor intensive" and "capital intensive" industries with three examples of each category.
+
+3.  (5 points) What is the opportunity cost? Explain it with an example.
+
+4.  (5 points) Explain the reasons of interrelation between "globalization" and "international trade".
+
+5.  (5 points) Which of the following trade models (a or b) is more realistic to you? Please justify your argument with proper logic.
+
+    a.  Trade based on absolute advantage by Adam Smith
+    b.  Trade based on comparative advantage by David Ricardo
+
+### Problem 2 (25 points) 
+
+1\. (5 points) What is a Production Possibility Frontier (PPF). Based on the data of the following table, draw a PPF of "Apple" and "Orange" production in Japan.
+
+| Apple | Orange |
+|-------|--------|
+| 200   | 0      |
+| 160   | 30     |
+| 120   | 60     |
+| 80    | 90     |
+| 40    | 120    |
+| 0     | 150    |
+
+2\. (5 points) The gravity model is used to explain trade between two countries. Illustrate the gravity model by using suitable example.
+
+3\. (5 points) Define "Specific tariff" and "Ad-valorem tariff". Based on your understanding, how can you classify the following tariffs:
+
+(i) United States have imposed 25% tariffs on imported trucks.\
+(ii) United Kingdom has levied \$3 per barrel of oil import.
+
+4\. (5 points) Followings are two important instruments of trade policy. In the context of Japanese economy, explain the possible usages of two instruments, (i) Export subsidies and (ii) Import quotas.
+
+5\. (5 points) What is Free Trade Agreements (FTA)? Why the North American Free Trade Agreement (NAFTA) is beneficial for the United States, Canada, and Mexico?
+
+### Problem 3 (25 points)
+
+1. (5 points) BRIC (Brazil, Russia, India, and China) countries have recent strong economic growth performances. Itemize several important factors that facilitate the economic growth of these countries.
+
+2. (5 points) What is the shape of “Environmental Kuznets Curve (EKC)”? According to country’s income level, how can you classify EKC in three different stages? Explain.
+
+3. (5 points) These days, ship-breaking rarely takes place in advanced countries. In contrast, ship breaking is common in developing countries. Explain the reasons behind this situation by using the concept of “Pollution Havens”.
+
+4. (5 points) What is “Carbon Tariff”? The issue of carbon tariffs is hypothetical, since no major economy has yet placed a significant price on greenhouse gas emissions. Do you think that countries need to impose “Carbon Tariff” on imports? Justify your argument.
+
+5. (5 points) The “Infant Industry Argument” seems highly plausible. Yet economists have pointed out many pitfalls in the argument. Point out three pitfalls of the “Infant Industry Argument”.
+
+### Problem 4 (25 points)
+
+1. (5 points) Why is it useful to divide Gross National Product (GNP) into consumption, investment, government purchases, and the current account? How to define reach and poor countries based on GNP and population?
+
+2. (5 points) (i) Define the “National Income” of an “Open Economy” by using following equation: Y = C + I + G + EX – IM
+
+(ii) Current Account (CA) of a country is defined by the following equation: CA = EX – IM
+
+Here, EX represents export and IM represents import. Do you think that CA can become negative (-) for a country? Please provide the explanation and example of your response.
+
+3. (5 points) Do you think that geography is important in influencing economic development? State your arguments to justify your answer.
+
+4. (5 points) Historically the existence people and international trade are highly correlated. What are the geographic factors that impact on population distribution?
+
+5. (5 points) Has the world income gap narrowed over time? Explain your logic based on the concept of “inequality within countries” and “inequality between countries”.
+
