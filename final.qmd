@@ -8,14 +8,21 @@
 
 #### To begin with, please read the following rules in the exam.
 
-    • This is an open book and take-home exam.
-    • Type your answers by a text editor in computers such as Microsoft Word.
-    • Be sure to explain your logic, if necessary, figures/maps, and label your figures/maps.
-    • In case some cheating or doubtful activities are found during the exam, it would be reported to the dean’s office, and those who are directly or indirectly involved in such activities will be heavily punished. No consultation is allowed, but you can consult with Dr. Moinul.
-    • When you have a question regarding problems, you can ask them to Dr. Moinul only.
-    • The submission deadline is on December 05, 2022. Your answer should be sent as an email attachment to trade.moinul@gmail.com
-    • After receiving your email, I will send you a confirmation email. If you do not receive the email from me, please contact.
-    • Your answer sheets, file and email should be entitled including student ID and name.
+  - This is an open book and take-home exam.
+  
+  - Type your answers by a text editor in computers such as Microsoft Word.
+  
+  - Be sure to explain your logic, if necessary, figures/maps, and label your figures/maps.
+  
+  - In case some cheating or doubtful activities are found during the exam, it would be reported to the dean’s office, and those who are directly or indirectly involved in such activities will be heavily punished. No consultation is allowed, but you can consult with Dr. Moinul.
+  
+  - When you have a question regarding problems, you can ask them to Dr. Moinul only.
+  
+  - The submission deadline is on December 05, 2022. Your answer should be sent as an email attachment to trade.moinul@gmail.com
+  
+  - After receiving your email, I will send you a confirmation email. If you do not receive the email from me, please contact.
+  
+  - Your answer sheets, file and email should be entitled including student ID and name.
 
 ### Problem 1 (25 points)
 
@@ -49,7 +56,7 @@
 
 3\. (5 points) Define "Specific tariff" and "Ad-valorem tariff". Based on your understanding, how can you classify the following tariffs:
 
-(i) United States have imposed 25% tariffs on imported trucks.\
+(i) United States has imposed 25% tariffs on imported trucks.\
 (ii) United Kingdom has levied \$3 per barrel of oil import.
 
 4\. (5 points) Followings are two important instruments of trade policy. In the context of Japanese economy, explain the possible usages of two instruments, (i) Export subsidies and (ii) Import quotas.
@@ -74,7 +81,7 @@
 
 2. (5 points) (i) Define the “National Income” of an “Open Economy” by using following equation: Y = C + I + G + EX – IM
 
-(ii) Current Account (CA) of a country is defined by the following equation: CA = EX – IM
+(ii) Define the "Current Account" (CA) of an "Open Economy" by using the following equation: CA = EX – IM
 
 Here, EX represents export and IM represents import. Do you think that CA can become negative (-) for a country? Please provide the explanation and example of your response.
 
