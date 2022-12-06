@@ -28,7 +28,6 @@ book:
     - lecture_14.qmd
     - lecture_15.qmd
     - assignment_5.qmd
-    - final.qmd
     - references.qmd
 
 bibliography: references.bib
