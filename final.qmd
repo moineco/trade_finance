@@ -6,24 +6,6 @@
 
 ### 3rd quarter, 2022, Final exam
 
-#### To begin with, please read the following rules in the exam.
-
-  - This is an open book and take-home exam.
-  
-  - Type your answers by a text editor in computers such as Microsoft Word.
-  
-  - Be sure to explain your logic, if necessary, figures/maps, and label your figures/maps.
-  
-  - In case some cheating or doubtful activities are found during the exam, it would be reported to the dean’s office, and those who are directly or indirectly involved in such activities will be heavily punished. No consultation is allowed, but you can consult with Dr. Moinul.
-  
-  - When you have a question regarding problems, you can ask them to Dr. Moinul only.
-  
-  - The submission deadline is on December 05, 2022. Your answer should be sent as an email attachment to trade.moinul@gmail.com
-  
-  - After receiving your email, I will send you a confirmation email. If you do not receive the email from me, please contact.
-  
-  - Your answer sheets, file and email should be entitled including student ID and name.
-
 ### Problem 1 (25 points)
 
 1.  (5 points) Define the "absolute advantage" and "comparative advantage" as the basic reasons of international trade?
