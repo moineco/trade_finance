@@ -12,21 +12,21 @@ book:
     - lecture_1.qmd
     - lecture_2.qmd
     - lecture_3.qmd
-    - assignment_1.qmd
     - lecture_4.qmd
     - lecture_5.qmd
     - lecture_6.qmd
-    - assignment_2.qmd
     - lecture_7.qmd
     - lecture_8.qmd
     - lecture_9.qmd
-    - assignment_3.qmd
     - lecture_10.qmd
     - lecture_11.qmd
     - lecture_12.qmd
     - lecture_13.qmd
     - lecture_14.qmd
     - lecture_15.qmd
+    - assignment_1.qmd
+    - assignment_2.qmd
+    - assignment_3.qmd
     - assignment_5.qmd
     - references.qmd
 
