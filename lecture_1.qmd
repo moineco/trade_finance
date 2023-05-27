@@ -56,7 +56,6 @@ knitr::kable(df)
     -   Foreign asset ownership
     -   Immigration
     -   Price convergence: Possibility of trade may have important effects
-    
 
 ## Globalization and international trade
 

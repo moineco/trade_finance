@@ -32,7 +32,7 @@ book:
     #- final.qmd
     - references.qmd
 
-bibliography: references.bib
+bibliography: international_trade_finance.bib
 
 format:
   html:

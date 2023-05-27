@@ -1,22 +1,18 @@
 # References {.unnumbered}
 
-1. Krugman, P. R. (2018). International trade: Theory and policy, 11th edition
-Published by Pearson.
+1.  Krugman, P. R. (2018). International trade: Theory and policy, 11th edition Published by Pearson.
 
-2. Krugman, P. R. (2018). International Finance: Theory and Policy, 11th edition
-Published by Pearson.
+2.  Krugman, P. R. (2018). International Finance: Theory and Policy, 11th edition Published by Pearson.
 
-3. Krugman, P., Obstfeld, M., & Melitz, M. (2017). International Economics: Theory and Policy, the latest edition.
+3.  Krugman, P., Obstfeld, M., & Melitz, M. (2017). International Economics: Theory and Policy, the latest edition.
 
-4. Feenstra, R. C. (2015). Advanced international trade: theory and evidence. Princeton university press.
+4.  Feenstra, R. C. (2015). Advanced international trade: theory and evidence. Princeton university press.
 
-5. Jha, P. (2021). Lecture Notes in International Trade: An Undergraduate Course.
+5.  Jha, P. (2021). Lecture Notes in International Trade: An Undergraduate Course.
 
-6. Van Bergeijk, P. A., & Brakman, S. (Eds.). (2010). The gravity model in international trade: Advances and applications.
+6.  Van Bergeijk, P. A., & Brakman, S. (Eds.). (2010). The gravity model in international trade: Advances and applications.
 
-7. Salvatore, D. (2016). International economics. John Wiley & Sons.
-
+7.  Salvatore, D. (2016). International economics. John Wiley & Sons.
 
 ::: {#refs}
-
 :::
