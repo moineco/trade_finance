@@ -10,8 +10,9 @@ The aim of "International Trade and International Finance" course is to give stu
 
 Increasing returns and trade are essential concept of this course. I will focus on the Krugman model or the model of trade based on internal economies of scale in production. It shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety. I will also develop a discussion of the various commercial policy instruments, such as tariﬀs, quotas and export subsidies, that countries use to intervene in trade. Next, we will study the economics of preferential trading agreements, and the concluding chapter provides a history of multilateral trading agreements under the aegis of GATT (General Agreement on Tariﬀs and Trade) and its evolution into the World Trade Organization (WTO).
 
-## Syllabus of International Trade and Intenational Finance 
-(国際貿易・国際金融) 
+## Syllabus of International Trade and Intenational Finance
+
+(国際貿易・国際金融)
 
 ##### Section 1: Introduction to International Economics
 
@@ -53,18 +54,14 @@ Class room: **A108**, Eikokuji Campus, Kochi University of Technology
 
 Your grade evaluation will depend on following three factors:
 
-| Performance                                       | Weight |
-|---------------------------------------------------|--------|
-| a\. Attendance and answering the quizzes          | 20%    |
-| b\. Answering the assignments                     | 30%    |
-| c\. Final examination (TBA)                       | 50%    |
+| Performance                              | Weight |
+|------------------------------------------|--------|
+| a\. Attendance and answering the quizzes | 20%    |
+| b\. Answering the assignments            | 30%    |
+| c\. Final examination (TBA)              | 50%    |
 
 **Instructor**
 
 *Moinul Islam*, Assistant Professor, School of Economics and Management, Kochi University of Technology, Japan.
-
-Email address:
-
--   For the submission of assignments and quizzes: **`trade.moinul@gmail.com`**
 
 Office hours: By appointment, please email
