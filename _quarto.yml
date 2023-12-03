@@ -5,7 +5,7 @@ project:
 book:
   title: "International Trade and International Finance"
   author: "Moinul Islam"
-  date: "9/1/2022"
+  date: "12/1/2023"
   
   chapters:
     - index.qmd
@@ -29,6 +29,16 @@ book:
     #- assignment_3.qmd
     #- assignment_4.qmd
     #- assignment_5.qmd
+    #- assignment_6.qmd
+    #- assignment_7.qmd
+    #- assignment_8.qmd
+    #- assignment_9.qmd
+    #- assignment_10.qmd
+    #- assignment_11.qmd
+    #- assignment_12.qmd
+    #- assignment_13.qmd
+    #- assignment_14.qmd
+    #- assignment_15.qmd
     #- final.qmd
     - references.qmd
 
