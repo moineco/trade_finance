@@ -25,7 +25,7 @@ book:
     - lecture_14.qmd
     - lecture_15.qmd
     - assignment_1.qmd
-    #- assignment_2.qmd
+    - assignment_2.qmd
     #- assignment_3.qmd
     #- assignment_4.qmd
     #- assignment_5.qmd
