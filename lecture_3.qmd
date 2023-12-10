@@ -18,7 +18,7 @@
 
 -   Under these circumstances, both nations would beneﬁt if each specialized in the production of the commodity of its absolute advantage and then traded with the other nation. Canada would specialize in the production of wheat (i.e., produce more than needed domestically) and exchange some of it for (surplus) bananas grown in Nicaragua. As a result, both more wheat and more bananas would be grown and consumed, and both Canada and Nicaragua would gain.
 
--   Thus, while the mercantilists believed that one nation could gain only at the expense of another nation and advocated strict government control of all economic activity and trade, Adam Smith (and the other classical economists who followed him) believed that all nations would gain from free trade and strongly advocated a policy of `laissez-faire` (i.e., as little government interference with the economic system as possible).
+-   Thus, while the mercantilism believed that one nation could gain only at the expense of another nation and advocated strict government control of all economic activity and trade, Adam Smith (and the other classical economists who followed him) believed that all nations would gain from free trade and strongly advocated a policy of `laissez-faire` (i.e., as little government interference with the economic system as possible).
 
 -   Free trade would cause world resources to be utilized most efﬁciently and would maximize world welfare. There were to be only a few exceptions to this policy of `laissez-faire` and free trade. One of these was the protection of industries important for national defense.
 
@@ -91,7 +91,5 @@ Table 3.3: Example of comparative advantage
 | U.S    | -10           | +100               |
 | Mexico | +10           | -30                |
 | Total  | 0             | +70                |
-
-
 
 **Reference:** Chapter 2- Salvatore, D. (2016). *International Economics*. John Wiley & Sons.
