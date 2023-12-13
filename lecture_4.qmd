@@ -3,7 +3,7 @@
 ## Differences between absolute advantage and comparative advantage
 
 |                  | Absolute advantage                                    | Comparative advantage                                                                          |
-|-------------------|---------------------------|---------------------------|
+|------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Definition       | Best at production of good or service                 | Production of good or service at lower cost                                                    |
 | Benefits         | Resources are focused on specific production          | Resources are focused on efficient production, therefore, saving resources                     |
 | Cost             | Cost is noticed but not made priority over production | Cost is the primary factor to make production                                                  |
