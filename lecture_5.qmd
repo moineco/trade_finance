@@ -3,7 +3,7 @@
 ## Key concepts
 
 | Term                         | **Definition**                                                                                                                                                                                                           |
-|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------|----------------------------------------------------------|
 | Opportunity cost             | The value of the next best alternative to any decision you make. For instance, the opportunity cost of watching movey is the hour of studying she gives up to do that                                                    |
 | Growth                       | An increase in an economy's ability to produce goods and services over time; economic growth in the PPF model is illustrated by a shift out of the PPF                                                                   |
 | Contraction                  | A decrease in output that occurs due to the under-utilization of resources. In a graphical model of the PPF, a contraction is represented by moving to a point that is further away from, and on the interior of the PPF |
@@ -74,6 +74,10 @@ The production possibilities frontier can illustrate two kinds of efficiency: pr
 -   Allocative efficiency means that the particular mix of goods a society produces represents the combination that society most desires. How to determine what a society desires can be a controversial question, and is usually discussed in political science, sociology, and philosophy classes as well as in economics. At its most basic, allocative efficiency means producers supply the quantity of each product that consumers demand. Only one of the productively efficient choices will be the allocatively efficient choice for society as a whole.
 
 ![Productive and Allocative Efficiency](figures/PPF-ex2.jpg){fig-align="center" width="400"}
+
+### Quiz 5
+
+**Why is a production possibilities frontier typically drawn as a curve, rather than a straight line?**
 
 ## Heckscher--Ohlin model of trade
 
