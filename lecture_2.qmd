@@ -63,7 +63,7 @@
 
 **Brain storming**
 
--  Japan is facing a continuous reduction of birth rate and increase in ageing population. This trend is adversely impacting on labor intensive sectors. For instance as healthcare and caregiver sector is suffering from the shortage of skilled labor in this sector. As a policy maker, what type of changes you will suggest.
+-   Japan is facing a continuous reduction of birth rate and increase in ageing population. This trend is adversely impacting on labor intensive sectors. For instance as healthcare and caregiver sector is suffering from the shortage of skilled labor in this sector. As a policy maker, what type of changes you will suggest.
 
 ### What is capital intensive industry?
 
@@ -83,9 +83,8 @@
 
 ### Quiz 2
 
-- Interpret the following figure based on your understanding of the content in lecture 2.
+-   Interpret the following figure based on your understanding of the content in lecture 2.
 
-![The Changing composition developing country exports](figures/L2/Fig_L2_1.jpg){width="550" height="500"}
-Figure 2_1: The Changing composition developing country exports
+![The Changing composition developing country exports](figures/L2/Fig_L2_1.jpg){width="550" height="500"} Figure 2_1: The Changing composition developing country exports
 
 **Reference:** Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition)
