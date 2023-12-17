@@ -6,9 +6,8 @@
 
 1.  It takes you half an hour to do a math assignment and two hours to do a micro assignment. What is the opportunity cost of you doing two math assignments?
 
-```{=html}
 <!-- -->
-```
+
 a.  1/2 micro assignments
 
 b.  1 micro assignment

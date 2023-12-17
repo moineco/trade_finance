@@ -43,10 +43,8 @@ Increasing returns and trade are essential concept of this course. I will focus 
 
 Class schedule in fourth quarter:
 
-```         
 -   Monday from 8:50 AM to 10:20 AM
 -   Thursday from 8:50 AM to 10:20 AM
-```
 
 Class room: **A108**, Eikokuji Campus, Kochi University of Technology
 
@@ -62,7 +60,7 @@ Your grade evaluation will depend on following three factors:
 
 **Assignment submission**
 
-Regarding the assignments, you have to write at least **150** words (in English) to get evaluated. Writing with logical explanation and examples are the main criteria of evaluation. If you can create exceptional arguments to support your discussion, I will provide bonus points for that assignment.
+Regarding the assignments, you have to write at least **100** words (in English) to get evaluated. Writing with logical explanation and examples are the main criteria of evaluation. If you can create exceptional arguments to support your discussion, I will provide bonus points for the assignment.
 
 **Quiz submission**
 
