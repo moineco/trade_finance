@@ -1,135 +1,15 @@
-# \>\>\> Assignment 1 {.unnumbered}
+# \>\>\> Assignment 6 {.unnumbered}
 
-## Hint:
+-   Assignment on December 21, 2023
+-   The submission deadline is on December 27, 2023
 
--   Suppose that the two countries are Home and Foreign and the two goods are Bread and Cloth. The lone factor of production is labor. The production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.
+**1. Why US dollar has been the World’s principal reserve currency since the end of World War II? Explain the reasons with enough logic and example.** 
 
--   Let's consider:
+**2. Why Euro, Yen, Yuan or any other currency were not able to took that position? Explain the reasons with enough logic and example.**
 
-    -   Home (H)
+You can write your answers and explanations by hand on a paper or use a typewriter such as Microsoft Word on your PCs.
 
-    -   Foreign (F)
+After that, your answers should be sent to the following email address.「trade.moinul\@gmail.com」
 
-    -   Bread (B)
+Your answer sheets, file and email should be entitled including \`\`Your_student_ID, your name and assignment ID'' such as 1333455_Moinul_Islam_Assignment6.
 
-    -   Cloth (C)
-
-    -   Labor (L)
-
--   We have the following information
-
-    -   In Home, H_LB = 1
-
-    -   In Home, H_LC = 2
-
-    -   In Foreign, F_LB = 4
-
-    -   In Foreign, F_LC = 3
-
--   It is easily veriﬁed that Home is better at making both Bread and Cloth because Home requires less labor to produce a unit of Bread and a unit Cloth compared to Foreign.
-
--   In other words, Home labor is more productive than Foreign in the production of both goods. Thus, Home has an absolute advantage in the production of both Bread and Cloth.
-
-> Recall that the opportunity cost of producing a good is the next best alternative foregone.
-
--   Home produces one unit of Bread, it uses one unit of labor. The alternative use of labor in Home is to produce Cloth. How much Cloth can one unit of labor in Home produce? The answer is 1/2, because each unit of Cloth requires two units of labor; so, one unit of labor can produce only 1/2 Cloth.
-
-Therefore,
-
--   The opportunity cost of producing Bread in Home is 1/2 Cloth
-
--   The ﬂip side of this is that the opportunity cost of producing Cloth in Home is 2 Bread
-
--   For Foreign, the opportunity cost of producing Bread in Foreign is 4/3 Cloth
-
--   And the opportunity cost of producing Cloth in Foreign is 3/4 Bread
-
-## Assignment 1:
-
--   Suppose the unit labor requirements in Home and Foreign for the two goods Cloth and Wheat are as follows.
-
--   Let's consider:
-
-    -   Home (H)
-
-    -   Foreign (F)
-
-    -   Cloth (C)
-
-    -   Wheat (W)
-
-    -   Labor (L)
-
--   We have the following data:
-
-    -   In Home, H_LC = 30
-
-    -   In Home, H_LW = 20
-
-    -   In Foreign, F_LC = 60
-
-    -   In Foreign, F_LW = 30
-
-### Answer the following multiple choice questions based on the above.
-
-1)  Given the information in the table above, Home has an absolute advantage in
-
-```{=html}
-<!-- -->
-```
-A)  Cloth
-B)  Wheat
-C)  Both Cloth and Wheat
-D)  Neither
-
-```{=html}
-<!-- -->
-```
-2)  Given the information in the table above, the opportunity cost of Cloth in Home is
-
-```{=html}
-<!-- -->
-```
-A)  1 Wheat
-B)  2 Wheat
-C)  1.5 Wheat
-D)  4 Wheat
-
-```{=html}
-<!-- -->
-```
-3)  Given the information in the table above, the opportunity cost of Wheat in Foreign is
-
-```{=html}
-<!-- -->
-```
-A)  1 Cloth
-B)  2 Cloths
-C)  1/2Cloth
-D)  4 Cloths
-
-```{=html}
-<!-- -->
-```
-4)  Which of the following statements is true about the table above?
-
-```{=html}
-<!-- -->
-```
-A)  Home has a lower labor productivity in both Cloth and Wheat.
-B)  Foreign has a lower labor productivity in both Cloth and Wheat.
-C)  Home has a higher labor productivity in cloth, but Foreign has a higher labor productivity in Wheat.
-D)  Home has a lower labor productivity in cloth, but Foreign has a higher labor productivity in Wheat.
-
-```{=html}
-<!-- -->
-```
-5)  Which of the following statements is true about the table above?
-
-```{=html}
-<!-- -->
-```
-A)  Home has a comparative advantage in both Cloth and Wheat.
-B)  Foreign has a comparative advantage in both Cloth and Wheat.
-C)  Home has a comparative advantage in Cloth and Foreign in Wheat
-D)  Foreign has a comparative advantage in Cloth and Home in Wheat.
