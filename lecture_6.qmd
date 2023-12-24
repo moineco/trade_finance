@@ -49,7 +49,7 @@ In the modern world, for reasons we will explain later in this chapter, tariff r
 Because tariff rates are already low for most of the countries, the estimated benefit to free trade is not significantly high for many nations and regions of the world.
 
 | Policy                   | Tariff                              | Export Subsidy | Import Quota                        | Voluntary Export Restraint |
-|--------------|---------------|--------------|---------------|--------------|
+|--------------------------|-------------------------------------|----------------|-------------------------------------|----------------------------|
 | Producer benefit         | Increases                           | Increases      | Increases                           | Increases                  |
 | Consumer benefit         | Falls                               | Falls          | Falls                               | Falls                      |
 | Government revenue       | Increases                           | Falls          | No change                           | No change                  |
@@ -89,6 +89,6 @@ A variant on the import quota is the voluntary export restraint (VER), also know
 
 A local content requirement is a regulation that requires some specified fraction of a final good to be produced domestically. In some cases, this fraction is specified in physical units. In other cases, the requirement is stated in value terms by requiring that some minimum share of the price of a good represent domestic value added. Local content laws have been widely used by developing countries trying to shift their manufacturing base from assembly back into intermediate goods.
 
-### Quiz 6 
+### Quiz 6
 
 Why some developing countries impose high import tariff on car? Explain the reasons with sufficient justification and examples.
