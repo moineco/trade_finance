@@ -26,26 +26,17 @@ Figure 7c illustrates the Asian takeoff by showing the experiences of three coun
 
 ## **Case**: India's ecoonomic growth
 
-India, with a population of more than 1.1 billion people, is the world’s second-most-populous
-country. It’s also a growing force in world trade especially in new forms of trade that involve information rather than physical goods. The Indian city of Bangalore has become famous for its
-growing role in the global information technology industry.
+India, with a population of more than 1.1 billion people, is the world's second-most-populous country. It's also a growing force in world trade especially in new forms of trade that involve information rather than physical goods. The Indian city of Bangalore has become famous for its growing role in the global information technology industry.
 
-Yet a generation ago, India was a very minor player in world trade. In part this was because
-the country’s economy performed poorly in general: Until about 1980, India eked out a rate of economic growth—sometimes mocked as the “Hindu rate of growth”—that was only about
-1 percentage point higher than population growth. This slow growth was widely attributed to the stifling effect of bureaucratic restrictions. Observers spoke of a “license Raj”: Virtually any kind of business initiative required hard-to-get government permits, which placed a damper on investment and innovation. And India’s sluggish economy participated little in world trade. 
+Yet a generation ago, India was a very minor player in world trade. In part this was because the country's economy performed poorly in general: Until about 1980, India eked out a rate of economic growth---sometimes mocked as the "Hindu rate of growth"---that was only about 1 percentage point higher than population growth. This slow growth was widely attributed to the stifling effect of bureaucratic restrictions. Observers spoke of a "license Raj": Virtually any kind of business initiative required hard-to-get government permits, which placed a damper on investment and innovation. And India's sluggish economy participated little in world trade.
 
-After the country achieved independence in 1948, its leaders adopted a particularly extreme form of import-substituting industrialization as the country’s development strategy: India imported almost nothing that it could produce domestically, even if the domestic product was far more expensive and of lower quality than what could be bought abroad. High costs, in turn, crimped exports. So India was a very “closed” economy. In the 1970s, imports and exports averaged only about 5 percent of GDP, close to the lowest levels of any major nation.
+After the country achieved independence in 1948, its leaders adopted a particularly extreme form of import-substituting industrialization as the country's development strategy: India imported almost nothing that it could produce domestically, even if the domestic product was far more expensive and of lower quality than what could be bought abroad. High costs, in turn, crimped exports. So India was a very "closed" economy. In the 1970s, imports and exports averaged only about 5 percent of GDP, close to the lowest levels of any major nation.
 
-Then everything changed. India’s growth accelerated dramatically: GDP per-capita, which had
-risen at an annual rate of only 1.3 percent from 1960 to 1980, has grown at close to 4 percent annually since 1980. And India’s participation in world trade surged as tariffs were brought down and import quotas were removed. In short, India has become a high-performance economy. It’s still a
-very poor country, but it is rapidly growing richer and has begun to rival China as a focus of world attention.
+Then everything changed. India's growth accelerated dramatically: GDP per-capita, which had risen at an annual rate of only 1.3 percent from 1960 to 1980, has grown at close to 4 percent annually since 1980. And India's participation in world trade surged as tariffs were brought down and import quotas were removed. In short, India has become a high-performance economy. It's still a very poor country, but it is rapidly growing richer and has begun to rival China as a focus of world attention.
 
-The big question, of course, is why India’s growth rate has increased so dramatically. That
-question is the subject of heated debate among economists. Some have argued that trade liberalization, which allowed India to participate in the global economy, was crucial. Others point
-out that India’s growth began accelerating around 1980, whereas the big changes in trade
-policy didn’t occur until the beginning of the 1990s.
+The big question, of course, is why India's growth rate has increased so dramatically. That question is the subject of heated debate among economists. Some have argued that trade liberalization, which allowed India to participate in the global economy, was crucial. Others point out that India's growth began accelerating around 1980, whereas the big changes in trade policy didn't occur until the beginning of the 1990s.
 
-Whatever caused the change, India’s transition has been a welcome development. More than a billion people now have much greater hope for a decent standard of living.
+Whatever caused the change, India's transition has been a welcome development. More than a billion people now have much greater hope for a decent standard of living.
 
 ### The Rising Weight of Developing Countries in World Trade
 
@@ -62,6 +53,5 @@ Whatever caused the change, India’s transition has been a welcome development.
 -   China and India significantly increased imports from MENA and SSA, partly due to rising commodity demand, with China absorbing \$32.5 billion in exports from them in 2006, up from just \$545 million in 1996.
 
 -   Bilateral trade between China and India has grown increasingly significant as well, with exports from China to India jumping from \$686 million to \$14.5 billion.
-
 
 **Reference:** Chapter 11- Trade Policy in Developing Countries (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Trade: Theory and Policy*, 11th edition)
