@@ -1,8 +1,5 @@
 # \>\>\> Assignment 5 {.unnumbered}
 
--   Assignment on December 18, 2023
--   The submission deadline is on December 25, 2023
-
 **1. What does a production possibilities frontier illustrate?**
 
 **2. Explain why societies cannot make a choice above their production possibilities frontier and should not make a choice below it.**

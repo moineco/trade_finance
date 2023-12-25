@@ -1,8 +1,5 @@
 # \>\>\> Assignment 6 {.unnumbered}
 
--   Assignment on December 21, 2023
--   The submission deadline is on December 27, 2023
-
 **1. Why US dollar has been the World's principal reserve currency since the end of World War II? Explain the reasons with enough logic and example.**
 
 **2. Why Euro, Yen, Yuan or any other currency were not able to took that position? Explain the reasons with enough logic and example.**

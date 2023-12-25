@@ -1,8 +1,5 @@
 # \>\>\> Assignment 4 {.unnumbered}
 
--   Assignment on December 14, 2023
--   The submission deadline is on December 21, 2023
-
 **1. It takes you half an hour to do a math assignment and two hours to do a micro assignment. What is the opportunity cost of you doing two math assignments?**
 
 <!-- -->
