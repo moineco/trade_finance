@@ -17,8 +17,8 @@ book:
     - lecture_6.qmd
     - lecture_7.qmd
     - lecture_8.qmd
-    #- lecture_9.qmd
-    #- lecture_10.qmd
+    - lecture_9.qmd
+    - lecture_10.qmd
     #- lecture_11.qmd
     #- lecture_12.qmd
     #- lecture_13.qmd
