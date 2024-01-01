@@ -1,0 +1,79 @@
+# The Federal Reserve
+
+## In nearly every society, some kind of money has evolved to make trade easier
+
+-   The word “salary” comes from the wages paid to Roman soldiers, who were paid in sacks of sal—salt. Any medium of exchange—whether it is a gold coin, a whale tooth, or an American dollar—serves the same basic purposes.
+
+-   First, it serves as a means of exchange, so that I might enjoy pork chops for dinner tonight even though the butcher has no interest in buying this book.
+
+-   Second, it serves as a unit of account, so that the cost of all kinds of goods and services can be measured and compared using one scale.
+
+-   Third, money must be portable and durable. Neither bowling balls nor rose petals would serve the purpose.
+
+-   Last, money must be relatively scarce so that it can serve as a store of value.
+
+-   Clever people will always find a medium of exchange that works. Cigarettes long served as the medium of exchange in prisons, where cash is banned. It doesn’t matter whether you smoke; cigarettes have value as long as enough other inmates smoke.
+
+-   For much of American history, commerce was conducted with paper currency backed by precious metals. Prior to the twentieth century, private banks issued their own money. In 1913, the U.S. government banned private money and became the sole provider of currency.
+
+-   The basic idea did not change. Whether money was public or private, paper currency derived its value from the fact that it could be redeemed for a set quantity of gold or silver, either from a bank or from the government.
+
+-   Then something strange happened. In 1971, the United States permanently went off the gold standard. At that point, every paper dollar became redeemable for . . . nothing.
+
+## Why that dollar in your pocket is more than just a piece of paper
+
+-   Examine that wad of USD 100 bills in your wallet. (If necessary, USD 1 bills can be substituted instead.) Those bills are just paper. You can’t eat them, you can’t drink them, you can’t smoke them, and, most important, you can’t take them to the government and demand anything in return. They have no intrinsic value. And that is true of nearly all the world’s currencies.
+
+-   Left alone on a deserted island with \$100 million, you would quickly perish. On the other hand, life would be good if you were rescued and could take the cash with you. Therein lies the value of modern currency: It has purchasing power.
+
+-   Dollars have value because people peddling real things—food, books, pedicures—will accept them. And people peddling real things will accept dollars because they are confident that other people peddling other real things will accept them, too.
+
+-   A dollar is a piece of paper whose value derives solely from our confidence that we will be able to use it to buy something we need in the future.
+
+## Modern money is a confidence game
+
+-   To give you some sense of how modern money is a confidence game, consider a bizarre phenomenon in India.
+
+-   Most Indians involved in commerce—shopkeepers, taxi drivers, etc.—will not accept a torn, crumpled, or overly soiled rupee note. Since other Indians know that many of their countrymen will not accept torn notes, they will not accept them either.
+
+-   Finally, when tourists arrive in the country, they quickly learn to accept only intact bills, lest they be stuck with the torn ones.
+
+-   The whole process is utterly irrational, since the Indian Central Bank considers any note with a serial number—torn, dirty, crumpled, or otherwise—to be legal tender. Any bank will exchange torn rupees for crisp new ones.
+
+-   That doesn’t matter; rational people refuse legal tender because they believe that it might not be accepted by someone else. The whole bizarre phenomenon underscores the fact that our faith in paper currency is predicated on the faith that others place in the same paper.
+
+## A case of USA
+
+-   Sometimes simple statements speak loudly. On September 11, 2001, hours after the terrorist attacks on the United States, the Federal Reserve issued the following statement: “The Federal Reserve System is open and operating. The discount window is available to meet liquidity needs."
+
+-   How exactly does an inelegant two-sentence statement have such a profound effect on the world’s largest economy—indeed, on the whole global economy?
+
+-   The Federal Reserve has tools with more direct impact on the global economy than any other institution in the world, public or private.
+
+-   From where does the Federal Reserve, an institution that is not directly accountable to the voting public, derive such power? And how does that power affect the lives of everyday Americans?
+
+-   The answer to all those questions is the same: The Federal Reserve controls the money supply and therefore the credit tap for the economy.
+
+-   When that tap is open wide, interest rates fall and we spend more freely on things that require borrowed money—everything from new cars to new manufacturing plants. Thus, the Fed can use monetary policy to counteract economic downturns (or prevent them in the first place). And it can inject money into the financial system after sudden shocks, such as the 1987 stock market crash or the terrorist attacks of September 11 or the bursting of the American real estate bubble, when consumers and firms might otherwise freeze in place and stop spending.
+
+-   Or the Fed can tighten the tap by raising interest rates. When the cost of borrowed funds goes up, our spending slows. It is an awesome power.
+
+### Some paradox
+
+-   If the Fed can make the economy grow faster by lowering interest rates, then presumably lower interest rates are always better. Indeed, why should there be any limit to the rate at which the economy can grow?
+
+-   If we begin to spend more freely when rates are cut from 7 percent to 5 percent, why stop there? If there are still people without jobs and others without new cars, then let’s press on to 3 percent, or even 1 percent. New money for everyone!
+
+-   Sadly, there are limits to how fast any economy can grow. If low interest rates, or “easy money,” causes consumers to demand 5 percent more new Jeep Cherokees than they purchased last year, then Chrysler must expand production by 5 percent. That means hiring more workers and buying more steel, glass, electrical components, etc. At some point, it becomes difficult or impossible for Chrysler to find these new inputs, particularly qualified workers. At that point, the company simply cannot make enough Jeep Cherokees to satisfy consumer demand; instead, the company begins to raise prices. Meanwhile, autoworkers recognize that Chrysler is desperate for labor, and the union demands higher wages.
+
+## Where does the Fed derive this extraordinary power over interest rates?
+
+-   After all, commercial banks are private entities. The Federal Reserve cannot force Citibank to raise or lower the rates it charges consumers for auto loans and home mortgages. Rather, the process is indirect.
+
+-   The interest rate is really just a rental rate for capital, or the “price of money.” The Fed controls America’s money supply. For now, recognize that capital is no different from apartments: The greater the supply, the cheaper the rent.
+
+-   The Fed moves interest rates by making changes in the quantity of funds available to commercial banks. If banks are awash with money, then interest rates must be relatively low to attract borrowers for all the available funds.
+
+-   When capital is scarce, the opposite will be true: Banks can charge higher interest rates and still attract enough borrowers for all available funds. It is supply and demand, with the Fed controlling the supply.
+
+**Reference: Wheelan, C (2002). Naked economics : Undressing the dismal science. New York : Norton**
