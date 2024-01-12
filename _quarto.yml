@@ -19,12 +19,12 @@ book:
     - lecture_8.qmd
     - lecture_9.qmd
     - lecture_16.qmd
-    #- lecture_10.qmd
-    #- lecture_11.qmd
-    #- lecture_12.qmd
-    #- lecture_13.qmd
-    #- lecture_14.qmd
-    #- lecture_15.qmd
+    - lecture_10.qmd
+    - lecture_11.qmd
+    - lecture_12.qmd
+    - lecture_13.qmd
+    - lecture_14.qmd
+    - lecture_15.qmd
     - assignment_1.qmd
     - assignment_2.qmd
     - assignment_3.qmd
