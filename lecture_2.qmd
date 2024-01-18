@@ -44,8 +44,8 @@
 
 -   Buying and selling goods and services from other countries. Trade consist of imports (M) and exports (X). For instance, in the context of Japan:
 
-    -   The purchase of goods and services from abroad that leads to an outflow of currency from Japan -- Imports (M)
-    -   The sale of goods and services to buyers from other countries leading to an inflow of currency to Japan -- Exports (X)
+    -   The purchase of goods and services from abroad that leads to an outflow of currency from Japan -- Imports (IM)
+    -   The sale of goods and services to buyers from other countries leading to an inflow of currency to Japan -- Exports (EX)
 
 ## Labor Intensive and capital intensive industries
 
