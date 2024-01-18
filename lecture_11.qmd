@@ -44,7 +44,6 @@ $$Y = C + I + G$$
 
 $$Y = C + I + G + EX - IM$$
 
-
 ## The Current Account (CA)
 
 -   A country's foreign trade is exactly balanced only rarely. The difference between exports of goods and services and imports of goods and services is known as the current account balance (or current account).
