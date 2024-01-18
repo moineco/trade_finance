@@ -29,8 +29,8 @@ Increasing returns and trade are essential concept of this course. I will focus 
 ##### Section 3: Open-Economy Macroeconomics
 
 -   Lecture 9: Globalization, Trade and the Environment
--   Lecture 10: National Income Accounting and the Balance of Payments: Part A
--   Lecture 11: National Income Accounting and the Balance of Payments: Part B
+-   Lecture 10: Macroeconomic Analysis of Trade Balance
+-   Lecture 11: National Income Accounting and the Balance of Payments
 -   Lecture 12: Money, Interest Rates, and Exchange Rates
 
 ##### Section 4: International Macroeconomic Policy
