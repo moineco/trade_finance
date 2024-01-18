@@ -1,4 +1,4 @@
-# Money, Interest Rates, and Exchange Rates
+# Money, Interest Rates and Exchange Rates
 
 ## Money: A Brief Review
 
