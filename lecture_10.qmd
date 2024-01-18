@@ -20,15 +20,15 @@ A country's gross national product (GNP), the value of all final goods and servi
 
 (i) Consumption (the amount consumed by private domestic residents)
 
-(ii) Investment (the amount put aside by private firms to build new plant and equipment for future production),
+(ii) Investment (the amount put aside by private firms to build new plant and equipment for future production)
 
 (iii) Government purchases (the amount used by the government), and
 
-(iv) Current account balance (the amount of net exports of goods and services to foreigners).
+(iv) Current account balance (the amount of net exports of goods and services to foreigners)
 
-Figure 10a shows how U.S. GNP was divided among its four components in the first quarter of 2016:
+Figure 10_1 shows how U.S. GNP was divided among its four components in the first quarter of 2016:
 
-![Figure 10a: U.S. GNP and Its Components](figures/U.S_GNP_Components.jpg)
+![Figure 10_1: U.S. GNP and Its Components](figures/U.S_GNP_Components.jpg)
 
 > Why is it useful to divide GNP into consumption, investment, government purchases, and the current account?
 
