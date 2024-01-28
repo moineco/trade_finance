@@ -1,72 +1,190 @@
-# Economic Geography: Part A
+# Developing Countries Growth, Crisis and Reform
 
-**Do you think that geography is important in influencing economic and political institutions, and ultimately poverty?**
+### The gap between rich and poor
 
-### Geography matters
+World Bank classify the countries into four categories according to their level of income.
 
-International trade is important for growth, and ocean harbors and a lack of geographical barriers foster trade with foreign markets.
+![Table: New World Bank country classifications by income level: 2022-2023](figures/wb_income.jpg){fig-align="center"}
 
--   Landlocked and mountainous regions are predicted to be poor.
--   Also, geography is said to have determined institutions, which may play a role in development.
--   Geography determined whether Westerners established property rights and long-term investment in colonies, which in turn influenced economic growth.
--   Geography determined whether Westerners died from malaria and other diseases. With high mortality rates, they established practices and institutions based on quick plunder of colonies' resources, rather than institutions favoring long-term economic growth.
--   Plunder led to property confiscation and corruption, even after political independence from Westerners.
--   Geography also determined whether local economies were better for plantation agriculture, which resulted in income inequalities and political inequalities. Under this system, equal property rights were not established, hindering long-term economic growth.
+The World Bank assigns the world's economies to four income groups---low, lower-middle, upper-middle, and high income. The classifications are updated each year on July 1 and are based on the GNI per capita of the previous year (2021). GNI measures are expressed in United States dollars (USD).
 
-### Geography and transportation
+-   Low income: most sub-Saharan Africa, India, Pakistan
 
-Geography and economy are closely tied together because transport makes trade with widespread areas possible. This is because geographical features include mountains, deserts, and water, which directly impact the movement of people and thus the movement of trade. The integration of the world economy has increased rapidly in recent decades, with world trade growing more than twice as fast as world GDP since 1980. The two main reasons behind it are
+-   Lower-middle income: China, Caribbean countries
 
-1.  Trade liberalization
+-   Upper-middle income: Brazil, Mexico, Saudi Arabia, Malaysia, South Africa, Czech Republic
 
-2.  Decline in trade costs (including transport and communication costs)
+-   High income: U.S., Singapore, France, Japan, Kuwait
 
-### Globalization and international trade
+### Has the world income gap narrowed over time?
 
-In a global economy, no nation is self-sufficient, which is associated with specific flows of goods, people, and information. International trade, or long-distance trade, has taken place for centuries, with some ancient trade routes predating history. Trade is an important part of economic and cultural history, as ancient trade routes such as the Silk Road can testify.
+While some previously middle- and low-income economies have grown faster than high-income countries, and thus have "caught up" with high- income countries, others have languished. The income levels of high-income countries and some previously middle-income and low-income countries have converged. But the some of the poorest countries have had the lowest growth rates.
 
-### The Silk Road
+#### Inequality within countries: Gini index
 
-The Silk Road was the most enduring trade route in human history, being used for about 1,500 years. Its name is taken from the prized Chinese textile that flowed from Asia to the Middle East and Europe, although many other commodities were traded along the route. The Silk Road consisted of a succession of trails followed by caravans through Central Asia, about 6,400 km in length.
+The Gini index is a measure of how equal a country's distribution of income is. It is a score between 0 and 1, where 0 represents perfect equality and 1 represents perfect inequality. Perfect equality means a country's total income is shared equally among its residents, whereas perfect inequality means a country's total income is owned by a single individual.
 
-![](figures/silk_road.jpg){fig-align="center"}
+For example, you can see that South Africa is (by this measure) the most unequal country in the world with a Gini index of 0.63
 
-By the mid-19th century, trade was taking an increasingly active role in the economic life of nations and regions, and after the mid-20th century, trade became an active tool of economic globalization.
+#### Inequality between countries
 
--   The Silk Road was a vast trade network connecting Eurasia and North Africa via land and sea routes.
+Over the last two decades global inequalities between countries have declined, income inequality has increased within most countries. Inequality varies significantly between the most equal region (Europe) and the most unequal (Middle East and North Africa i.e. "MENA"). In Europe, the top 10% income share is around 36%, whereas in "MENA" it reaches 58%. In between these two levels, we see a diversity of patterns. In East Asia, the top 10% makes 43% of total income and in Latin America, 55%.
 
--   The Silk Road earned its name from Chinese silk, a highly valued commodity that merchants transported along these trade networks.
+![Figure: Income inequality levels across the regions](figures/inequality.jpg){fig-align="center"}
 
--   Advances in technology and increased political stability caused an increase in trade. The opening of more trade routes caused travelers to exchange many things: animals, spices, ideas, and diseases.
+#### How bad is extreme poverty globally?
 
-    ![](figures/silk_road_1.jpg)
+It is true that \~700 million people around the world live on less than \$1.90 USD per day. This forces people to make impossible choices for themselves and their families regarding healthcare, food, water, education, and housing. As a result, \~14,500 children under the age of five die every day from completely preventable causes, such as malaria, diarrhea, or malnutrition.
 
-#### Travel on the Silk Road
+#### The impact of the COVID-19 pandemic on income inequality
 
--   Traders had to find ways to move their goods efficiently. To travel overland, the camel was favored mode of transportation.
+2020 marked the steepest increase in the global billionaires' share of wealth on record, the report found. Indeed, since 1995, the share of global wealth owned by billionaires' has risen from 1% to over 3%.
 
--   Nomadic peoples in central Asia started domesticating camels as early as the second millennium BCE. For example, the Han Chinese used camels captured from the Xiongnu to carry military supplies.
+### Structural features of developing countries
 
--   Camels could withstand the harsh desert conditions through central Asia and were also able to carry up to 500 pounds at a time! Pack animals---especially camels---made the transportation of goods over land on the Silk Road viable.
+What causes poverty is a difficult question, but low-income countries have at least some of following characteristics, which could contribute to poverty:
 
-#### The effects of exchange
+1.  **Government control of the economy**
 
-One obvious effect of trade along the Silk Road was more goods were available in more places. Silk, owing to its soft texture and appealing shimmer, became so hotly desired that it was used as currency in central Asia. However, the process of raising silkworms and creating fabric from their cocoons remained a Chinese secret through the 6th century C.E. The fact that China remained the only source of silk meant that trade goods continued to travel across Asia. This involved many people and locations in the Silk Road trade networks.
+-   Restrictions on trade
+-   Direct control of production in industries and a high level of government purchases relative to GNP
+-   Direct control of financial transactions
+-   Reduced competition reduces innovation; lack of market prices prevents efficient allocation of resources
 
-#### Chinese silk in Rome
+2.  **Unsustainable macroeconomic policies that cause high inflation and unstable output and employment**
 
-So now we have a sense of the economic and political conditions that enabled Chinese silk to make its way to Roman markets. Both the Han Chinese and Roman Empires controlled vast territories and kept them relatively peaceful. The Han conquered their way into central Asia. From there, nomadic traders carried goods farther west or south. Trade brought new faiths, new ideas, and new goods to places they had not previously been.
+-   If governments cannot pay for debts through taxes, they can print money to finance debts.
+-   Seigniorage is paying for real goods and services by printing money.
+-   Seigniorage generally leads to high inflation.
+-   High inflation reduces the real cost of debt that the government has to repay and reduces the real value of repayments for lenders.
+-   High and variable inflation is costly to society; unstable output and employment is also costly.
 
-### Living in cities
+3.  **Lack of financial markets that allow transfer of funds from savers to borrowers**
 
-Roughly two thirds of the world's population is projected to live in cities by the year 2050, with the urban population increasing by around 2.5 billion people, and nearly 90 percent of this increase concentrated in Asia and Africa.
+-   Banks frequently lend funds to poor or risky projects.
+-   Loans may be made on the basis of personal connections rather than prospective returns, and government safeguards against financial fragility, such as bank supervision, tend to be ineffective due to incompetence, inexperience, and outright fraud.
+-   Usually harder in developing countries for shareholders to find out how a firm's money is being spent or to control firm managers.
+-   The legal framework for resolving asset ownership in cases of bankruptcy typically is also weak.
 
-How do people and economic activities sort across geographic space in response?
+4.  **Natural resources or agricultural commodities make up an important share of exports for many developing countries.**
 
-### The China shock
+-   For example, Russian petroleum, Malaysian timber, South African gold, and Colombian coffee.
 
-With its rapid economic growth following its market-orientated reforms of 1978, China has emerged as a major source of import competition for producers of manufactured goods in developed countries such as the United States.
+5.  **Attempts to circumvent government controls, taxes, and regulations have helped to make corrupt practices such as bribery and extortion a way of life in many developing countries.**
 
-In 1991, low-income countries accounted for just 9 percent of U.S. manufacturing imports. In contrast, by 2000, the low-income country share of U.S. imports reached 15 percent and climbed to 28 percent by 2007, with China accounting for 89 percent of this growth.
+-   Due to government control of the economy and weak enforcement of economic laws and regulations, underground economies and corruption flourish.
 
-This rise in import penetration is particularly rapid following China's admission to the World Trade Organization (WTO) in 2001 and coincides with a marked decline in U.S. manufacturing
+### Developing-country borrowing and debt
+
+Another common characteristic for many low- and middle-income countries is that they have traditionally borrowed from foreign countries.
+
+-   Financial asset flows from foreign countries are able to finance investment projects, eventually leading to higher production and consumption.
+-   But some investment projects fail and other borrowed funds are used primarily for consumption purposes.
+-   Some countries have defaulted on their foreign debts when the domestic economy stagnated or during financial crises.
+-   But this trend has recently reversed as these countries have begun to save.
+
+### The problem of default
+
+1.  A financial crisis may involve
+
+-   a debt crisis: an inability to repay sovereign (government) or private sector debt.
+-   a balance of payments crisis.
+-   a banking crisis: bankruptcy and other problems for private sector banks.
+
+2.  A debt crisis in which governments default on their debt can be a self-fulfilling mechanism.
+
+-   Fear of default reduces financial asset inflows and increases financial asset outflows (capital flight), decreasing investment and increasing interest rates, leading to low aggregate demand, output, and income.
+-   Financial asset outflows must be matched with an increase in net exports or a decrease in official international reserves in order to pay individuals and institutions who desire foreign funds.
+-   Otherwise, the country cannot afford to pay those who want to remove their funds from the domestic economy.
+-   The domestic government may have no choice but to default on its sovereign debt (paid for with foreign funds) when it comes due and when investors are unwilling to reinvest.
+
+3.  In general, a debt crisis can quickly magnify itself: it causes low income and high interest rates, which make government and private sector debts even harder to repay.
+
+-   High interest rates cause high interest payments for both the government and the private sector.
+-   Low income causes low tax revenue for the government.
+-   Low income makes loans made by private banks harder to repay: the default rate increases, which may cause bankruptcy.
+
+### Alternative forms of financial inflow
+
+1.  Bond finance: government or private sector bonds are sold to foreign individuals and institutions.
+
+2.  Bank finance: commercial banks or securities firms lend to foreign governments or foreign businesses.
+
+3.  Official lending: the World Bank, Inter-American Development Bank, or other official agencies lend to governments.
+
+-   Sometimes these loans are made on a "concessional" or favorable basis, in which the interest rate is low.
+
+4.  Foreign direct investment: a firm directly acquires or expands operations in a subsidiary firm in a foreign country.
+
+-   A purchase by Ford of a subsidiary firm in Mexico is classified as foreign direct investment.
+
+5.  Portfolio equity investment: a foreign investor purchases equity (stock) for his portfolio.
+
+-   Privatization of government-owned firms in many countries has created more equity investment opportunities for foreign investors.
+
+### The debt crisis of the 1980s
+
+-   In the 1980s, high interest rates and an appreciation of the U.S. dollar caused the burden of dollar-denominated debts in Argentina, Mexico, Brazil, and Chile to increase drastically.
+
+-   A worldwide recession and a fall in many commodity prices also hurt export sectors in these countries.
+
+-   In August 1982, Mexico announced that it could not repay its debts, mostly to private banks.
+
+-   The U.S. government insisted that the private banks reschedule the debts, and in 1989
+
+-   Mexico was able to achieve a reduction in the interest rate an extension of the repayment period a reduction in the principal by 12%
+
+-   Brazil, Argentina, and other countries were also allowed to reschedule their debts with private banks after they defaulted.
+
+### East Asia: Success and crisis
+
+-   Before the 1990s, Indonesia, Korea, Malaysia, Philippines, and Thailand relied mostly on domestic saving to finance investment.
+
+-   But afterwards, foreign funds financed much of investment, and current account balances turned negative.
+
+-   Despite the rapid economic growth in East Asia between 1960 and 1997, growth was predicted to slow as economies "caught up" with Western countries.
+
+### The Asian financial crises
+
+-   Weak enforcement of financial regulations and a lack of monitoring caused commercial firms, banks, and borrowers to engage in risky or even fraudulent activities: moral hazard.
+
+-   Nonexistent or weakly enforced bankruptcy laws and loan contracts worsened problems after the crisis started.
+
+-   The East Asian crisis started in Thailand in 1997, but quickly spread to other countries. Malaysia, Indonesia, Korea, and the Philippines soon faced speculations about the value of their currencies.
+
+-   Most debts of banks and firms were denominated in U.S. dollars, so that devaluations of domestic currencies would make the burden of the debts in domestic currency increase.
+
+-   To maintain fixed exchange rates would have required high interest rates and a reduction in government deficits, leading to a reduction in aggregate demand, output, and employment.
+
+-   All of the affected economies except Malaysia turned to the IMF for loans to address the balance of payments crises and to maintain the value of the domestic currencies. Malaysia instead imposed controls on flows of financial assets so that it could increase its money supply (and lower interest rates), increase government purchases, and still try to maintain the value of the ringgit.
+
+-   Because consumption and investment expenditure decreased with output, income, and employment, imports fell and the current account increased after 1997.
+
+### Lessons of crises
+
+-   Fixing the exchange rate has risks: governments desire to fix exchange rates to provide stability in the export and import sectors, but the price to pay may be high interest rates or high unemployment.
+
+-   Weak enforcement of financial regulations can lead to risky investments and a banking crisis when a currency crisis erupts or when a fall in output, income, and employment occurs.
+
+-   Liberalizing financial asset flows without implementing sound financial regulations can lead to capital flight when investments lose value during a recession.
+
+-   The importance of expectations: even healthy economies are vulnerable to crises when expectations change.
+
+### Preventative ("prophylactic") measures:
+
+-   Better monitoring and more transparency: more information allows investors to make sound financial decisions in good and bad times.
+-   Stronger enforcement of financial regulations: reduces moral hazard.
+-   Deposit insurance and reserve requirements.
+-   Increased equity finance relative to debt finance.
+-   Increased credit for troubled banks through central banks or the IMF?
+
+### Summary
+
+-   Some countries have grown rapidly since 1960, but others have stagnated and remained poor.
+-   Many poor countries have extensive government control of the economy, unsustainable fiscal and monetary policies, lack of financial markets, weak enforcement of economic laws, a large amount of corruption, and low levels of education.
+-   Many developing economies have traditionally borrowed from international capital markets, and some have suffered from periodic sovereign debt crises, balance of payments crises, and banking crises.
+-   Sovereign debt, balance of payments, and banking crises can be self-fulfilling, and each crisis can lead to another within a country or in another country.
+-   Fixing exchange rates may lead to financial crises if the country is unwilling to restrict monetary and fiscal policies.
+-   Fixing exchange rates may lead to financial crises if the country is unwilling to restrict monetary and fiscal policies.
+-   Weak enforcement of financial regulations causes a moral hazard and may lead to a banking crisis, especially with free movement of financial assets.
+-   Geography and human capital may influence economic and political institutions, which in turn may affect long-term economic growth.

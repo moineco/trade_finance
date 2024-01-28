@@ -31,14 +31,13 @@ Increasing returns and trade are essential concept of this course. I will focus 
 -   Lecture 9: Globalization, Trade and the Environment
 -   Lecture 10: Macroeconomic Analysis of Trade Balance
 -   Lecture 11: National Income Accounting and the Balance of Payments
--   Lecture 12: Money, Interest Rates and Exchange Rates
--   Lecture 13: The Federal Reserve
+-   Lecture 12: Money, Interest Rates, Exchange Rates and the Federal Reserve
 
 ##### Section 4: International Macroeconomic Policy
 
--   Lecture 14: Economic Geography: Part A
--   Lecture 15: Economic Geography: Part B
--   Lecture 16: Developing Countries Growth, Crisis and Reform
+-   Lecture 13: Economic Geography
+-   Lecture 14: Developing Countries Growth, Crisis and Reform
+-   Lecture 15: International Trade and Biodiversity
 
 **Course logistic**
 

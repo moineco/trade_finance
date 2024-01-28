@@ -1,79 +1,115 @@
-# The Federal Reserve
+# Economic Geography
 
-## In nearly every society, some kind of money has evolved to make trade easier
+**Do you think that geography is important in influencing economic and political institutions, and ultimately poverty?**
 
--   The word "salary" comes from the wages paid to Roman soldiers, who were paid in sacks of sal---salt. Any medium of exchange---whether it is a gold coin, a whale tooth, or an American dollar---serves the same basic purposes.
+### Geography matters
 
--   First, it serves as a means of exchange, so that I might enjoy pork chops for dinner tonight even though the butcher has no interest in buying this book.
+International trade is important for growth, and ocean harbors and a lack of geographical barriers foster trade with foreign markets.
 
--   Second, it serves as a unit of account, so that the cost of all kinds of goods and services can be measured and compared using one scale.
+-   Landlocked and mountainous regions are predicted to be poor.
+-   Also, geography is said to have determined institutions, which may play a role in development.
+-   Geography determined whether Westerners established property rights and long-term investment in colonies, which in turn influenced economic growth.
+-   Geography determined whether Westerners died from malaria and other diseases. With high mortality rates, they established practices and institutions based on quick plunder of colonies' resources, rather than institutions favoring long-term economic growth.
+-   Plunder led to property confiscation and corruption, even after political independence from Westerners.
+-   Geography also determined whether local economies were better for plantation agriculture, which resulted in income inequalities and political inequalities. Under this system, equal property rights were not established, hindering long-term economic growth.
 
--   Third, money must be portable and durable. Neither bowling balls nor rose petals would serve the purpose.
+### Geography and transportation
 
--   Last, money must be relatively scarce so that it can serve as a store of value.
+Geography and economy are closely tied together because transport makes trade with widespread areas possible. This is because geographical features include mountains, deserts, and water, which directly impact the movement of people and thus the movement of trade. The integration of the world economy has increased rapidly in recent decades, with world trade growing more than twice as fast as world GDP since 1980. The two main reasons behind it are
 
--   Clever people will always find a medium of exchange that works. Cigarettes long served as the medium of exchange in prisons, where cash is banned. It doesn't matter whether you smoke; cigarettes have value as long as enough other inmates smoke.
+1.  Trade liberalization
 
--   For much of American history, commerce was conducted with paper currency backed by precious metals. Prior to the twentieth century, private banks issued their own money. In 1913, the U.S. government banned private money and became the sole provider of currency.
+2.  Decline in trade costs (including transport and communication costs)
 
--   The basic idea did not change. Whether money was public or private, paper currency derived its value from the fact that it could be redeemed for a set quantity of gold or silver, either from a bank or from the government.
+### Globalization and international trade
 
--   Then something strange happened. In 1971, the United States permanently went off the gold standard. At that point, every paper dollar became redeemable for . . . nothing.
+In a global economy, no nation is self-sufficient, which is associated with specific flows of goods, people, and information. International trade, or long-distance trade, has taken place for centuries, with some ancient trade routes predating history. Trade is an important part of economic and cultural history, as ancient trade routes such as the Silk Road can testify.
 
-## Why that dollar in your pocket is more than just a piece of paper
+### The Silk Road
 
--   Examine that wad of USD 100 bills in your wallet. (If necessary, USD 1 bills can be substituted instead.) Those bills are just paper. You can't eat them, you can't drink them, you can't smoke them, and, most important, you can't take them to the government and demand anything in return. They have no intrinsic value. And that is true of nearly all the world's currencies.
+The Silk Road was the most enduring trade route in human history, being used for about 1,500 years. Its name is taken from the prized Chinese textile that flowed from Asia to the Middle East and Europe, although many other commodities were traded along the route. The Silk Road consisted of a succession of trails followed by caravans through Central Asia, about 6,400 km in length.
 
--   Left alone on a deserted island with \$100 million, you would quickly perish. On the other hand, life would be good if you were rescued and could take the cash with you. Therein lies the value of modern currency: It has purchasing power.
+![](figures/silk_road.jpg){fig-align="center"}
 
--   Dollars have value because people peddling real things---food, books, pedicures---will accept them. And people peddling real things will accept dollars because they are confident that other people peddling other real things will accept them, too.
+By the mid-19th century, trade was taking an increasingly active role in the economic life of nations and regions, and after the mid-20th century, trade became an active tool of economic globalization.
 
--   A dollar is a piece of paper whose value derives solely from our confidence that we will be able to use it to buy something we need in the future.
+-   The Silk Road was a vast trade network connecting Eurasia and North Africa via land and sea routes.
 
-## Modern money is a confidence game
+-   The Silk Road earned its name from Chinese silk, a highly valued commodity that merchants transported along these trade networks.
 
--   To give you some sense of how modern money is a confidence game, consider a bizarre phenomenon in India.
+-   Advances in technology and increased political stability caused an increase in trade. The opening of more trade routes caused travelers to exchange many things: animals, spices, ideas, and diseases.
 
--   Most Indians involved in commerce---shopkeepers, taxi drivers, etc.---will not accept a torn, crumpled, or overly soiled rupee note. Since other Indians know that many of their countrymen will not accept torn notes, they will not accept them either.
+    ![](figures/silk_road_1.jpg)
 
--   Finally, when tourists arrive in the country, they quickly learn to accept only intact bills, lest they be stuck with the torn ones.
+#### Travel on the Silk Road
 
--   The whole process is utterly irrational, since the Indian Central Bank considers any note with a serial number---torn, dirty, crumpled, or otherwise---to be legal tender. Any bank will exchange torn rupees for crisp new ones.
+-   Traders had to find ways to move their goods efficiently. To travel overland, the camel was favored mode of transportation.
 
--   That doesn't matter; rational people refuse legal tender because they believe that it might not be accepted by someone else. The whole bizarre phenomenon underscores the fact that our faith in paper currency is predicated on the faith that others place in the same paper.
+-   Nomadic peoples in central Asia started domesticating camels as early as the second millennium BCE. For example, the Han Chinese used camels captured from the Xiongnu to carry military supplies.
 
-## A case of USA
+-   Camels could withstand the harsh desert conditions through central Asia and were also able to carry up to 500 pounds at a time! Pack animals---especially camels---made the transportation of goods over land on the Silk Road viable.
 
--   Sometimes simple statements speak loudly. On September 11, 2001, hours after the terrorist attacks on the United States, the Federal Reserve issued the following statement: "The Federal Reserve System is open and operating. The discount window is available to meet liquidity needs."
+#### The effects of exchange
 
--   How exactly does an inelegant two-sentence statement have such a profound effect on the world's largest economy---indeed, on the whole global economy?
+One obvious effect of trade along the Silk Road was more goods were available in more places. Silk, owing to its soft texture and appealing shimmer, became so hotly desired that it was used as currency in central Asia. However, the process of raising silkworms and creating fabric from their cocoons remained a Chinese secret through the 6th century C.E. The fact that China remained the only source of silk meant that trade goods continued to travel across Asia. This involved many people and locations in the Silk Road trade networks.
 
--   The Federal Reserve has tools with more direct impact on the global economy than any other institution in the world, public or private.
+#### Chinese silk in Rome
 
--   From where does the Federal Reserve, an institution that is not directly accountable to the voting public, derive such power? And how does that power affect the lives of everyday Americans?
+So now we have a sense of the economic and political conditions that enabled Chinese silk to make its way to Roman markets. Both the Han Chinese and Roman Empires controlled vast territories and kept them relatively peaceful. The Han conquered their way into central Asia. From there, nomadic traders carried goods farther west or south. Trade brought new faiths, new ideas, and new goods to places they had not previously been.
 
--   The answer to all those questions is the same: The Federal Reserve controls the money supply and therefore the credit tap for the economy.
+### Living in cities
 
--   When that tap is open wide, interest rates fall and we spend more freely on things that require borrowed money---everything from new cars to new manufacturing plants. Thus, the Fed can use monetary policy to counteract economic downturns (or prevent them in the first place). And it can inject money into the financial system after sudden shocks, such as the 1987 stock market crash or the terrorist attacks of September 11 or the bursting of the American real estate bubble, when consumers and firms might otherwise freeze in place and stop spending.
+Roughly two thirds of the world's population is projected to live in cities by the year 2050, with the urban population increasing by around 2.5 billion people, and nearly 90 percent of this increase concentrated in Asia and Africa.
 
--   Or the Fed can tighten the tap by raising interest rates. When the cost of borrowed funds goes up, our spending slows. It is an awesome power.
+How do people and economic activities sort across geographic space in response?
 
-### Some paradox
+### The China shock
 
--   If the Fed can make the economy grow faster by lowering interest rates, then presumably lower interest rates are always better. Indeed, why should there be any limit to the rate at which the economy can grow?
+With its rapid economic growth following its market-orientated reforms of 1978, China has emerged as a major source of import competition for producers of manufactured goods in developed countries such as the United States.
 
--   If we begin to spend more freely when rates are cut from 7 percent to 5 percent, why stop there? If there are still people without jobs and others without new cars, then let's press on to 3 percent, or even 1 percent. New money for everyone!
+In 1991, low-income countries accounted for just 9 percent of U.S. manufacturing imports. In contrast, by 2000, the low-income country share of U.S. imports reached 15 percent and climbed to 28 percent by 2007, with China accounting for 89 percent of this growth.
 
--   Sadly, there are limits to how fast any economy can grow. If low interest rates, or "easy money," causes consumers to demand 5 percent more new Jeep Cherokees than they purchased last year, then Chrysler must expand production by 5 percent. That means hiring more workers and buying more steel, glass, electrical components, etc. At some point, it becomes difficult or impossible for Chrysler to find these new inputs, particularly qualified workers. At that point, the company simply cannot make enough Jeep Cherokees to satisfy consumer demand; instead, the company begins to raise prices. Meanwhile, autoworkers recognize that Chrysler is desperate for labor, and the union demands higher wages.
+This rise in import penetration is particularly rapid following China's admission to the World Trade Organization (WTO) in 2001 and coincides with a marked decline in U.S. manufacturing
 
-## Where does the Fed derive this extraordinary power over interest rates?
+### The Earth at night light: Proxy of economic growth
 
--   After all, commercial banks are private entities. The Federal Reserve cannot force Citibank to raise or lower the rates it charges consumers for auto loans and home mortgages. Rather, the process is indirect.
+![Earth night light in 2012](figures/night_light_2012.jpg){fig-align="center"}
 
--   The interest rate is really just a rental rate for capital, or the "price of money." The Fed controls America's money supply. For now, recognize that capital is no different from apartments: The greater the supply, the cheaper the rent.
+### Human capital matters
 
--   The Fed moves interest rates by making changes in the quantity of funds available to commercial banks. If banks are awash with money, then interest rates must be relatively low to attract borrowers for all the available funds.
+-   As a population becomes more literate, numerate, and educated, economic and political institutions evolve to foster long-term economic growth.
 
--   When capital is scarce, the opposite will be true: Banks can charge higher interest rates and still attract enough borrowers for all available funds. It is supply and demand, with the Fed controlling the supply.
+-   Rather than geography, Western colonization, and plantation agriculture, the amount of education and other forms of human capital determine the existence or lack of property rights, financial markets, international trade, and other institutions that encourage economic growth.
 
-**Reference: Wheelan, C (2002). Naked economics : Undressing the dismal science. New York : Norton**
+![Figure: Colonial powers](figures/colony.jpg){fig-align="center"}
+
+### Water transportation
+
+![Figure: Geographical Impacts of the Suez and Panama canals](figures/canel.png){fig-align="center"}
+
+### Population growth
+
+Population distribution become high due to the following factors:
+
+1.  Type of Land: Flat low land (Ganges Valley in India)
+
+2.  Resources: Resource rich areas (e.g. coal, oil, wood, fishing etc.) tend to densely populated (Western Europe)
+
+3.  Climate: Areas with temperate climates tend to be densely populated (rain and temperature) (Belgium)
+
+4.  Political: Politically stable countries tend to have high populations
+
+5.  Social: Groups of people want to live close to each other for security (e.g. USA). Other groups of people prefer to be isolated (e.g. Scandinavians)
+
+6.  Economic: Job opportunities encourage high population densities, particularly in large cities
+
+![Figure: Population distribution by latitude](figures/population_latitude.png){fig-align="center"}
+
+### Migration from developing countries to developed countries
+
+![Figure: Global net migration (2010-2015)](figures/migration.png){fig-align="center"}
+
+### Weather and climate
+
+![Figure: Sum of direct and diffuse components of solar radiation \[kWh/m2\]](figures/sunshine.png){fig-align="center"}
+

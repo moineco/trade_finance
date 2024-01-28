@@ -24,7 +24,7 @@ book:
     - lecture_13.qmd
     - lecture_14.qmd
     - lecture_15.qmd
-    - lecture_16.qmd
+    #- lecture_16.qmd
     - references.qmd
 
 bibliography: international_trade_finance.bib
