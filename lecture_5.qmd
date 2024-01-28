@@ -3,7 +3,7 @@
 ## Key concepts
 
 | Term                         | **Definition**                                                                                                                                                                                                           |
-|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------|----------------------------------------------------------|
 | Opportunity cost             | The value of the next best alternative to any decision you make. For instance, the opportunity cost of watching movey is the hour of studying she gives up to do that                                                    |
 | Growth                       | An increase in an economy's ability to produce goods and services over time; economic growth in the PPF model is illustrated by a shift out of the PPF                                                                   |
 | Contraction                  | A decrease in output that occurs due to the under-utilization of resources. In a graphical model of the PPF, a contraction is represented by moving to a point that is further away from, and on the interior of the PPF |
@@ -97,22 +97,3 @@ The production possibilities frontier can illustrate two kinds of efficiency: pr
 
 -   It shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety.
 
-## The gravity model
-
--   Let's begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today's global economy.
-
--   Three of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.
-
-> There is a strong empirical relationship between the size of a country's economy and the volume of both its imports and its exports.
-
--   The basic form of the gravity equation is as follows:
-
-$$T_{ij} = \frac{GDP_{i}^{\alpha } GDP_{j}^{\beta}}{D_{ij}^{\theta}}$$ Here,
-
-$T_{ij}$ indicates bilateral trade between country $i$, and $j$
-
-$GDP_i$ indicates the economic size of $i$, measured by gross domestic product
-
-$D_{ij}$ indicates the bilateral distance between the two countries
-
-The parameters are $α$, $β$, and $θ$
