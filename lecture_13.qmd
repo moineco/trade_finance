@@ -13,6 +13,27 @@ International trade is important for growth, and ocean harbors and a lack of geo
 -   Plunder led to property confiscation and corruption, even after political independence from Westerners.
 -   Geography also determined whether local economies were better for plantation agriculture, which resulted in income inequalities and political inequalities. Under this system, equal property rights were not established, hindering long-term economic growth.
 
+### The gravity model
+
+-   Let's begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today's global economy.
+
+-   Three of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.
+
+> There is a strong empirical relationship between the size of a country's economy and the volume of both its imports and its exports.
+
+-   The basic form of the gravity equation is as follows:
+
+$$T_{ij} = \frac{GDP_{i}^{\alpha } GDP_{j}^{\beta}}{D_{ij}^{\theta}}$$ Here,
+
+$T_{ij}$ indicates bilateral trade between country $i$, and $j$
+
+$GDP_i$ indicates the economic size of $i$, measured by gross domestic product
+
+$D_{ij}$ indicates the bilateral distance between the two countries
+
+The parameters are $α$, $β$, and $θ$
+
+
 ### Geography and transportation
 
 Geography and economy are closely tied together because transport makes trade with widespread areas possible. This is because geographical features include mountains, deserts, and water, which directly impact the movement of people and thus the movement of trade. The integration of the world economy has increased rapidly in recent decades, with world trade growing more than twice as fast as world GDP since 1980. The two main reasons behind it are

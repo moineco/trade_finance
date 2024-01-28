@@ -61,6 +61,8 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -211,17 +213,18 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#geography-matters" id="toc-geography-matters" class="nav-link active" data-scroll-target="#geography-matters"><span class="header-section-number">13.0.1</span> Geography matters</a></li>
-  <li><a href="#geography-and-transportation" id="toc-geography-and-transportation" class="nav-link" data-scroll-target="#geography-and-transportation"><span class="header-section-number">13.0.2</span> Geography and transportation</a></li>
-  <li><a href="#globalization-and-international-trade" id="toc-globalization-and-international-trade" class="nav-link" data-scroll-target="#globalization-and-international-trade"><span class="header-section-number">13.0.3</span> Globalization and international trade</a></li>
-  <li><a href="#the-silk-road" id="toc-the-silk-road" class="nav-link" data-scroll-target="#the-silk-road"><span class="header-section-number">13.0.4</span> The Silk Road</a></li>
-  <li><a href="#living-in-cities" id="toc-living-in-cities" class="nav-link" data-scroll-target="#living-in-cities"><span class="header-section-number">13.0.5</span> Living in cities</a></li>
-  <li><a href="#the-china-shock" id="toc-the-china-shock" class="nav-link" data-scroll-target="#the-china-shock"><span class="header-section-number">13.0.6</span> The China shock</a></li>
-  <li><a href="#the-earth-at-night-light-proxy-of-economic-growth" id="toc-the-earth-at-night-light-proxy-of-economic-growth" class="nav-link" data-scroll-target="#the-earth-at-night-light-proxy-of-economic-growth"><span class="header-section-number">13.0.7</span> The Earth at night light: Proxy of economic growth</a></li>
-  <li><a href="#human-capital-matters" id="toc-human-capital-matters" class="nav-link" data-scroll-target="#human-capital-matters"><span class="header-section-number">13.0.8</span> Human capital matters</a></li>
-  <li><a href="#water-transportation" id="toc-water-transportation" class="nav-link" data-scroll-target="#water-transportation"><span class="header-section-number">13.0.9</span> Water transportation</a></li>
-  <li><a href="#population-growth" id="toc-population-growth" class="nav-link" data-scroll-target="#population-growth"><span class="header-section-number">13.0.10</span> Population growth</a></li>
-  <li><a href="#migration-from-developing-countries-to-developed-countries" id="toc-migration-from-developing-countries-to-developed-countries" class="nav-link" data-scroll-target="#migration-from-developing-countries-to-developed-countries"><span class="header-section-number">13.0.11</span> Migration from developing countries to developed countries</a></li>
-  <li><a href="#weather-and-climate" id="toc-weather-and-climate" class="nav-link" data-scroll-target="#weather-and-climate"><span class="header-section-number">13.0.12</span> Weather and climate</a></li>
+  <li><a href="#the-gravity-model" id="toc-the-gravity-model" class="nav-link" data-scroll-target="#the-gravity-model"><span class="header-section-number">13.0.2</span> The gravity model</a></li>
+  <li><a href="#geography-and-transportation" id="toc-geography-and-transportation" class="nav-link" data-scroll-target="#geography-and-transportation"><span class="header-section-number">13.0.3</span> Geography and transportation</a></li>
+  <li><a href="#globalization-and-international-trade" id="toc-globalization-and-international-trade" class="nav-link" data-scroll-target="#globalization-and-international-trade"><span class="header-section-number">13.0.4</span> Globalization and international trade</a></li>
+  <li><a href="#the-silk-road" id="toc-the-silk-road" class="nav-link" data-scroll-target="#the-silk-road"><span class="header-section-number">13.0.5</span> The Silk Road</a></li>
+  <li><a href="#living-in-cities" id="toc-living-in-cities" class="nav-link" data-scroll-target="#living-in-cities"><span class="header-section-number">13.0.6</span> Living in cities</a></li>
+  <li><a href="#the-china-shock" id="toc-the-china-shock" class="nav-link" data-scroll-target="#the-china-shock"><span class="header-section-number">13.0.7</span> The China shock</a></li>
+  <li><a href="#the-earth-at-night-light-proxy-of-economic-growth" id="toc-the-earth-at-night-light-proxy-of-economic-growth" class="nav-link" data-scroll-target="#the-earth-at-night-light-proxy-of-economic-growth"><span class="header-section-number">13.0.8</span> The Earth at night light: Proxy of economic growth</a></li>
+  <li><a href="#human-capital-matters" id="toc-human-capital-matters" class="nav-link" data-scroll-target="#human-capital-matters"><span class="header-section-number">13.0.9</span> Human capital matters</a></li>
+  <li><a href="#water-transportation" id="toc-water-transportation" class="nav-link" data-scroll-target="#water-transportation"><span class="header-section-number">13.0.10</span> Water transportation</a></li>
+  <li><a href="#population-growth" id="toc-population-growth" class="nav-link" data-scroll-target="#population-growth"><span class="header-section-number">13.0.11</span> Population growth</a></li>
+  <li><a href="#migration-from-developing-countries-to-developed-countries" id="toc-migration-from-developing-countries-to-developed-countries" class="nav-link" data-scroll-target="#migration-from-developing-countries-to-developed-countries"><span class="header-section-number">13.0.12</span> Migration from developing countries to developed countries</a></li>
+  <li><a href="#weather-and-climate" id="toc-weather-and-climate" class="nav-link" data-scroll-target="#weather-and-climate"><span class="header-section-number">13.0.13</span> Weather and climate</a></li>
   </ul>
 </nav>
     </div>
@@ -258,20 +261,38 @@ ul.task-list li input[type="checkbox"] {
 <li>Geography also determined whether local economies were better for plantation agriculture, which resulted in income inequalities and political inequalities. Under this system, equal property rights were not established, hindering long-term economic growth.</li>
 </ul>
 </section>
-<section id="geography-and-transportation" class="level3" data-number="13.0.2">
-<h3 data-number="13.0.2" class="anchored" data-anchor-id="geography-and-transportation"><span class="header-section-number">13.0.2</span> Geography and transportation</h3>
+<section id="the-gravity-model" class="level3" data-number="13.0.2">
+<h3 data-number="13.0.2" class="anchored" data-anchor-id="the-gravity-model"><span class="header-section-number">13.0.2</span> The gravity model</h3>
+<ul>
+<li><p>Let’s begin by describing who trades with whom. An empirical relationship known as the gravity model helps to make sense of the value of trade between any pair of countries and sheds light on the impediments that continue to limit international trade even in today’s global economy.</p></li>
+<li><p>Three of the top 15 U.S. trading partners are European nations: Germany, the United Kingdom, and France. Why does the United States trade more heavily with these three European countries than with others? The answer is that these are the three largest European economies. That is, they have the highest values of gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.</p></li>
+</ul>
+<blockquote class="blockquote">
+<p>There is a strong empirical relationship between the size of a country’s economy and the volume of both its imports and its exports.</p>
+</blockquote>
+<ul>
+<li>The basic form of the gravity equation is as follows:</li>
+</ul>
+<p><span class="math display">\[T_{ij} = \frac{GDP_{i}^{\alpha } GDP_{j}^{\beta}}{D_{ij}^{\theta}}\]</span> Here,</p>
+<p><span class="math inline">\(T_{ij}\)</span> indicates bilateral trade between country <span class="math inline">\(i\)</span>, and <span class="math inline">\(j\)</span></p>
+<p><span class="math inline">\(GDP_i\)</span> indicates the economic size of <span class="math inline">\(i\)</span>, measured by gross domestic product</p>
+<p><span class="math inline">\(D_{ij}\)</span> indicates the bilateral distance between the two countries</p>
+<p>The parameters are <span class="math inline">\(α\)</span>, <span class="math inline">\(β\)</span>, and <span class="math inline">\(θ\)</span></p>
+</section>
+<section id="geography-and-transportation" class="level3" data-number="13.0.3">
+<h3 data-number="13.0.3" class="anchored" data-anchor-id="geography-and-transportation"><span class="header-section-number">13.0.3</span> Geography and transportation</h3>
 <p>Geography and economy are closely tied together because transport makes trade with widespread areas possible. This is because geographical features include mountains, deserts, and water, which directly impact the movement of people and thus the movement of trade. The integration of the world economy has increased rapidly in recent decades, with world trade growing more than twice as fast as world GDP since 1980. The two main reasons behind it are</p>
 <ol type="1">
 <li><p>Trade liberalization</p></li>
 <li><p>Decline in trade costs (including transport and communication costs)</p></li>
 </ol>
 </section>
-<section id="globalization-and-international-trade" class="level3" data-number="13.0.3">
-<h3 data-number="13.0.3" class="anchored" data-anchor-id="globalization-and-international-trade"><span class="header-section-number">13.0.3</span> Globalization and international trade</h3>
+<section id="globalization-and-international-trade" class="level3" data-number="13.0.4">
+<h3 data-number="13.0.4" class="anchored" data-anchor-id="globalization-and-international-trade"><span class="header-section-number">13.0.4</span> Globalization and international trade</h3>
 <p>In a global economy, no nation is self-sufficient, which is associated with specific flows of goods, people, and information. International trade, or long-distance trade, has taken place for centuries, with some ancient trade routes predating history. Trade is an important part of economic and cultural history, as ancient trade routes such as the Silk Road can testify.</p>
 </section>
-<section id="the-silk-road" class="level3" data-number="13.0.4">
-<h3 data-number="13.0.4" class="anchored" data-anchor-id="the-silk-road"><span class="header-section-number">13.0.4</span> The Silk Road</h3>
+<section id="the-silk-road" class="level3" data-number="13.0.5">
+<h3 data-number="13.0.5" class="anchored" data-anchor-id="the-silk-road"><span class="header-section-number">13.0.5</span> The Silk Road</h3>
 <p>The Silk Road was the most enduring trade route in human history, being used for about 1,500 years. Its name is taken from the prized Chinese textile that flowed from Asia to the Middle East and Europe, although many other commodities were traded along the route. The Silk Road consisted of a succession of trails followed by caravans through Central Asia, about 6,400 km in length.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -285,36 +306,36 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Advances in technology and increased political stability caused an increase in trade. The opening of more trade routes caused travelers to exchange many things: animals, spices, ideas, and diseases.</p>
 <p><img src="figures/silk_road_1.jpg" class="img-fluid"></p></li>
 </ul>
-<section id="travel-on-the-silk-road" class="level4" data-number="13.0.4.1">
-<h4 data-number="13.0.4.1" class="anchored" data-anchor-id="travel-on-the-silk-road"><span class="header-section-number">13.0.4.1</span> Travel on the Silk Road</h4>
+<section id="travel-on-the-silk-road" class="level4" data-number="13.0.5.1">
+<h4 data-number="13.0.5.1" class="anchored" data-anchor-id="travel-on-the-silk-road"><span class="header-section-number">13.0.5.1</span> Travel on the Silk Road</h4>
 <ul>
 <li><p>Traders had to find ways to move their goods efficiently. To travel overland, the camel was favored mode of transportation.</p></li>
 <li><p>Nomadic peoples in central Asia started domesticating camels as early as the second millennium BCE. For example, the Han Chinese used camels captured from the Xiongnu to carry military supplies.</p></li>
 <li><p>Camels could withstand the harsh desert conditions through central Asia and were also able to carry up to 500 pounds at a time! Pack animals—especially camels—made the transportation of goods over land on the Silk Road viable.</p></li>
 </ul>
 </section>
-<section id="the-effects-of-exchange" class="level4" data-number="13.0.4.2">
-<h4 data-number="13.0.4.2" class="anchored" data-anchor-id="the-effects-of-exchange"><span class="header-section-number">13.0.4.2</span> The effects of exchange</h4>
+<section id="the-effects-of-exchange" class="level4" data-number="13.0.5.2">
+<h4 data-number="13.0.5.2" class="anchored" data-anchor-id="the-effects-of-exchange"><span class="header-section-number">13.0.5.2</span> The effects of exchange</h4>
 <p>One obvious effect of trade along the Silk Road was more goods were available in more places. Silk, owing to its soft texture and appealing shimmer, became so hotly desired that it was used as currency in central Asia. However, the process of raising silkworms and creating fabric from their cocoons remained a Chinese secret through the 6th century C.E. The fact that China remained the only source of silk meant that trade goods continued to travel across Asia. This involved many people and locations in the Silk Road trade networks.</p>
 </section>
-<section id="chinese-silk-in-rome" class="level4" data-number="13.0.4.3">
-<h4 data-number="13.0.4.3" class="anchored" data-anchor-id="chinese-silk-in-rome"><span class="header-section-number">13.0.4.3</span> Chinese silk in Rome</h4>
+<section id="chinese-silk-in-rome" class="level4" data-number="13.0.5.3">
+<h4 data-number="13.0.5.3" class="anchored" data-anchor-id="chinese-silk-in-rome"><span class="header-section-number">13.0.5.3</span> Chinese silk in Rome</h4>
 <p>So now we have a sense of the economic and political conditions that enabled Chinese silk to make its way to Roman markets. Both the Han Chinese and Roman Empires controlled vast territories and kept them relatively peaceful. The Han conquered their way into central Asia. From there, nomadic traders carried goods farther west or south. Trade brought new faiths, new ideas, and new goods to places they had not previously been.</p>
 </section>
 </section>
-<section id="living-in-cities" class="level3" data-number="13.0.5">
-<h3 data-number="13.0.5" class="anchored" data-anchor-id="living-in-cities"><span class="header-section-number">13.0.5</span> Living in cities</h3>
+<section id="living-in-cities" class="level3" data-number="13.0.6">
+<h3 data-number="13.0.6" class="anchored" data-anchor-id="living-in-cities"><span class="header-section-number">13.0.6</span> Living in cities</h3>
 <p>Roughly two thirds of the world’s population is projected to live in cities by the year 2050, with the urban population increasing by around 2.5 billion people, and nearly 90 percent of this increase concentrated in Asia and Africa.</p>
 <p>How do people and economic activities sort across geographic space in response?</p>
 </section>
-<section id="the-china-shock" class="level3" data-number="13.0.6">
-<h3 data-number="13.0.6" class="anchored" data-anchor-id="the-china-shock"><span class="header-section-number">13.0.6</span> The China shock</h3>
+<section id="the-china-shock" class="level3" data-number="13.0.7">
+<h3 data-number="13.0.7" class="anchored" data-anchor-id="the-china-shock"><span class="header-section-number">13.0.7</span> The China shock</h3>
 <p>With its rapid economic growth following its market-orientated reforms of 1978, China has emerged as a major source of import competition for producers of manufactured goods in developed countries such as the United States.</p>
 <p>In 1991, low-income countries accounted for just 9 percent of U.S. manufacturing imports. In contrast, by 2000, the low-income country share of U.S. imports reached 15 percent and climbed to 28 percent by 2007, with China accounting for 89 percent of this growth.</p>
 <p>This rise in import penetration is particularly rapid following China’s admission to the World Trade Organization (WTO) in 2001 and coincides with a marked decline in U.S. manufacturing</p>
 </section>
-<section id="the-earth-at-night-light-proxy-of-economic-growth" class="level3" data-number="13.0.7">
-<h3 data-number="13.0.7" class="anchored" data-anchor-id="the-earth-at-night-light-proxy-of-economic-growth"><span class="header-section-number">13.0.7</span> The Earth at night light: Proxy of economic growth</h3>
+<section id="the-earth-at-night-light-proxy-of-economic-growth" class="level3" data-number="13.0.8">
+<h3 data-number="13.0.8" class="anchored" data-anchor-id="the-earth-at-night-light-proxy-of-economic-growth"><span class="header-section-number">13.0.8</span> The Earth at night light: Proxy of economic growth</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="figures/night_light_2012.jpg" class="img-fluid figure-img"></p>
@@ -322,8 +343,8 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="human-capital-matters" class="level3" data-number="13.0.8">
-<h3 data-number="13.0.8" class="anchored" data-anchor-id="human-capital-matters"><span class="header-section-number">13.0.8</span> Human capital matters</h3>
+<section id="human-capital-matters" class="level3" data-number="13.0.9">
+<h3 data-number="13.0.9" class="anchored" data-anchor-id="human-capital-matters"><span class="header-section-number">13.0.9</span> Human capital matters</h3>
 <ul>
 <li><p>As a population becomes more literate, numerate, and educated, economic and political institutions evolve to foster long-term economic growth.</p></li>
 <li><p>Rather than geography, Western colonization, and plantation agriculture, the amount of education and other forms of human capital determine the existence or lack of property rights, financial markets, international trade, and other institutions that encourage economic growth.</p></li>
@@ -335,8 +356,8 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="water-transportation" class="level3" data-number="13.0.9">
-<h3 data-number="13.0.9" class="anchored" data-anchor-id="water-transportation"><span class="header-section-number">13.0.9</span> Water transportation</h3>
+<section id="water-transportation" class="level3" data-number="13.0.10">
+<h3 data-number="13.0.10" class="anchored" data-anchor-id="water-transportation"><span class="header-section-number">13.0.10</span> Water transportation</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="figures/canel.png" class="img-fluid figure-img"></p>
@@ -344,8 +365,8 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="population-growth" class="level3" data-number="13.0.10">
-<h3 data-number="13.0.10" class="anchored" data-anchor-id="population-growth"><span class="header-section-number">13.0.10</span> Population growth</h3>
+<section id="population-growth" class="level3" data-number="13.0.11">
+<h3 data-number="13.0.11" class="anchored" data-anchor-id="population-growth"><span class="header-section-number">13.0.11</span> Population growth</h3>
 <p>Population distribution become high due to the following factors:</p>
 <ol type="1">
 <li><p>Type of Land: Flat low land (Ganges Valley in India)</p></li>
@@ -362,8 +383,8 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="migration-from-developing-countries-to-developed-countries" class="level3" data-number="13.0.11">
-<h3 data-number="13.0.11" class="anchored" data-anchor-id="migration-from-developing-countries-to-developed-countries"><span class="header-section-number">13.0.11</span> Migration from developing countries to developed countries</h3>
+<section id="migration-from-developing-countries-to-developed-countries" class="level3" data-number="13.0.12">
+<h3 data-number="13.0.12" class="anchored" data-anchor-id="migration-from-developing-countries-to-developed-countries"><span class="header-section-number">13.0.12</span> Migration from developing countries to developed countries</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="figures/migration.png" class="img-fluid figure-img"></p>
@@ -371,8 +392,8 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="weather-and-climate" class="level3" data-number="13.0.12">
-<h3 data-number="13.0.12" class="anchored" data-anchor-id="weather-and-climate"><span class="header-section-number">13.0.12</span> Weather and climate</h3>
+<section id="weather-and-climate" class="level3" data-number="13.0.13">
+<h3 data-number="13.0.13" class="anchored" data-anchor-id="weather-and-climate"><span class="header-section-number">13.0.13</span> Weather and climate</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="figures/sunshine.png" class="img-fluid figure-img"></p>
