@@ -40,6 +40,14 @@ and could bring the biosphere into disrepair. That is why the replacement fertil
 
 ![Total Population Size by Region, Estimates and Projections, 1950 to 2100](figures/L15/L15_2.png){width="500" height="400"}
 
+### Trade and biodiversity
+
+Trade occurs across a wide range of spatial scales, with international, regional, and domestic exchange of goods all potentially leading to impacts on biodiversity. In the case of international trade, demand for products from outside a country's borders contributes substantially to local environmental impacts in the products' country of origin. Much of the international trade-related pressure on biodiversity occurs in developing countries, which have high agricultural land-use potential and typically high biodiversity. This pressure is often a result of demand from developed countries for imported products such as bananas, beef, cane sugar, chocolate, coconut, coffee, palm oil, soybeans, and tea, to name a few, which are all produced in previously forested areas.
+
+![Trade and Biodiversity (Ortiz, Andrea Monica D., et al.)](figures/L15/L15_3.jpg){width="500" height="400"}
+
+Trade also affects biodiversity through the introduction of invasive species. Invasive species aggressively invade new continents so that these species become dominant in their new geographical areas. The increase in global transport networks and the increasing demand for externally sourced products has contributed to the increased risk of biological invasions.
+
 **Ref:** 
 
 1. Perfecto, I., Mas, A., Dietsch, T. & Vandermeer, J. Conservation of biodiversity in coffee agroecosystems: a tri-taxa comparison in southern Mexico. Biodivers.
@@ -63,4 +71,8 @@ Environ. Conserv. 28, 23–38 (2001)
 Netherlands, 2006).
 
 9. Lenzen, M., Moran, D., Kanemoto, K., Foran, B., Lobefaro, L., & Geschke, A. (2012). International trade drives biodiversity threats in developing nations. Nature, 486(7401), 109-112.
+
+10. Ortiz, A. M. D., Outhwaite, C. L., Dalin, C., & Newbold, T. (2021). A review of the interactions between biodiversity, agriculture, climate change, and international trade: research and policy priorities. One Earth, 4(1), 88-101.
+
+11. Dasgupta, P. (2021). The economics of biodiversity: the Dasgupta review. Hm Treasury.
 
