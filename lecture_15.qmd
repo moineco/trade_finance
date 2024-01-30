@@ -1,5 +1,11 @@
 # International Trade and Biodiversity
 
+We are all asset managers. Whether as farmers or fishermen, hunters or gatherers, foresters or miners, households or companies, governments or communities, we manage the assets we have access to in line with our motivations, as best as we can. 
+
+![Biodiversity](figures/L15/L15_1.jpeg){width="200" height="300"}
+
+The biosphere, which is the part of Earth that is occupied by living organisms, is a selforganising, regenerative entity. Its rhythms, for example the seasons, shape the regeneration patterns of the living world. Biological diversity, or biodiversity for short, means the diversity of life. Biodiversity is a characteristic of ecosystems. It enables ecosystems to flourish and supply the wide variety of services we have just alluded to.
+
 Many studies have linked export-intensive industries with biodiversity
 threats, for example:
 
