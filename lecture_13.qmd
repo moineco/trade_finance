@@ -33,7 +33,6 @@ $D_{ij}$ indicates the bilateral distance between the two countries
 
 The parameters are $α$, $β$, and $θ$
 
-
 ### Geography and transportation
 
 Geography and economy are closely tied together because transport makes trade with widespread areas possible. This is because geographical features include mountains, deserts, and water, which directly impact the movement of people and thus the movement of trade. The integration of the world economy has increased rapidly in recent decades, with world trade growing more than twice as fast as world GDP since 1980. The two main reasons behind it are
@@ -133,4 +132,3 @@ Population distribution become high due to the following factors:
 ### Weather and climate
 
 ![Figure: Sum of direct and diffuse components of solar radiation \[kWh/m2\]](figures/sunshine.png){fig-align="center"}
-

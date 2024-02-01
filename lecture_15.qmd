@@ -1,42 +1,38 @@
 # International Trade and Biodiversity
 
-We are all asset managers. Whether as farmers or fishermen, hunters or gatherers, foresters or miners, households or companies, governments or communities, we manage the assets we have access to in line with our motivations, as best as we can. 
+We are all asset managers. Whether as farmers or fishermen, hunters or gatherers, foresters or miners, households or companies, governments or communities, we manage the assets we have access to in line with our motivations, as best as we can.
 
 ![Biodiversity](figures/L15/L15_1.jpeg){width="200" height="300"}
 
 The biosphere, which is the part of Earth that is occupied by living organisms, is a selforganising, regenerative entity. Its rhythms, for example the seasons, shape the regeneration patterns of the living world. Biological diversity, or biodiversity for short, means the diversity of life. Biodiversity is a characteristic of ecosystems. It enables ecosystems to flourish and supply the wide variety of services we have just alluded to.
 
-Many studies have linked export-intensive industries with biodiversity
-threats, for example:
+Many studies have linked export-intensive industries with biodiversity threats, for example:
 
-- Coffee growing in Mexico (1) and Latin America (2)
-- Soya (3) and beef (4) production in Brazil
-- Forestry (5) and fishing (6) in Papua New Guinea 
-- Palm oil plantations in Indonesia and Malaysia (7)
-- Ornamental fish catching in Vietnam (8)
+-   Coffee growing in Mexico (1) and Latin America (2)
+-   Soya (3) and beef (4) production in Brazil
+-   Forestry (5) and fishing (6) in Papua New Guinea
+-   Palm oil plantations in Indonesia and Malaysia (7)
+-   Ornamental fish catching in Vietnam (8)
 
-Freer trade is well known to generate economic benefits, in particular through specialization according to comparative advantages. However, international trade is linked to biodiversity losses through direct impact of transport and the induced pollution and introduction of pathogens and invasive species. It is also linked more indirectly to global biodiversity losses through habitat changes, over-exploitation and other forms of pollution. Trade impacts on global biodiversity, for instance through the ‘virtual’ water, land, and deforestation contained in imports.
+Freer trade is well known to generate economic benefits, in particular through specialization according to comparative advantages. However, international trade is linked to biodiversity losses through direct impact of transport and the induced pollution and introduction of pathogens and invasive species. It is also linked more indirectly to global biodiversity losses through habitat changes, over-exploitation and other forms of pollution. Trade impacts on global biodiversity, for instance through the 'virtual' water, land, and deforestation contained in imports.
 
-### Trade plays a role in the "Uniformisation" of cultivated species. 
+### Trade plays a role in the "Uniformisation" of cultivated species.
 
-- International trade participates in the dissemination of innovation, since most productive varieties tend to be used more widely, with an increase in economic
-competition under freer trade. Trade in honey bees, for example, has led to the introduction of more productive and docile queen bees (e.g. a species from Hawaii in particular) all over the world and has reduced genetic diversity, which could be one of the many explanations for the colony collapse disorder.
+-   International trade participates in the dissemination of innovation, since most productive varieties tend to be used more widely, with an increase in economic competition under freer trade. Trade in honey bees, for example, has led to the introduction of more productive and docile queen bees (e.g. a species from Hawaii in particular) all over the world and has reduced genetic diversity, which could be one of the many explanations for the colony collapse disorder.
 
-- Second, trade induces specialization, leading countries to concentrate their agricultural production on a few species (and within species, on a few varieties) with high yields, according to their comparative advantages. This mechanism results in the uniformisation of agricultural landscapes. 
+-   Second, trade induces specialization, leading countries to concentrate their agricultural production on a few species (and within species, on a few varieties) with high yields, according to their comparative advantages. This mechanism results in the uniformisation of agricultural landscapes.
 
 ### Trade plays a role in the "Transport" rise dramatically
 
-- Transport of goods and people have risen dramatically over the last decades, along with transport infrastructures. This has resulted in a dramatic surge in related pollution and habitat perturbations, with negative consequences on biodiversity.
+-   Transport of goods and people have risen dramatically over the last decades, along with transport infrastructures. This has resulted in a dramatic surge in related pollution and habitat perturbations, with negative consequences on biodiversity.
 
-- International maritime trade has increased from less than 4 billion tonnes in 1980 to almost 12 billion tonnes in 2018. Many of the 80000 cargo ships use highly polluting fuel, and emit various pollutants along with $CO_2$ including black carbon, sulphur dioxide ($S0_2$), nitrogen oxides ($NO_x$) and nitrous oxide ($N_2O$). In
-addition, port development has often been detrimental to seashore ecosystems, including mudflats, mangroves and fish natural hatcheries.
+-   International maritime trade has increased from less than 4 billion tonnes in 1980 to almost 12 billion tonnes in 2018. Many of the 80000 cargo ships use highly polluting fuel, and emit various pollutants along with $CO_2$ including black carbon, sulphur dioxide ($S0_2$), nitrogen oxides ($NO_x$) and nitrous oxide ($N_2O$). In addition, port development has often been detrimental to seashore ecosystems, including mudflats, mangroves and fish natural hatcheries.
 
-- All the emissions caused by transport have a significant effect on biodiversity.  $SO_2$ results in acid rain which has caused collapse of trees in large forest areas. The impact of $NO_x$ and ozone on aquatic insects that are the basis of the food chain, and on vegetation is considerable: ozone pollution have been measured as reducing wheat and forest yields by amounts that reach 60%.
+-   All the emissions caused by transport have a significant effect on biodiversity. $SO_2$ results in acid rain which has caused collapse of trees in large forest areas. The impact of $NO_x$ and ozone on aquatic insects that are the basis of the food chain, and on vegetation is considerable: ozone pollution have been measured as reducing wheat and forest yields by amounts that reach 60%.
 
-###  Global Population
+### Global Population
 
-Global population grew sharply in the years following the mid-20th century, because the substantial reductions in death rates traceable to advances in medicine and public health practices were not matched by reductions in fertility rates. The global ecological footprint depends on the absolute population size. A population can be stable, but if large it would have a big footprint, other things equal,
-and could bring the biosphere into disrepair. That is why the replacement fertility rate is not as significant a notion of ‘fertility transition’ (the transition from high fertility rates to the replacement rate) in the economics of biodiversity as it is in demography.
+Global population grew sharply in the years following the mid-20th century, because the substantial reductions in death rates traceable to advances in medicine and public health practices were not matched by reductions in fertility rates. The global ecological footprint depends on the absolute population size. A population can be stable, but if large it would have a big footprint, other things equal, and could bring the biosphere into disrepair. That is why the replacement fertility rate is not as significant a notion of 'fertility transition' (the transition from high fertility rates to the replacement rate) in the economics of biodiversity as it is in demography.
 
 ![Total Population Size by Region, Estimates and Projections, 1950 to 2100](figures/L15/L15_2.png){width="500" height="400"}
 
@@ -48,31 +44,26 @@ Trade occurs across a wide range of spatial scales, with international, regional
 
 Trade also affects biodiversity through the introduction of invasive species. Invasive species aggressively invade new continents so that these species become dominant in their new geographical areas. The increase in global transport networks and the increasing demand for externally sourced products has contributed to the increased risk of biological invasions.
 
-**Ref:** 
+**Ref:**
 
-1. Perfecto, I., Mas, A., Dietsch, T. & Vandermeer, J. Conservation of biodiversity in coffee agroecosystems: a tri-taxa comparison in southern Mexico. Biodivers.
-Conserv. 12, 1239–1252 (2003).
+1.  Perfecto, I., Mas, A., Dietsch, T. & Vandermeer, J. Conservation of biodiversity in coffee agroecosystems: a tri-taxa comparison in southern Mexico. Biodivers. Conserv. 12, 1239--1252 (2003).
 
-2. Philpott, S. M. et al. Biodiversity loss in Latin American coffee landscapes: review of the evidence on ants, birds, and trees. Conserv. Biol. 22, 1093–1105 (2008).
+2.  Philpott, S. M. et al. Biodiversity loss in Latin American coffee landscapes: review of the evidence on ants, birds, and trees. Conserv. Biol. 22, 1093--1105 (2008).
 
-3. Fearnside, P. M. Soybean cultivation as a threat to the environment in Brazil.
-Environ. Conserv. 28, 23–38 (2001)
+3.  Fearnside, P. M. Soybean cultivation as a threat to the environment in Brazil. Environ. Conserv. 28, 23--38 (2001)
 
-4. Nepstad, D. C., Stickler, C. M. & Almeida, O. T. Globalization of the Amazon soy and beefindustries:opportunities for conservation. Conserv.Biol.20, 1595–1603 (2006).
+4.  Nepstad, D. C., Stickler, C. M. & Almeida, O. T. Globalization of the Amazon soy and beefindustries:opportunities for conservation. Conserv.Biol.20, 1595--1603 (2006).
 
-5. Shearman, P. L., Ash, J., Mackey, B., Bryan, J. E. & Lokes, B. Forest conversion and degradation in Papua New Guinea 1972–2002. Biotropica 41, 379–390 (2009).
+5.  Shearman, P. L., Ash, J., Mackey, B., Bryan, J. E. & Lokes, B. Forest conversion and degradation in Papua New Guinea 1972--2002. Biotropica 41, 379--390 (2009).
 
-6. Michael E, H. An assessment of the status of the coral reefs of Papua New Guinea. Mar. Poll. Bull. 29, 69–73 (1994).
+6.  Michael E, H. An assessment of the status of the coral reefs of Papua New Guinea. Mar. Poll. Bull. 29, 69--73 (1994).
 
-7. Koh, L. P. & Wilcove, D. S. Cashing in palm oil for conservation. Nature 448,
-993–994 (2007).
+7.  Koh, L. P. & Wilcove, D. S. Cashing in palm oil for conservation. Nature 448, 993--994 (2007).
 
-8. Giles, B. G., Ky, T. S., Hoang, H. & Vincent, A. C. J. in Topics in Biodiversity and Conservation Vol. 3 (eds Hawksworth, D. L. & Bull, A. T.) 157–173 (Springer
-Netherlands, 2006).
+8.  Giles, B. G., Ky, T. S., Hoang, H. & Vincent, A. C. J. in Topics in Biodiversity and Conservation Vol. 3 (eds Hawksworth, D. L. & Bull, A. T.) 157--173 (Springer Netherlands, 2006).
 
-9. Lenzen, M., Moran, D., Kanemoto, K., Foran, B., Lobefaro, L., & Geschke, A. (2012). International trade drives biodiversity threats in developing nations. Nature, 486(7401), 109-112.
+9.  Lenzen, M., Moran, D., Kanemoto, K., Foran, B., Lobefaro, L., & Geschke, A. (2012). International trade drives biodiversity threats in developing nations. Nature, 486(7401), 109-112.
 
 10. Ortiz, A. M. D., Outhwaite, C. L., Dalin, C., & Newbold, T. (2021). A review of the interactions between biodiversity, agriculture, climate change, and international trade: research and policy priorities. One Earth, 4(1), 88-101.
 
 11. Dasgupta, P. (2021). The economics of biodiversity: the Dasgupta review. Hm Treasury.
-
