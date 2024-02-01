@@ -35,3 +35,4 @@ Figure 10_1 shows how U.S. GNP was divided among its four components in the firs
 -   One major reason is that we cannot hope to understand the cause of a particular recession or boom without knowing how the main categories of spending have changed. And without such an understanding, we cannot recommend a sound policy response.
 
 -   In addition, the national income accounts provide information essential for studying why some countries are rich---that is, have a high level of GNP relative to population size---while some are poor.
+
