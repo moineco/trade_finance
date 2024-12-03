@@ -43,10 +43,10 @@ Increasing returns and trade are essential concept of this course. I will focus 
 
 Class schedule in fourth quarter:
 
--   Monday from 8:50 AM to 10:20 AM
--   Thursday from 8:50 AM to 10:20 AM
+-   Monday from 13:00 to 14:30
+-   Thursday from 13:00 AM to 14:30 AM
 
-Class room: **A108**, Eikokuji Campus, Kochi University of Technology
+Class room: **A201**, Eikokuji Campus, Kochi University of Technology
 
 **Grading**
 
@@ -56,7 +56,7 @@ Your grade evaluation will depend on following three factors:
 |-------------------------------|--------|
 | a\. Attendance                | 10%    |
 | b\. Answering the assignments | 40%    |
-| c\. Final examination (TBA)   | 50%    |
+| c\. Final examination/ report (TBA)   | 50%    |
 
 **Assignment submission**
 
@@ -68,8 +68,10 @@ There is no word limit for quiz submission. Most of the quizzes are short and in
 
 **Instructor**
 
-*Moinul Islam*, Assistant Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan.
+*Moinul Islam*, Associate Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan.
 
 ### trade.moinul\@gmail.com
+
+### KUTLMS Moodle key: trade
 
 Office hours: By appointment, please email

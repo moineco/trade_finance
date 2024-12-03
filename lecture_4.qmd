@@ -2,15 +2,15 @@
 
 ## Differences between absolute advantage and comparative advantage
 
-|                  | Absolute advantage                                    | Comparative advantage                                                                          |
-|------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Definition       | Best at production of good or service                 | Production of good or service at lower cost                                                    |
-| Benefits         | Resources are focused on specific production          | Resources are focused on efficient production, therefore, saving resources                     |
-| Cost             | Cost is noticed but not made priority over production | Cost is the primary factor to make production                                                  |
-| Production       | All resource allocation goes into production          | Resource allocation varies and the main focus is not only production but also opportunity cost |
-| Trade benefits   | Trade is not mutually beneficial for two countries    | Trade is mutually beneficial for two countries                                                 |
-| Economic concept | Strategic management concept                          | Economic concept                                                                               |
-| Proponents       | Adam Smith                                            | David Ricardo                                                                                  |
+|   | Absolute advantage | Comparative advantage |
+|----|----|----|
+| Definition | Best at production of good or service | Production of good or service at lower cost |
+| Benefits | Resources are focused on specific production | Resources are focused on efficient production, therefore, saving resources |
+| Cost | Cost is noticed but not made priority over production | Cost is the primary factor to make production |
+| Production | All resource allocation goes into production | Resource allocation varies and the main focus is not only production but also opportunity cost |
+| Trade benefits | Trade is not mutually beneficial for two countries | Trade is mutually beneficial for two countries |
+| Economic concept | Strategic management concept | Economic concept |
+| Proponents | Adam Smith | David Ricardo |
 
 : Differences between absolute and comparative advantage
 

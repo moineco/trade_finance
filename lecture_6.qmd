@@ -48,12 +48,12 @@ In the modern world, for reasons we will explain later in this chapter, tariff r
 
 Because tariff rates are already low for most of the countries, the estimated benefit to free trade is not significantly high for many nations and regions of the world.
 
-| Policy                   | Tariff                              | Export Subsidy | Import Quota                        | Voluntary Export Restraint |
-|---------------|---------------|---------------|---------------|---------------|
-| Producer benefit         | Increases                           | Increases      | Increases                           | Increases                  |
-| Consumer benefit         | Falls                               | Falls          | Falls                               | Falls                      |
-| Government revenue       | Increases                           | Falls          | No change                           | No change                  |
-| Overall national welfare | Ambiguous (falls for small country) | Falls          | Ambiguous (falls for small country) | Falls                      |
+| Policy | Tariff | Export Subsidy | Import Quota | Voluntary Export Restraint |
+|----|----|----|----|----|
+| Producer benefit | Increases | Increases | Increases | Increases |
+| Consumer benefit | Falls | Falls | Falls | Falls |
+| Government revenue | Increases | Falls | No change | No change |
+| Overall national welfare | Ambiguous (falls for small country) | Falls | Ambiguous (falls for small country) | Falls |
 
 : Table 6b: Effects of Alternative Trade Policies
 
