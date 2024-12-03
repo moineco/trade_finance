@@ -44,7 +44,7 @@ Increasing returns and trade are essential concept of this course. I will focus 
 Class schedule in fourth quarter:
 
 -   Monday from 13:00 to 14:30
--   Thursday from 13:00 AM to 14:30 AM
+-   Thursday from 13:00 to 14:30
 
 Class room: **A201**, Eikokuji Campus, Kochi University of Technology
 
@@ -70,8 +70,8 @@ There is no word limit for quiz submission. Most of the quizzes are short and in
 
 *Moinul Islam*, Associate Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan.
 
-### trade.moinul\@gmail.com
+#### trade.moinul\@gmail.com
 
-### KUTLMS Moodle key: trade
+#### KUTLMS Moodle key: trade
 
 Office hours: By appointment, please email
