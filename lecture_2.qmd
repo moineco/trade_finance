@@ -85,6 +85,8 @@
 
 -   Interpret the following figure based on your understanding of the content in lecture 2.
 
-![The Changing composition developing country exports](figures/L2/Fig_L2_1.jpg){width="550" height="500"} Figure 2_1: The Changing composition developing country exports
+![](figures/L2/Fig_L2_1.jpg){width="550" height="500"}
+
+Figure 2.1: The Changing composition developing country exports
 
 **Reference:** Chapter 1- Introduction (Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition)
