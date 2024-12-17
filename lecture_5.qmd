@@ -3,7 +3,7 @@
 ## Key concepts
 
 | Term | **Definition** |
-|----|----|
+|------------------------------------|------------------------------------|
 | Opportunity cost | The value of the next best alternative to any decision you make. For instance, the opportunity cost of watching movey is the hour of studying she gives up to do that |
 | Growth | An increase in an economy's ability to produce goods and services over time; economic growth in the PPF model is illustrated by a shift out of the PPF |
 | Contraction | A decrease in output that occurs due to the under-utilization of resources. In a graphical model of the PPF, a contraction is represented by moving to a point that is further away from, and on the interior of the PPF |
@@ -15,23 +15,23 @@
 
 -   Production possibilities frontier (PPF) shows the maximum attainable combinations of two products that may be produced if we use our resources efficiently. Sometimes economists call this Production Possibilities Curve (PPC).
 
--   PPFs can be used to demonstrate:
+PPFs can be used to demonstrate:
 
-    a)  opportunity costs (trade-offs).
-    b)  efficient production.
-    c)  economic growth
+  a)  opportunity costs (trade-offs).
+  b)  efficient production.
+  c)  economic growth
 
--   Understanding opportunity costs - The Shape of PPFs
+Understanding opportunity costs - The Shape of PPFs
 
-    -   Constant opportunity cost PPFs are
+  -   Constant opportunity cost PPFs are
 
-        -- Linear lines. Opportunity cost is constant (the same) no matter where you produce.
+      -- Linear lines. Opportunity cost is constant (the same) no matter where you produce.
 
-    -   Increasing opportunity cost PPFs are
+  -   Increasing opportunity cost PPFs are
 
-        -- Concave. As you keep increasing production, opportunity cost is increasing.
+      -- Concave. As you keep increasing production, opportunity cost is increasing.
 
--   The PPF with increasing costs
+  -   The PPF with increasing costs
 
 It is more realistic for a nation to face increasing rather than constant opportunity costs. Increasing opportunity costs mean that the nation must give up more and more of one commodity to release just enough resources to produce each additional unit of another commodity. Increasing opportunity costs result in a production frontier that is concave from the origin (rather than a straight line).
 
@@ -75,10 +75,6 @@ The production possibilities frontier can illustrate two kinds of efficiency: pr
 
 ![Productive and Allocative Efficiency](figures/PPF-ex2.jpg){fig-align="center" width="400"}
 
-### Quiz 5
-
-**Why is a production possibilities frontier typically drawn as a curve, rather than a straight line?**
-
 ## Heckscher--Ohlin model of trade
 
 -   We now go one step further and explain the reason, or cause, for the difference in relative commodity prices and comparative advantage between the two nations.
@@ -89,7 +85,7 @@ The production possibilities frontier can illustrate two kinds of efficiency: pr
 
 -   The Heckscher--Ohlin model of trade states that endowment diﬀerences among countries play a key role in determining the pattern of trade.
 
-> Heckscher--Ohlin Theorem. A country has a comparative advantage in the good that is relatively intensive in the country's relatively abundant factor.
+- Heckscher--Ohlin Theorem. A country has a comparative advantage in the good that is relatively intensive in the country's relatively abundant factor.
 
 ## The Krugman model of trade
 
