@@ -17,25 +17,27 @@
 
 PPFs can be used to demonstrate:
 
-  a)  opportunity costs (trade-offs).
-  b)  efficient production.
-  c)  economic growth
+a)  opportunity costs (trade-offs).
+b)  efficient production.
+c)  economic growth
 
 Understanding opportunity costs - The Shape of PPFs
 
-  -   Constant opportunity cost PPFs are
+-   Constant opportunity cost PPFs are
 
-      -- Linear lines. Opportunity cost is constant (the same) no matter where you produce.
+    -- Linear lines. Opportunity cost is constant (the same) no matter where you produce.
 
-  -   Increasing opportunity cost PPFs are
+    ![Illustrating constant opportunity cost](figures/constant_oc.png)
 
-      -- Concave. As you keep increasing production, opportunity cost is increasing.
+-   Increasing opportunity cost PPFs are
 
-  -   The PPF with increasing costs
+    -- Concave. As you keep increasing production, opportunity cost is increasing.
+
+    ![Illustrating increasing opportunity cost](figures/increasing_oc.png)
+
+-   The PPF with increasing costs
 
 It is more realistic for a nation to face increasing rather than constant opportunity costs. Increasing opportunity costs mean that the nation must give up more and more of one commodity to release just enough resources to produce each additional unit of another commodity. Increasing opportunity costs result in a production frontier that is concave from the origin (rather than a straight line).
-
-![The PPF with increasing costs](figures/PPF-graph.jpg){fig-align="center"}
 
 ## The Production Possibilities Frontier and Social Choices
 
@@ -85,7 +87,7 @@ The production possibilities frontier can illustrate two kinds of efficiency: pr
 
 -   The Heckscher--Ohlin model of trade states that endowment diﬀerences among countries play a key role in determining the pattern of trade.
 
-- Heckscher--Ohlin Theorem. A country has a comparative advantage in the good that is relatively intensive in the country's relatively abundant factor.
+-   Heckscher--Ohlin Theorem. A country has a comparative advantage in the good that is relatively intensive in the country's relatively abundant factor.
 
 ## The Krugman model of trade
 
