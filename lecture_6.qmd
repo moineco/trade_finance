@@ -4,7 +4,35 @@ Previous lectures have answered the question, "Why do nations trade?" by describ
 
 The chapter thus provides a framework for understanding the effects of the most important instruments of trade policy.
 
-## Basic Tariff Analysis
+## The Cases for Free Trade
+
+**Free trade** refers to a situation where a government does not attempt to restrict what its citizens can buy from another country or what they can sell to another country
+
+While many nations are nominally committed to free trade, they tend to intervene in international trade to protect the interests of politically important groups 
+
+- 1. Producers and consumers allocate resources most efficiently when market prices are not distorted  through trade policy
+
+- 2. Free trade allows firms or industries to take advantage of economies of scale
+
+- 3. Free trade provides competition and therefore opportunities for innovation
+
+- 4. Free trade is the best feasible political policy, even though there may be better policies in principle
+
+## The Cases Against Free Trade 
+
+### Question: How do governments intervene in international trade?
+
+There are seven main instruments of trade policy 
+
+- Tariffs
+- Subsidies
+- Import quotas
+- Voluntary export restraints
+- Local content requirements 
+- Antidumping policies 
+- Administrative policies 
+
+### Basic Tariff Analysis
 
 A tariff is a tax levied when a good is imported. There are various types of tariff.
 
@@ -21,6 +49,14 @@ The importance of tariffs has declined in modern times because modern government
 -   Export restraints (limitations on the quantity of exports---usually imposed by the exporting country at the importing country's request).
 
 Nonetheless, an understanding of the effects of a tariff remains vital for understanding other trade policies.
+
+### Question: Why do governments impose tariffs?
+
+- Tariffs  increase government revenues
+- Provide protection to domestic producers against foreign competitors by increasing the cost of imported foreign goods
+- Force consumers to pay more for certain imports
+
+Tariffs are pro-producer and anti-consumer, and tariffs reduce the overall efficiency of the world economy 
 
 ## Political economy and trade policy
 
@@ -49,7 +85,7 @@ In the modern world, for reasons we will explain later in this chapter, tariff r
 Because tariff rates are already low for most of the countries, the estimated benefit to free trade is not significantly high for many nations and regions of the world.
 
 | Policy | Tariff | Export Subsidy | Import Quota | Voluntary Export Restraint |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | Producer benefit | Increases | Increases | Increases | Increases |
 | Consumer benefit | Falls | Falls | Falls | Falls |
 | Government revenue | Increases | Falls | No change | No change |
@@ -59,7 +95,28 @@ Because tariff rates are already low for most of the countries, the estimated be
 
 All four trade policies benefit producers and hurt consumers. The effects of the policies on economic welfare are at best ambiguous; two of the policies definitely hurt the nation as a whole, while tariffs and import quotas are potentially beneficial only for large countries that can drive down world prices.
 
-## Some other Instruments of Trade Policy
+### Which Industries Are Protected?
+
+#### Agriculture: 
+
+In the US, Europe and Japan farmers make up a small fraction of the electorate but receive generous subsidies and trade protection.
+
+- European Union’s Common Agricultural Policy (CAP)
+
+- Japan’s 1000% tariff on imported rice
+
+- America’s sugar quota
+
+#### Manufacturing: 
+
+- Cars in India and Indonesia, steel in the US
+
+#### Services: 
+
+- Banking in many countries, airlines almost everywhere
+
+
+### Some other Instruments of Trade Policy
 
 Tariffs are the simplest trade policies, but in the modern world, most government intervention in international trade takes other forms, such as:
 
@@ -73,22 +130,19 @@ Tariffs are the simplest trade policies, but in the modern world, most governmen
 
 Fortunately, once we have understood tariffs, it is not too difficult to understand these other trade instruments.
 
-### Export Subsidies
+#### Export Subsidies
 
 An export subsidy is a payment to a firm or individual that ships a good abroad. Like a tariff, an export subsidy can be either specific (a fixed sum per unit) or ad valorem (a proportion of the value exported). When the government offers an export subsidy, shippers will export the good up to the point at which the domestic price exceeds the foreign price by the amount of the subsidy.
 
-### Import Quotas
+#### Import Quotas
 
 An import quota is a direct restriction on the quantity of some good that may be imported. The restriction is usually enforced by issuing licenses to some group of individuals or firms. For example, the United States has a quota on imports of foreign cheese. The only firms allowed to import cheese are certain trading companies, each of which is allocated the right to import a maximum number of pounds of cheese each year; the size of each firm's quota is based on the amount of cheese it imported in the past.
 
-### Voluntary Export Restraints
+#### Voluntary Export Restraints
 
 A variant on the import quota is the voluntary export restraint (VER), also known as a voluntary restraint agreement (VRA). A VER is a quota on trade imposed from the exporting country's side instead of the importer's. The most famous example is the limitation on auto exports to the United States enforced by Japan after 1981.
 
-### Local Content Requirements
+#### Local Content Requirements
 
 A local content requirement is a regulation that requires some specified fraction of a final good to be produced domestically. In some cases, this fraction is specified in physical units. In other cases, the requirement is stated in value terms by requiring that some minimum share of the price of a good represent domestic value added. Local content laws have been widely used by developing countries trying to shift their manufacturing base from assembly back into intermediate goods.
 
-### Quiz
-
-Why some developing countries impose high import tariff on car? Explain the reasons with sufficient justification and examples.
