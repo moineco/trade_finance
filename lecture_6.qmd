@@ -13,6 +13,7 @@ While many nations are nominally committed to free trade, they tend to intervene
 - 1. Producers and consumers allocate resources most efficiently when market prices are not distorted  through trade policy
 
 - 2. Free trade allows firms or industries to take advantage of economies of scale
+(Example: In the auto industry, to operate at efficient scale, an auto plant should make a minimum of 80,000 cars per year.)
 
 - 3. Free trade provides competition and therefore opportunities for innovation
 
@@ -114,7 +115,6 @@ In the US, Europe and Japan farmers make up a small fraction of the electorate b
 #### Services: 
 
 - Banking in many countries, airlines almost everywhere
-
 
 ### Some other Instruments of Trade Policy
 
