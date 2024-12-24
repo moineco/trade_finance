@@ -23,8 +23,8 @@ Increasing returns and trade are essential concept of this course. I will focus 
 
 -   Lecture 5: The Instruments of Trade Policy
 -   Lecture 6: The Political Economy of Trade Policy
--   Lecture 7: Trade Policy in Developing Countries: Part A
--   Lecture 8: Trade Policy in Developing Countries: Part B
+-   Lecture 7: Trade Policy
+-   Lecture 8: Trade Policy in Developing Countries
 
 ##### Section 3: Open-Economy Macroeconomics
 
@@ -52,11 +52,11 @@ Class room: **A201**, Eikokuji Campus, Kochi University of Technology
 
 Your grade evaluation will depend on following three factors:
 
-| Performance                   | Weight |
-|-------------------------------|--------|
-| a\. Attendance                | 10%    |
-| b\. Answering the assignments | 40%    |
-| c\. Final examination/ report (TBA)   | 50%    |
+| Performance                         | Weight |
+|-------------------------------------|--------|
+| a\. Attendance                      | 10%    |
+| b\. Answering the assignments       | 40%    |
+| c\. Final examination/ report (TBA) | 50%    |
 
 **Assignment submission**
 
