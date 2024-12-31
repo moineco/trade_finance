@@ -31,7 +31,9 @@ bibliography: international_trade_finance.bib
 
 format:
   html:
-    theme: cosmo
+    theme: 
+       light: cosmo
+       dark: darkly
   pdf:
     documentclass: scrreprt
 
