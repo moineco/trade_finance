@@ -18,6 +18,18 @@ Most international economists view the first claim as simplistic and disagree wi
 
     ![Figure 9b: Different stages in EKC](figures/kuznet_curve.jpg)
 
+### The N-shaped EKC
+
+-   Scholars supporting N-shaped EKC have proposed a different theory. They believed that even at a higher stage of economic development if innovation cannot keep up with the speed of economic growth and the increase in technological effects is slower than the scale effect, environmental pollution may reappear (Lorente and Álvarez-Herranz, 2016).
+
+-   In other words, the shape of the EKC may extend from an inverted U-shape to an N-shape. This N-shaped model assumes that economic growth leads to environmental degradation that reverses with economic progress after reaching a positive peak and that pollution levels approach a negative peak before starting to rise again with further economic progress.
+
+-   Compared with the inverted U-shaped EKC, the most critical gap lies in the rebound of environmental pollution in the third stage. Scholars refer to this pattern as the technological obsolescence effect, representing the re-emergence of scale effects and overcoming the compositional and technological effects that preceded the second turning point (Lorente and Álvarez-Herranz, 2016; Balsalobre-Lorente et al., 2018).
+
+-   The emergence of this phenomenon is believed to be related to neglected environmental regulations and slow technological innovation.
+
+![Figure: N-shaped EKC](figures/L10_4.png){width="766"}
+
 ## What does Kuznet Curve have to do with international trade?
 
 -   Trade liberalization is often advocated on the grounds that it will promote economic growth. To the extent that it succeeds in accomplishing this end, it will raise per-capita income. Will this improve or worsen environmental quality? It depends which side of the environmental Kuznets curve an economy is on. In their original paper, which was in part a response to critics of the North American Free Trade Agreement who argued that the agreement would be environmentally harmful, Grossman and Krueger suggested that Mexico might be on the right side of the curve---that is, to the extent that NAFTA raises Mexican income, it might actually lead to a reduction in environmental damage.
