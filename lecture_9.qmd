@@ -28,7 +28,7 @@ Most international economists view the first claim as simplistic and disagree wi
 
 -   The emergence of this phenomenon is believed to be related to neglected environmental regulations and slow technological innovation.
 
-![Figure: N-shaped EKC](figures/L10_4.png){width="766"}
+![Figure: N-shaped EKC](figures/L10_4.png){width="666"}
 
 ## What does Kuznet Curve have to do with international trade?
 
