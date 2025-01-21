@@ -4,7 +4,9 @@
 
 -   We are so accustomed to using money that we seldom notice the roles it plays in almost all of our everyday transactions. As with many other modern conveniences, we take money for granted until something goes wrong with it! In fact, the easiest way to appreciate the importance of money is to imagine what economic life would be like without it.
 
-- Money is an asset that is widely used and accepted as a means of payment.
+-   Money is an asset that is widely used and accepted as a means of payment.
+
+    ![](figures/L12/money.png)
 
 ### Money as a Medium of Exchange
 
