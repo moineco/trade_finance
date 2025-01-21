@@ -8,6 +8,14 @@
 
     ![](figures/L12/money.png)
 
+- Once upon a time, long before coins or bills, people traded goods to survive. A farmer would trade wheat for fish with a fisherman, but what happened when the fisherman didn’t need wheat? The world needed a better way.
+
+- So, humans invented money. First, it was shiny shells, then precious metals like gold and silver. Coins were stamped to show their value, making trade easier. Over time, people grew tired of carrying heavy coins, so paper money was born—promises of value backed by kings and governments.
+
+- As society advanced, money evolved further. Banks kept it safe, and people used checks instead of cash. Then came credit cards, making spending effortless. Today, money is often invisible—digital numbers in bank accounts, zipping around the world at the click of a button.
+
+- Money began as a simple solution to a problem, but now it shapes dreams, builds empires, and drives humanity forward, proving it’s more than just currency—it’s a symbol of trust and ambition.
+
 ### Money as a Medium of Exchange
 
 -   The most important function of money is to serve as a medium of exchange, a generally accepted means of payment. To see why a medium of exchange is necessary, imagine how time-consuming it would be for people to purchase goods and services in a world where the only type of trade possible is barter trade---the direct trade of goods or services for other goods or services.
