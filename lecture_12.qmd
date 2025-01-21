@@ -38,6 +38,40 @@
 
 -   Money's usefulness as a medium of exchange, however, automatically makes it the most liquid of all assets.vSince money is readily acceptable as a means of payment, money sets the standard against which the liquidity of other assets is judged.
 
+### Why people trust money?
+
+People trust money because of a combination of social, legal, and psychological factors that have developed over time. Here’s why:
+
+1. Government Backing
+
+Most modern money, like paper currency, is issued by governments. People trust that the issuing authority (e.g., a central bank) will maintain its value and ensure its acceptance. For example, fiat money doesn’t have intrinsic value but is deemed valuable because the government declares it legal tender.
+
+2. Social Consensus
+
+Money works because everyone agrees to accept it as a medium of exchange. Trust in money is a collective belief reinforced by daily use—people trust it because others trust it, creating a self-reinforcing cycle.
+
+3. Historical Reliability
+
+Over time, money has proven to be a more reliable system than barter or other forms of trade. It has a track record of facilitating commerce, preserving wealth, and simplifying transactions.
+
+4. Regulation and Security
+
+Legal systems enforce the use and protection of money, such as laws against counterfeiting or theft. This regulation adds a layer of trust, as people feel confident that their money is protected and accepted within the system.
+
+5. Scarcity and Stability
+
+Central banks control the supply of money, ensuring it doesn’t lose value through excessive inflation. Trust grows when money maintains its purchasing power over time.
+
+6. Symbolism of Value
+
+Money represents a claim on goods, services, or labor. Even if it’s just paper or digital code, people trust it because it symbolizes value that can be exchanged at any time.
+
+7. Technological Advancement
+
+Digital systems, secure transactions, and transparent records (like blockchain for cryptocurrencies) have bolstered trust by reducing fraud and errors, making the handling of money more efficient.
+
+Ultimately, trust in money is rooted in the stability of the systems behind it and the shared belief in its utility as a tool for trade, saving, and investment.
+
 ### How the Money Supply Is Determined
 
 -   An economy's money supply is controlled by its central bank. The central bank directly regulates the amount of currency in existence and also has indirect control over the amount of checking deposits issued by private banks.
