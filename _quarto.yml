@@ -5,6 +5,9 @@ project:
 book:
   title: "International Economics"
   author: "Moinul Islam"
+  search: true
+  # repo-url: https://github.com/moineco
+  # downloads: [epub]
   date: today
   
   chapters:
