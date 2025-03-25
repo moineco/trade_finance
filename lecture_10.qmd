@@ -1,11 +1,6 @@
 # Macroeconomic Analysis of Trade Balance
 
-Previous lectures have been concerned primarily with the problem of making the best use of the world’s scarce productive resources at a single point in time.
-The branch of economics called microeconomics studies this problem from the perspective of individual firms and consumers. Microeconomics works “from the
-bottom up” to show how individual economic actors, by pursuing their own interests, collectively determine how resources are used. In our study of international
-microeconomics, we have learned how individual production and consumption decisions produce patterns of international trade and specialization. We have also
-seen that while free trade usually encourages efficient resource use, government intervention or market failailures can cause waste even when all factors of production
-are fully employed.
+Previous lectures have been concerned primarily with the problem of making the best use of the world’s scarce productive resources at a single point in time. The branch of economics called microeconomics studies this problem from the perspective of individual firms and consumers. Microeconomics works “from the bottom up” to show how individual economic actors, by pursuing their own interests, collectively determine how resources are used. In our study of international microeconomics, we have learned how individual production and consumption decisions produce patterns of international trade and specialization. We have also seen that while free trade usually encourages efficient resource use, government intervention or market failailures can cause waste even when all factors of production are fully employed.
 
 We shift our focus and ask: How can economic policy ensure that factors of production are fully employed? And what determines how an economy's capacity to produce goods and services changes over time? To answer these questions, we must understand macroeconomics, the branch of economics that studies how economies' overall levels of employment, production, and growth are determined. Like microeconomics, macroeconomics is concerned with the effective use of scarce resources. But while microeconomics focuses on the economic decisions of individuals, macroeconomics analyzes the behavior of an economy as a whole. In our study of international macroeconomics, we will learn how the interactions of national economies influence the worldwide pattern of macroeconomic activity.
 
@@ -19,11 +14,11 @@ Macroeconomic analysis emphasizes four aspects of economic life that, until now,
 
 4.  Money and the price level: The trade theory you have studied so far is a barter theory, one in which goods are exchanged directly for other goods on the basis of their relative prices. In practice, it is more convenient to use money---a widely acceptable medium of exchange---in transactions, and to quote prices in terms of money. Because money changes hands in virtually every transaction that takes place in a modern economy, fluctuations in the supply of money or in the demand for it can affect both output and employment.
 
-To get a complete picture of the macroeconomic linkages among economies that engage in international trade, we have to master two related and essential tools. 
+To get a complete picture of the macroeconomic linkages among economies that engage in international trade, we have to master two related and essential tools.
 
-- The first of these tools, **national income accounting**, records all the expenditures that contribute to a country’s income and output. 
+-   The first of these tools, **national income accounting**, records all the expenditures that contribute to a country’s income and output.
 
-- The second tool, **balance of payments accounting**, helps us keep track of both changes in a country’s indebtedness to foreigners and the fortunes of its export- and import-competing industries. The balance of payments accounts also show the connection between foreign transactions and national money supplies.
+-   The second tool, **balance of payments accounting**, helps us keep track of both changes in a country’s indebtedness to foreigners and the fortunes of its export- and import-competing industries. The balance of payments accounts also show the connection between foreign transactions and national money supplies.
 
 ## The National Income Accounts
 
