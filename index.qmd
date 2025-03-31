@@ -31,7 +31,7 @@ Increasing returns and trade are essential concept of this course. I will focus 
 -   Lecture 9: Globalization, Trade and the Environment
 -   Lecture 10: Macroeconomic Analysis of Trade Balance
 -   Lecture 11: National Income Accounting and the Balance of Payments
--   Lecture 12: Money, Interest Rates, Exchange Rates and the Federal Reserve
+-   Lecture 12: Money, Interest Rates, Exchange Rates
 
 ##### Section 4: International Macroeconomic Policy
 
@@ -70,7 +70,7 @@ There is no word limit for quiz submission. Most of the quizzes are short and in
 
 *Moinul Islam*, Associate Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan.
 
-Office hours: By appointment, please email:
+Office hours: By appointment, please email
 
 #### trade.moinul\@gmail.com
 
