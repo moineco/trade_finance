@@ -8,7 +8,7 @@ The aim of "International Trade and Finance" course is to give students a compre
 
 Increasing returns and trade are essential concept of this course. I will focus on the Krugman model or the model of trade based on internal economies of scale in production. It shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety. I will also develop a discussion of the various commercial policy instruments, such as tariﬀs, quotas and export subsidies, that countries use to intervene in trade. Next, we will study the economics of preferential trading agreements, and the concluding chapter provides a history of multilateral trading agreements under the aegis of GATT (General Agreement on Tariﬀs and Trade) and its evolution into the World Trade Organization (WTO).
 
-## Syllabus of International Trade and Finance
+## Syllabus of International Economics
 
 (国際貿易・国際金融)
 
@@ -41,7 +41,7 @@ Increasing returns and trade are essential concept of this course. I will focus 
 
 **Course logistic**
 
-Class schedule in the first quarter (1Q):
+Class schedule in the first quarter:
 
 -   Monday from 13:00 to 14:30
 -   Thursday from 13:00 to 14:30
@@ -69,6 +69,8 @@ There is no word limit for quiz submission. Most of the quizzes are short and in
 **Instructor**
 
 *Moinul Islam*, Associate Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan.
+
+Office room: 621, School of Economics and Management, Eikokuji Campus
 
 Office hours: By appointment, please email
 
