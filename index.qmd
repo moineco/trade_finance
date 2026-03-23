@@ -8,9 +8,7 @@ The aim of "International Trade and Finance" course is to give students a compre
 
 Increasing returns and trade are essential concept of this course. I will focus on the Krugman model or the model of trade based on internal economies of scale in production. It shows how countries can gain from trade even in a world where countries have identical endowments and technologies, provided that production functions exhibit increasing returns to scale and consumers have a love for variety. I will also develop a discussion of the various commercial policy instruments, such as tariﬀs, quotas and export subsidies, that countries use to intervene in trade. Next, we will study the economics of preferential trading agreements, and the concluding chapter provides a history of multilateral trading agreements under the aegis of GATT (General Agreement on Tariﬀs and Trade) and its evolution into the World Trade Organization (WTO).
 
-## Syllabus of International Economics
-
-(国際貿易・国際金融)
+## Syllabus of International Trade and Finance
 
 ##### Section 1: Introduction to International Economics
 
@@ -39,39 +37,39 @@ Increasing returns and trade are essential concept of this course. I will focus 
 -   Lecture 14: Developing Countries Growth, Crisis and Reform
 -   Lecture 15: International Trade and Biodiversity
 
-**Course logistic**
+<!-- **Course logistic** -->
 
-Class schedule in the first quarter:
+<!-- Class schedule in the first quarter: -->
 
--   Monday from 13:00 to 14:30
--   Thursday from 13:00 to 14:30
+<!-- -   Monday from 13:00 to 14:30 -->
+<!-- -   Thursday from 13:00 to 14:30 -->
 
-Class room: **A210**, Eikokuji Campus, Kochi University of Technology
+<!-- Class room: **A210**, Eikokuji Campus, Kochi University of Technology -->
 
-**Grading**
+<!-- **Grading** -->
 
-Your grade evaluation will depend on following three factors:
+<!-- Your grade evaluation will depend on following three factors: -->
 
-| Performance                         | Weight |
-|-------------------------------------|--------|
-| a\. Attendance                      | 10%    |
-| b\. Answering the assignments       | 40%    |
-| c\. Final examination/ report (TBA) | 50%    |
+<!-- | Performance                         | Weight | -->
+<!-- |-------------------------------------|--------| -->
+<!-- | a\. Attendance                      | 10%    | -->
+<!-- | b\. Answering the assignments       | 40%    | -->
+<!-- | c\. Final examination/ report (TBA) | 50%    | -->
 
-**Assignment submission**
+<!-- **Assignment submission** -->
 
-Regarding the assignments, you must write between **10** and **200** words in English to get evaluated. Writing with logical explanation and examples are the main criteria of evaluation. If you can create exceptional arguments to support your discussion, I will provide bonus points for the assignment.
+<!-- Regarding the assignments, you must write between **10** and **200** words in English to get evaluated. Writing with logical explanation and examples are the main criteria of evaluation. If you can create exceptional arguments to support your discussion, I will provide bonus points for the assignment. -->
 
-**Quiz submission**
+<!-- **Quiz submission** -->
 
-There is no word limit for quiz submission. Most of the quizzes are short and instantaneous.
+<!-- There is no word limit for quiz submission. Most of the quizzes are short and instantaneous. -->
 
-**Instructor**
+<!-- **Instructor** -->
 
-*Moinul Islam*, Associate Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan.
+<!-- *Moinul Islam*, Associate Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan. -->
 
-Office room: 621, School of Economics and Management, Eikokuji Campus
+<!-- Office room: 621, School of Economics and Management, Eikokuji Campus -->
 
-Office hours: By appointment, please email
+<!-- Office hours: By appointment, please email -->
 
-#### trade.moinul\@gmail.com
+<!-- #### trade.moinul\@gmail.com -->
