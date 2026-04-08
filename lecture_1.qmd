@@ -65,4 +65,8 @@ knitr::kable(df)
 
 -   This increase in global interactions has caused a growth in international trade.
 
+## One sentence punchline
+
+**International trade is the engine of globalization that moves goods and services across borders, while turning separate national economies into one interconnected global system.**
+
 **Text book:** Paul Krugman, Maurice Obstfeld, and Marc Melitz, *International Economics*, 12th edition
