@@ -8,6 +8,10 @@
 
 > Trade can alter the distribution of income between workers and the owners of capital.
 
+- Example of the case for trader remains inside your pocket 
+
+![](figures/L2/Fig_L2_2.jpeg){fig-align="center"}
+
 ## The pattern of trade
 
 -   Some aspects of the pattern of trade are easy to understand. Climate and resources clearly explain why Brazil exports coffee and Saudi Arabia exports oil.
