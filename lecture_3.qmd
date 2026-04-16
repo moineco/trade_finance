@@ -92,4 +92,6 @@ Table 3.3: Example of comparative advantage
 | Mexico | +10           | -30                |
 | Total  | 0             | +70                |
 
+![](figures/What-Is-Absolute-Advantage-Vs-Comparative-Advantage.jpg){fig-align="center"}
+
 **Reference:** Chapter 2- Salvatore, D. (2016). *International Economics*. John Wiley & Sons.
