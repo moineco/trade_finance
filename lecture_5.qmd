@@ -1,4 +1,6 @@
-# The Instruments of Trade Policy: Tariff
+# The Instruments of Trade Policy
+
+## Tariff
 
 This lecture examines the policies that governments adopt toward international trade, policies that involve a number of different actions. These actions include taxes on some international transactions, subsidies for other transactions, legal limits on the value or volume of particular imports.
 
