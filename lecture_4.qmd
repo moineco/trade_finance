@@ -22,6 +22,12 @@
 
 -   For example, if in the absence of trade the United States must give up two-thirds of a unit of cloth to release just enough resources to produce one additional unit of wheat domestically, then the opportunity cost of wheat is two-thirds of a unit of cloth.
 
+Opportunity cost: The value of the next best alternative to any decision you make. For instance, the opportunity cost of watching movie is the hour of studying she gives up to do that. 
+
+Constant opportunity costs: When the opportunity cost of a good remains constant as output of the good increases, which is represented as a PPF curve that is a straight line. 
+
+Increasing opportunity costs: When the opportunity cost of a good increases as output of the good increases, which is represented in a graph as a PPF that is bowed out from the origin.
+
 ## The Production Possibility Frontier (PPF) under constant costs
 
 -   Opportunity costs can be illustrated with the production possibility frontier, or transformation curve. The production possibility frontier is a curve that shows the alternative combinations of the two commodities that a nation can produce by fully utilizing all of its resources with the best technology available to it.
@@ -57,22 +63,88 @@ Table 3.4: Production possibility frontier of Wheat and Cloth production
 
 -   The increased consumption of both wheat and cloth in both nations was made possible by the increased output that resulted as each nation specialized in the production of the commodity of its comparative advantage.
 
-## The Ricardian model of international trade
+## Shapes of Production Possibility Frontier
 
--   The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivity (or technologies) for producing diﬀerent goods and services.
+-   Production Possibilities Frontier (PPF) shows the maximum attainable combinations of two products that may be produced if we use our resources efficiently. Sometimes economists call this Production Possibilities Curve (PPC).
 
--   It shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.
+PPFs can be used to demonstrate:
 
-### The Ricardian theory
+a)  Opportunity costs (trade-offs).
+b)  Efficient production.
+c)  Economic growth
 
--   The Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,
+Understanding opportunity costs - The Shape of PPFs
 
--   Countries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country's opportunity costs of production are higher.
+-   Constant opportunity cost PPFs are
 
--   The model can be understood using a two-country, two-good and one factor of production example.
+    -- Linear lines. Opportunity cost is constant (the same) no matter where you produce.
 
--   Suppose that the two countries are Home($h$) and Foreign($f$) and the two goods are Bread ($b$) and Cloth ($c$).
+    ![Illustrating constant opportunity cost](figures/constant_oc.png)
 
--   The lone factor of production is labor ($L$).
+-   Increasing opportunity cost PPFs are
 
--   The production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.
+    -- Concave. As you keep increasing production, opportunity cost is increasing.
+
+    ![Illustrating increasing opportunity cost](figures/increasing_oc.png)
+
+-   The PPF with increasing costs
+
+It is more realistic for a nation to face increasing rather than constant opportunity costs. Increasing opportunity costs mean that the nation must give up more and more of one commodity to release just enough resources to produce each additional unit of another commodity. Increasing opportunity costs result in a production frontier that is concave from the origin (rather than a straight line).
+
+## The Production Possibilities Frontier and Social Choices
+
+-   Because society has limited resources (e.g., labor, land, capital, raw materials) at any point in time, there is a limit to the quantities of goods and services it can produce.
+
+-   Suppose a society desires two products, healthcare and education. This situation is illustrated by the production possibilities frontier in this graph.
+
+-   A Healthcare vs. Education Production Possibilities Frontier
+
+![Healthcare vs. Education PPF](figures/PPF-ex1.jpg){fig-align="center" width="400"}
+
+-   In the graph, healthcare is shown on the vertical axis and education is shown on the horizontal axis. If the society were to allocate all of its resources to healthcare, it could produce at point A. But it would not have any resources to produce education.
+
+-   If it were to allocate all of its resources to education, it could produce at point F.
+
+-   Alternatively, the society could choose to produce any combination of healthcare and education shown on the production possibilities frontier.
+
+-   Society can choose any combination of the two goods on or inside the PPF. But it does not have enough resources to produce outside the PPF.
+
+-   Suppose society has chosen to operate at point B, and it is considering producing more education.the only way society can obtain more education is by giving up some healthcare. That is the trade-off society faces.
+
+## The shape of the PPF and the law of diminishing returns
+
+-   The law of diminishing returns, which holds that as additional increments of resources are added to a certain purpose, the marginal benefit from those additional increments will decline.
+
+-   For instance, when government spends a certain amount more on reducing crime, for example, the original gains in reducing crime could be relatively large. But additional increases typically cause relatively smaller reductions in crime, and paying for enough police and security to reduce crime to nothing at all would be tremendously expensive.
+
+-   The curvature of the production possibilities frontier shows that as additional resources are added to education, moving from left to right along the horizontal axis, the original gains are fairly large, but gradually diminish. Similarly, as additional resources are added to healthcare, moving from bottom to top on the vertical axis, the original gains are fairly large, but again gradually diminish. In this way, the law of diminishing returns produces the outward-bending shape of the production possibilities frontier.
+
+## Productive Efficiency and Allocative Efficiency
+
+The production possibilities frontier can illustrate two kinds of efficiency: productive efficiency and allocative efficiency. The following graph illustrates these ideas using a production possibilities frontier between healthcare and education.
+
+-   Productive efficiency means that, given the available inputs and technology, it is impossible to produce more of one good without decreasing the quantity that is produced of another good. All choices on the PPF in this graph, including A, B, C, D, and F, display productive efficiency. As a firm moves from any one of these choices to any other, either healthcare increases and education decreases or vice versa. However, any choice inside the production possibilities frontier is productively inefficient and wasteful because it is possible to produce more of one good, the other good, or some combination of both goods.
+
+-   Allocative efficiency means that the particular mix of goods a society produces represents the combination that society most desires. How to determine what a society desires can be a controversial question, and is usually discussed in political science, sociology, and philosophy classes as well as in economics. At its most basic, allocative efficiency means producers supply the quantity of each product that consumers demand. Only one of the productively efficient choices will be the allocatively efficient choice for society as a whole.
+
+![Productive and Allocative Efficiency](figures/PPF-ex2.jpg){fig-align="center" width="400"}
+
+<!-- ## The Ricardian model of international trade -->
+
+<!-- -   The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivity (or technologies) for producing diﬀerent goods and services. -->
+
+<!-- -   It shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making. -->
+
+<!-- ### The Ricardian theory -->
+
+<!-- -   The Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries, -->
+
+<!-- -   Countries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country's opportunity costs of production are higher. -->
+
+<!-- -   The model can be understood using a two-country, two-good and one factor of production example. -->
+
+<!-- -   Suppose that the two countries are Home($h$) and Foreign($f$) and the two goods are Bread ($b$) and Cloth ($c$). -->
+
+<!-- -   The lone factor of production is labor ($L$). -->
+
+<!-- -   The production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement. -->

@@ -71,35 +71,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -256,10 +227,10 @@ window.Quarto = {
   <li><a href="#the-opportunity-cost-theory" id="toc-the-opportunity-cost-theory" class="nav-link" data-scroll-target="#the-opportunity-cost-theory"><span class="header-section-number">4.2</span> The opportunity cost theory</a></li>
   <li><a href="#the-production-possibility-frontier-ppf-under-constant-costs" id="toc-the-production-possibility-frontier-ppf-under-constant-costs" class="nav-link" data-scroll-target="#the-production-possibility-frontier-ppf-under-constant-costs"><span class="header-section-number">4.3</span> The Production Possibility Frontier (PPF) under constant costs</a></li>
   <li><a href="#the-basis-for-and-the-gains-from-trade-under-constant-costs" id="toc-the-basis-for-and-the-gains-from-trade-under-constant-costs" class="nav-link" data-scroll-target="#the-basis-for-and-the-gains-from-trade-under-constant-costs"><span class="header-section-number">4.4</span> The Basis for and the Gains from Trade under Constant Costs</a></li>
-  <li><a href="#the-ricardian-model-of-international-trade" id="toc-the-ricardian-model-of-international-trade" class="nav-link" data-scroll-target="#the-ricardian-model-of-international-trade"><span class="header-section-number">4.5</span> The Ricardian model of international trade</a>
-  <ul class="collapse">
-  <li><a href="#the-ricardian-theory" id="toc-the-ricardian-theory" class="nav-link" data-scroll-target="#the-ricardian-theory"><span class="header-section-number">4.5.1</span> The Ricardian theory</a></li>
-  </ul></li>
+  <li><a href="#shapes-of-production-possibility-frontier" id="toc-shapes-of-production-possibility-frontier" class="nav-link" data-scroll-target="#shapes-of-production-possibility-frontier"><span class="header-section-number">4.5</span> Shapes of Production Possibility Frontier</a></li>
+  <li><a href="#the-production-possibilities-frontier-and-social-choices" id="toc-the-production-possibilities-frontier-and-social-choices" class="nav-link" data-scroll-target="#the-production-possibilities-frontier-and-social-choices"><span class="header-section-number">4.6</span> The Production Possibilities Frontier and Social Choices</a></li>
+  <li><a href="#the-shape-of-the-ppf-and-the-law-of-diminishing-returns" id="toc-the-shape-of-the-ppf-and-the-law-of-diminishing-returns" class="nav-link" data-scroll-target="#the-shape-of-the-ppf-and-the-law-of-diminishing-returns"><span class="header-section-number">4.7</span> The shape of the PPF and the law of diminishing returns</a></li>
+  <li><a href="#productive-efficiency-and-allocative-efficiency" id="toc-productive-efficiency-and-allocative-efficiency" class="nav-link" data-scroll-target="#productive-efficiency-and-allocative-efficiency"><span class="header-section-number">4.8</span> Productive Efficiency and Allocative Efficiency</a></li>
   </ul>
 </nav>
     </div>
@@ -347,6 +318,9 @@ window.Quarto = {
 <li><p>The nation with the lower opportunity cost in the production of a commodity has a comparative advantage in that commodity.</p></li>
 <li><p>For example, if in the absence of trade the United States must give up two-thirds of a unit of cloth to release just enough resources to produce one additional unit of wheat domestically, then the opportunity cost of wheat is two-thirds of a unit of cloth.</p></li>
 </ul>
+<p>Opportunity cost: The value of the next best alternative to any decision you make. For instance, the opportunity cost of watching movie is the hour of studying she gives up to do that.</p>
+<p>Constant opportunity costs: When the opportunity cost of a good remains constant as output of the good increases, which is represented as a PPF curve that is a straight line.</p>
+<p>Increasing opportunity costs: When the opportunity cost of a good increases as output of the good increases, which is represented in a graph as a PPF that is bowed out from the origin.</p>
 </section>
 <section id="the-production-possibility-frontier-ppf-under-constant-costs" class="level2" data-number="4.3">
 <h2 data-number="4.3" class="anchored" data-anchor-id="the-production-possibility-frontier-ppf-under-constant-costs"><span class="header-section-number">4.3</span> The Production Possibility Frontier (PPF) under constant costs</h2>
@@ -440,25 +414,93 @@ window.Quarto = {
 <li><p>The increased consumption of both wheat and cloth in both nations was made possible by the increased output that resulted as each nation specialized in the production of the commodity of its comparative advantage.</p></li>
 </ul>
 </section>
-<section id="the-ricardian-model-of-international-trade" class="level2" data-number="4.5">
-<h2 data-number="4.5" class="anchored" data-anchor-id="the-ricardian-model-of-international-trade"><span class="header-section-number">4.5</span> The Ricardian model of international trade</h2>
+<section id="shapes-of-production-possibility-frontier" class="level2" data-number="4.5">
+<h2 data-number="4.5" class="anchored" data-anchor-id="shapes-of-production-possibility-frontier"><span class="header-section-number">4.5</span> Shapes of Production Possibility Frontier</h2>
 <ul>
-<li><p>The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivity (or technologies) for producing diﬀerent goods and services.</p></li>
-<li><p>It shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making.</p></li>
+<li>Production Possibilities Frontier (PPF) shows the maximum attainable combinations of two products that may be produced if we use our resources efficiently. Sometimes economists call this Production Possibilities Curve (PPC).</li>
 </ul>
-<section id="the-ricardian-theory" class="level3" data-number="4.5.1">
-<h3 data-number="4.5.1" class="anchored" data-anchor-id="the-ricardian-theory"><span class="header-section-number">4.5.1</span> The Ricardian theory</h3>
+<p>PPFs can be used to demonstrate:</p>
+<ol type="a">
+<li>Opportunity costs (trade-offs).</li>
+<li>Efficient production.</li>
+<li>Economic growth</li>
+</ol>
+<p>Understanding opportunity costs - The Shape of PPFs</p>
 <ul>
-<li><p>The Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries,</p></li>
-<li><p>Countries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country’s opportunity costs of production are higher.</p></li>
-<li><p>The model can be understood using a two-country, two-good and one factor of production example.</p></li>
-<li><p>Suppose that the two countries are Home(<span class="math inline">\(h\)</span>) and Foreign(<span class="math inline">\(f\)</span>) and the two goods are Bread (<span class="math inline">\(b\)</span>) and Cloth (<span class="math inline">\(c\)</span>).</p></li>
-<li><p>The lone factor of production is labor (<span class="math inline">\(L\)</span>).</p></li>
-<li><p>The production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement.</p></li>
+<li><p>Constant opportunity cost PPFs are</p>
+<p>– Linear lines. Opportunity cost is constant (the same) no matter where you produce.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/constant_oc.png" class="img-fluid figure-img"></p>
+<figcaption>Illustrating constant opportunity cost</figcaption>
+</figure>
+</div></li>
+<li><p>Increasing opportunity cost PPFs are</p>
+<p>– Concave. As you keep increasing production, opportunity cost is increasing.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/increasing_oc.png" class="img-fluid figure-img"></p>
+<figcaption>Illustrating increasing opportunity cost</figcaption>
+</figure>
+</div></li>
+<li><p>The PPF with increasing costs</p></li>
 </ul>
-
-
+<p>It is more realistic for a nation to face increasing rather than constant opportunity costs. Increasing opportunity costs mean that the nation must give up more and more of one commodity to release just enough resources to produce each additional unit of another commodity. Increasing opportunity costs result in a production frontier that is concave from the origin (rather than a straight line).</p>
 </section>
+<section id="the-production-possibilities-frontier-and-social-choices" class="level2" data-number="4.6">
+<h2 data-number="4.6" class="anchored" data-anchor-id="the-production-possibilities-frontier-and-social-choices"><span class="header-section-number">4.6</span> The Production Possibilities Frontier and Social Choices</h2>
+<ul>
+<li><p>Because society has limited resources (e.g., labor, land, capital, raw materials) at any point in time, there is a limit to the quantities of goods and services it can produce.</p></li>
+<li><p>Suppose a society desires two products, healthcare and education. This situation is illustrated by the production possibilities frontier in this graph.</p></li>
+<li><p>A Healthcare vs.&nbsp;Education Production Possibilities Frontier</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/PPF-ex1.jpg" class="img-fluid figure-img" width="400"></p>
+<figcaption>Healthcare vs.&nbsp;Education PPF</figcaption>
+</figure>
+</div>
+<ul>
+<li><p>In the graph, healthcare is shown on the vertical axis and education is shown on the horizontal axis. If the society were to allocate all of its resources to healthcare, it could produce at point A. But it would not have any resources to produce education.</p></li>
+<li><p>If it were to allocate all of its resources to education, it could produce at point F.</p></li>
+<li><p>Alternatively, the society could choose to produce any combination of healthcare and education shown on the production possibilities frontier.</p></li>
+<li><p>Society can choose any combination of the two goods on or inside the PPF. But it does not have enough resources to produce outside the PPF.</p></li>
+<li><p>Suppose society has chosen to operate at point B, and it is considering producing more education.the only way society can obtain more education is by giving up some healthcare. That is the trade-off society faces.</p></li>
+</ul>
+</section>
+<section id="the-shape-of-the-ppf-and-the-law-of-diminishing-returns" class="level2" data-number="4.7">
+<h2 data-number="4.7" class="anchored" data-anchor-id="the-shape-of-the-ppf-and-the-law-of-diminishing-returns"><span class="header-section-number">4.7</span> The shape of the PPF and the law of diminishing returns</h2>
+<ul>
+<li><p>The law of diminishing returns, which holds that as additional increments of resources are added to a certain purpose, the marginal benefit from those additional increments will decline.</p></li>
+<li><p>For instance, when government spends a certain amount more on reducing crime, for example, the original gains in reducing crime could be relatively large. But additional increases typically cause relatively smaller reductions in crime, and paying for enough police and security to reduce crime to nothing at all would be tremendously expensive.</p></li>
+<li><p>The curvature of the production possibilities frontier shows that as additional resources are added to education, moving from left to right along the horizontal axis, the original gains are fairly large, but gradually diminish. Similarly, as additional resources are added to healthcare, moving from bottom to top on the vertical axis, the original gains are fairly large, but again gradually diminish. In this way, the law of diminishing returns produces the outward-bending shape of the production possibilities frontier.</p></li>
+</ul>
+</section>
+<section id="productive-efficiency-and-allocative-efficiency" class="level2" data-number="4.8">
+<h2 data-number="4.8" class="anchored" data-anchor-id="productive-efficiency-and-allocative-efficiency"><span class="header-section-number">4.8</span> Productive Efficiency and Allocative Efficiency</h2>
+<p>The production possibilities frontier can illustrate two kinds of efficiency: productive efficiency and allocative efficiency. The following graph illustrates these ideas using a production possibilities frontier between healthcare and education.</p>
+<ul>
+<li><p>Productive efficiency means that, given the available inputs and technology, it is impossible to produce more of one good without decreasing the quantity that is produced of another good. All choices on the PPF in this graph, including A, B, C, D, and F, display productive efficiency. As a firm moves from any one of these choices to any other, either healthcare increases and education decreases or vice versa. However, any choice inside the production possibilities frontier is productively inefficient and wasteful because it is possible to produce more of one good, the other good, or some combination of both goods.</p></li>
+<li><p>Allocative efficiency means that the particular mix of goods a society produces represents the combination that society most desires. How to determine what a society desires can be a controversial question, and is usually discussed in political science, sociology, and philosophy classes as well as in economics. At its most basic, allocative efficiency means producers supply the quantity of each product that consumers demand. Only one of the productively efficient choices will be the allocatively efficient choice for society as a whole.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/PPF-ex2.jpg" class="img-fluid figure-img" width="400"></p>
+<figcaption>Productive and Allocative Efficiency</figcaption>
+</figure>
+</div>
+<!-- ## The Ricardian model of international trade -->
+<!-- -   The Ricardian model of international trade states that the main reason why countries trade is that diﬀerent countries have diﬀerent productivity (or technologies) for producing diﬀerent goods and services. -->
+<!-- -   It shows how countries can gain from exporting goods that they are relatively better at making and importing goods that they are relatively worse at making. -->
+<!-- ### The Ricardian theory -->
+<!-- -   The Ricardian theory of comparative advantage is based on the idea that if there are technological diﬀerences in the production of goods across countries, -->
+<!-- -   Countries can gain from trade by exporting goods for which the country has a lower opportunity cost of production and importing goods for which the country's opportunity costs of production are higher. -->
+<!-- -   The model can be understood using a two-country, two-good and one factor of production example. -->
+<!-- -   Suppose that the two countries are Home($h$) and Foreign($f$) and the two goods are Bread ($b$) and Cloth ($c$). -->
+<!-- -   The lone factor of production is labor ($L$). -->
+<!-- -   The production of one unit of each good in each country requires a certain amount of labor which is called the unit labor requirement. -->
+
+
 </section>
 
 </main> <!-- /main -->

@@ -10,7 +10,7 @@
 
 ## Lecture 2: Real-world evidence
 
-- The case for trader remains inside your pocket 
+-   The case for trader remains inside your pocket
 
 ![](figures/L2/Fig_L2_2.jpeg){fig-align="center"}
 
