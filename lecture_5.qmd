@@ -26,21 +26,39 @@ However, the importance of tariffs has declined in modern times because modern g
 
 Tariff barriers create obstacles to free trade
 
--   1.  Reduce the prospect of market access
+-   
 
--   2.  Reduce the volume of imports and exports
+    1.  Reduce the prospect of market access
 
--   3.  Make imported goods more expensive
+-   
 
--   4.  Increase the production and consumption of domestic goods
+    2.  Reduce the volume of imports and exports
 
--   5.  Customers are required to pay higher price for the same good in domestic market
+-   
 
--   6.  Protect domestic industries and increase government revenues of importing country
+    3.  Make imported goods more expensive
 
--   7.  Producers in domestic industry would feel better off due to imposition of tariff
+-   
 
--   8.  It prevents countries from enjoying gains from international trade arising out comparative cost advantage of other countries
+    4.  Increase the production and consumption of domestic goods
+
+-   
+
+    5.  Customers are required to pay higher price for the same good in domestic market
+
+-   
+
+    6.  Protect domestic industries and increase government revenues of importing country
+
+-   
+
+    7.  Producers in domestic industry would feel better off due to imposition of tariff
+
+-   
+
+    8.  It prevents countries from enjoying gains from international trade arising out comparative cost advantage of other countries
+
+![](figures/tariff-chart.jpg){fig-align="center"}
 
 ### In a world of trade tensions, what do tariffs really do?
 
@@ -48,13 +66,13 @@ Trade policy tensions are escalating fast. In recent months, several large econo
 
 ![](figures/tafiff_trump.png){fig-align="center"}
 
-- At their core, tariffs are simple: they **raise the domestic price of imported goods**. But their effects ripple through the economy in complex ways — altering prices, wages, exchange rates and trade patterns. As governments revisit this powerful lever, understanding the economic mechanisms at play has never been more important.
+-   At their core, tariffs are simple: they **raise the domestic price of imported goods**. But their effects ripple through the economy in complex ways — altering prices, wages, exchange rates and trade patterns. As governments revisit this powerful lever, understanding the economic mechanisms at play has never been more important.
 
-- At the most basic level, a tariff is a tax on imported products. It drives a wedge between the world price and the domestic price. For instance, if a 10 per cent tariff is imposed on a product with a world price of USD 100, the domestic price becomes USD 110. The difference — USD 10 — is collected as **tariff revenue, which the government can use to finance its expenditures**.
+-   At the most basic level, a tariff is a tax on imported products. It drives a wedge between the world price and the domestic price. For instance, if a 10 per cent tariff is imposed on a product with a world price of USD 100, the domestic price becomes USD 110. The difference — USD 10 — is collected as **tariff revenue, which the government can use to finance its expenditures**.
 
-- Tariffs can also **affect the world price of a product**, particularly when they are imposed by a large economy. The logic is that higher domestic prices reduce domestic demand, which in turn lowers world demand, and thus world prices. In our example, the world price might fall to USD 95 after the tariff is imposed, resulting in a domestic price of USD 104.50. In this case, part of the tariff is effectively paid by foreign producers.
+-   Tariffs can also **affect the world price of a product**, particularly when they are imposed by a large economy. The logic is that higher domestic prices reduce domestic demand, which in turn lowers world demand, and thus world prices. In our example, the world price might fall to USD 95 after the tariff is imposed, resulting in a domestic price of USD 104.50. In this case, part of the tariff is effectively paid by foreign producers.
 
-- Tariffs **do not just affect imports – they also affect exports**. One direct channel is through higher prices for intermediate goods, which undermine the competitiveness of exporting firms; but broader general equilibrium effects are also important. Tariffs allow import-competing sectors to expand, which draws resources — such as labor, capital and land — away from other sectors, including exporting sectors.
+-   Tariffs **do not just affect imports – they also affect exports**. One direct channel is through higher prices for intermediate goods, which undermine the competitiveness of exporting firms; but broader general equilibrium effects are also important. Tariffs allow import-competing sectors to expand, which draws resources — such as labor, capital and land — away from other sectors, including exporting sectors.
 
 <!-- ## Heckscher--Ohlin model of trade -->
 
