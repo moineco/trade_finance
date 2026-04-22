@@ -26,39 +26,57 @@ However, the importance of tariffs has declined in modern times because modern g
 
 Tariff barriers create obstacles to free trade
 
--   
+-   1.  Reduce the prospect of market access
 
-    1.  Reduce the prospect of market access
+-   2.  Reduce the volume of imports and exports
 
--   
+-   3.  Make imported goods more expensive
 
-    2.  Reduce the volume of imports and exports
+-   4.  Increase the production and consumption of domestic goods
 
--   
+-   5.  Customers are required to pay higher price for the same good in domestic market
 
-    3.  Make imported goods more expensive
+-   6.  Protect domestic industries and increase government revenues of importing country
 
--   
+-   7.  Producers in domestic industry would feel better off due to imposition of tariff
 
-    4.  Increase the production and consumption of domestic goods
+-   8.  It prevents countries from enjoying gains from international trade arising out comparative cost advantage of other countries
 
--   
+### An Economic Analysis of Protectionism 
 
-    5.  Customers are required to pay higher price for the same good in domestic market
-
--   
-
-    6.  Protect domestic industries and increase government revenues of importing country
-
--   
-
-    7.  Producers in domestic industry would feel better off due to imposition of tariff
-
--   
-
-    8.  It prevents countries from enjoying gains from international trade arising out comparative cost advantage of other countries
+Reference: <https://www.aei.org/carpe-diem/an-economic-analysis-of-protectionism-clearly-shows-that-tariffs-make-us-poorer-not-greater/>
 
 ![](figures/tariff-chart.jpg){fig-align="center"}
+
+The chart above helps us understand very clearly and simply what happens economically to a country when it moves from: a) free trade with the rest of the world, with consumers paying the world price (P world) for a given product like Good X, to a b) protectionist trade policies like the ones Trump is proposing and a new higher price (P tariff) that includes a tariff (tax) imposed by the government that reduces the amount of trade that takes place.
+
+#### A. Economic outcomes from a tariff on Good X:
+
+- 1. P_world is the price Americans pay for Good X before a tariff, and at that world price U.S consumers purchase Q4 units of Good X. Most of those units are imported, with domestic producers supplying only Q1 units. The Quantity of Imports (without tariff) is represented by the dashed line at the bottom of the chart above and is also the distance between Q1 and Q4.
+
+- 2. After a tariff is imposed, P_tariff is the new higher price in the U.S. and consumers respond to the higher price by reducing their purchases of Good X from Q4 to Q3. Also as a direct result of the tariff, the output of domestic producers expands from Q1 to Q2, which is an obvious benefit to American producers, who are now selling more of Good X at a higher price. Foreign producers lose market share and imports decrease to an amount represented by the distance between Q2 and Q3 — see “Quantity of Imports (with tariff)” and dashed line below graph, compared to the previous larger volume represented by the distance between Q1 and Q4 (see dashed line at bottom of graph).
+
+U.S. consumers are made worse off by the tariff because they are paying higher prices and buying less of Good X, and b) U.S. producers are made better off because they are selling more units of Good X at a higher price. So we can conclude that there are obvious economic costs to tariffs that are imposed on U.S. consumers at the same time that there are benefits from tariffs captured by U.S. producers.
+
+#### B. Analysis of the economic gains and losses from tariffs:
+
+- 3. As a result of higher prices for Good X and fewer of those goods purchased, American consumers as a group will be worse off by the area in the graph represented by (a + b + c + d), which is a measure of the loss of “consumer surplus” from the tariff. That is, before the tariff, that area (a + b + c + d) represented an economic gain to consumers at the lower price in the form of what we call “consumer surplus.” Now at the higher price because of the tariff, that amount of economic gain has been taken away from consumers, and therefore that area (a + b + c + d) represents graphically the economic losses to consumers, and is described as a loss of “consumer surplus.”
+
+- 4. American producers will benefit from the tariff and will gain additional “producer surplus” by an amount represented graphically by the yellow shaded area a, because producers now have increased sales (from Q1 to Q2) of their product at a higher price. That gain in producer surplus could be reflected in greater sales, market share and profits.
+
+- 5. What about the U.S. government? It will now collect tariff (tax) revenue on imports of Good X in the amount represented by the area c in the graph (and labeled “Tax Revenue”), which is the product of the quantity of imports of Good X (Q3-Q2) times the tariff per unit. If we assume that the tariff revenue in area c will be redistributed efficiently to the economy, we could treat that area as an economic gain. This point could obviously be argued, and there might be other objections to the transfer of resources from the private sector to the government through the tariff, but we’ll overlook those issues for now.
+
+#### C. So when you add it all up
+
+- Costs of Tariffs: American consumers are made worse off by the area -(a + b + c + d). (Note: This area could be quantified as a specific dollar amount if we had information about the supply and demand for Good X.)
+
+- Benefits of Tariffs: U.S. producers are better off by area a, and the government has gained revenue represented  by the area c.
+
+- Net Economic Loss from Tariffs: The costs of the tariff -(a + b + c + d) to U.S. consumers are greater than the benefits of the tariff to producers and the government (a + c), for a net economic or welfare loss of areas -(b) + -(d), — those are the costs to the economy that result from the tariff that are NOT offset by any benefits. In other words, the two pink triangles labeled “Societal Loss” (and labeled b and d) in the chart above are the amount of losses to American consumers and the economy (society) from the protectionist tariffs that are NOT offset by a gain to producers or government, and represent what economists call the “deadweight loss” or “deadweight cost” of protectionism.
+
+- Bottom Line: An economic analysis of protectionism tells us that the deadweight losses that result from tariffs are guaranteed to make the economy worse off on net and guaranteed to reduce our economic welfare, which would be reflected in a loss of U.S. jobs, and a reduction of wealth, prosperity, and national income. You could argue about the size of the deadweight losses moving from free trade to protectionism, but you can’t argue that they don’t exist.
+
+Therefore, despite the naive proclamations from Trump about “making America great again” with protectionism and tariffs, the economic analysis above demonstrates that protective tariffs make the country imposing them worse off, on net, and that proposition is supported by 200 years of economic theory and hundreds of empirical studies. That is why economists almost universally support free trade and oppose tariffs and trade protection – because economic analysis and empirical evidence clearly show that there are always net economic losses from protectionism.
 
 ### In a world of trade tensions, what do tariffs really do?
 
